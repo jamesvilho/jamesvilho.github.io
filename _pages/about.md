@@ -163,3 +163,12 @@ My research intersts include:
   <li><em>2016.11 - 2018.03</em>, Assistant Professor, School of Computer Science and Technology, Harbin Institute of Technology Shenzhen Graduate School</li>
   <li><em>2010.10 - 2011.04</em>, Engineer, New Tech Department, Hewlett Packard</li>
 </ul>
+
+<span class='anchor' id='-rp'></span>
+
+<h1 id="-Research Projects">🔍 Research Projects</h1>
+<ul>
+  <li><em>2017.09 - 2019.06</em>, the Shenzhen Science and Technology Innovation Council, PI</li>
+  <li><em>2018.01 - 2020.12</em>, the National Natural Science Foundation of China, PI</li>
+</ul>
+<span class='anchor' id='-rpg'></span>
