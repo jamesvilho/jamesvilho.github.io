@@ -16,155 +16,150 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+Currently, I am an associate professor at the School of Computer Science, Harbin Institute of Technology (Shenzhen). I have already published 80+ academic papers. <a href='https://scholar.google.com/citations?user=Sl0BI_IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
-I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree. I have published 20+ papers with 
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-
-My research interest includes: 
-- Instrumentation
-- Nondestructive testing (NDT)
-- Magnetic flux leakage (MFL) detection
-- Eddy current testing (ECT)
-- Electromagnetic measurements
-- Magnetic sensors
-- Nondestructive testing equipment
-
-
-# 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
- 
-
-# 📝 Publications 
-
-### English 
----
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*. 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[HTML]](https://dx.doi.org/10.3390/s22093587) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[HTML]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[PDF]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
-[[HTML]](https://dx.doi.org/10.3233/JAE-209356) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[PDF]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
-
-</div>
-</div>
-
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15(20): 7362. (JCR:Q1; IF:3.748)  
-[[HTML]](https://dx.doi.org/10.3390/ma15207362) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[PDF]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
-
-
-- Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  
-[[HTML]](https://dx.doi.org/10.3390/app12199703) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf) [[PDF]](/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf)
-
-- Jikai Zhang, Yuewen Huang, `Jian Tang`, Fangfang Zhou, Yihua Kang, Bo Feng. Inspection of Cracks in the Piston Rod of a Hydraulic Cylinder Using Injected Alternating Current-Field Measurement. *Water*. 2022 14(17):2736. (JCR:Q2; IF:3.530)  
-[[HTML]](https://dx.doi.org/10.3390/w14172736) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf) [[PDF]](/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf)
-
-
--	Shenghan Wang, Bo Feng, `Jian Tang`, Yanting Chen, Yihua Kang. A Novel AC-MFL Probe Based on the Parallel Cables Magnetizing Technique. *Journal of Nondestructive Evaluation*. 2022, 41(2): 39. (JCR:Q2; IF:1.995)  
-[[HTML]](https://dx.doi.org/10.1007/s10921-022-00872-3) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf) [[PDF]](/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf)
-
-
--	Rongbiao Wang, Yihua Kang, `Jian Tang`, Bo Feng, Yongle Deng. A Novel Magnetic Flux Leakage Testing Method Based on AC and DC Composite Magnetization. *Journal of Nondestructive Evaluation*. 2020, 39(4): 84. (JCR:Q2; IF:1.995)  
-[[HTML]](https://dx.doi.org/10.1007/s10921-020-00730-0) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf) [[PDF]](/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf)
-
-
-- Rongbiao Wang, `Jian Tang`, Zhiyang Deng, Yihua Kang. Motion induced eddy current based testing method for the detection of circumferential defects under circumferential magnetization. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 501–508. (JCR:Q4; IF:0.706)  
-[[HTML]](https://dx.doi.org/10.3233/JAE-209357) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf) [[PDF]](/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf)
-
-
--	Rongbiao Wang, Zhiyang Deng, Rui Liu, Yihua Kang, Jikai Zhang, `Jian Tang`. A large lift-off nondestructive testing method based on the interaction between AC magnetic field and MFL field. *23rd International Workshop on Electromagnetic Nondestructive Evaluation*, ENDE 2018. Detroit, MI, United States: IOS Press. 2019: 44–49. (EI)  
-[[HTML]](https://dx.doi.org/10.3233/SAEM190009) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf) [[PDF]](/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf)
-
-
-- Xiaoming Huang, Jianbo Wu, Jie Wang, Rongbiao Wang, `Jian Tang`, Yihua Kang, Hui Fang. Signal Characteristics of Circular Induction Coil Influenced by Scanning Spatial Location in MFL. *Materials Evaluation*. 2018, 76(12):1647–59. (JCR:Q4; IF:0.554)  
-[[HTML]](https://ndtlibrary.asnt.org/2018/SignalCharacteristicsofCircularInductionCoilInfluencedbyScanningSpatialLocationinMFL) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf) [[PDF]](/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf)
-
-
-
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu. A new micro magnetic bridge probe in magnetic flux leakage for detecting micro-cracks. *Journal of Nondestructive Evaluation*. 2018, 37(3): 46. (JCR:Q2; IF:1.995)  
-[[HTML]](https://dx.doi.org/10.1007/s10921-018-0499-8) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf) [[PDF]](/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf)
-
-
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. *IEEE Transactions on Magnetics*. 2018, 54(8): 1–10. (JCR:Q3; IF:1.700)  
-[[HTML]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf) [[PDF]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
-
-### Chinese
----
-
--	`Jian Tang`, Rongbiao Wang, Yihua Kang. Magnetic flux leakage nondestructive testing with large lift-off. *Nondestructive Testing*. 2022,44(4): 67.  
-唐健, 王荣彪, 康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67.  
-[[HTML]](https://dx.doi.org/10.11973/wsjc202204000) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
-
--	Bocheng Liu, `Jian Tang*`, Rongbiao Wang, Wenchao Ye, Yihua Kang. Magnetic Flux Leakage Testing Method of Bearing Roller Micro-cracks Based on TMR. *Instrument Technique and Sensor*. 2021(12): 111-114+118.   
-刘伯承, 唐健\*, 王荣彪, 叶文超, 康宜华. 基于TMR的轴承滚子微细裂纹漏磁检测方法. *仪表技术与传感器*. 2021(12): 111-114+118.  
-[[HTML]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
--	Shenghan Wang, `Jian Tang*`, Jun Liu, Wenyu Chen, Yihua Kang. Array Magnetic Flux Leakage Testing Method and System Based on Twin-Robot Operation for Bearings. *Bearing*. 2021(01): 54-58+65.  
-汪圣涵, 唐健\*, 刘军, 陈文宇, 康宜华. 双机械手操作的轴承阵列漏磁检测方法与系统. *轴承*. 2021(01): 54-58+65.  
-[[HTML]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.01.011) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[PDF]](/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
-
--	Yongle Deng, Rongbiao Wang, `Jian Tang`, Shenghan Wang, Yihua Kang. Magnetic bridge type displacement sensor array in square pulse magnetization. *Chinese Journal of Scientific Instrument*. 2021: 1–10. (EI)  
-邓永乐, 王荣彪, 唐健, 汪圣涵, 康宜华. 基于脉冲磁化的阵列磁桥式位移传感器. *仪器仪表学报*. 2021: 1–10.  
-[[HTML]](https://dx.doi.org/10.19650/j.cnki.cjsi.J2107388) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf) [[PDF]](/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf)  
-
-
--	Rongbiao Wang, Yihua Kang, Yongle Deng, Biyao Wang, Shenghan Wang, `Jian Tang`. Detection Method for Internal Wall Corrosion of Drill Pipes Based on MFL Testing under AC and DC Magnetization. *China Mechanical Engineering* . 2020: 1–6. (EI)  
-王荣彪, 康宜华, 邓永乐, 王碧瑶, 汪圣涵, 唐健. 钻杆内壁腐蚀的交直流复合磁化漏磁检测方法. *中国机械工程*. 2020: 1–6.  
-[[HTML]](https://dx.doi.org/10.3969/j.issn.1004-132X.2021.02.001) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
--	Bocheng Liu, Zhaoqi Duan, Chun Jiang, `Jian Tang`, Yihua Kang. Magnetic flux leakage detection of bearing roller microcracks. *Bearing*. 2021(08): 32–38.  
-刘伯承, 唐健, 王荣彪, 康宜华, 余平. 基于交流通电的钢球微细裂纹电磁检测方法. *轴承*. 2021(08): 32–38.  
-[[HTML]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.08.007) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) 
-
--	Bocheng Liu, `Jian Tang`, Rongbiao Wang, Yihua Kang, Ping Yu. Electromagnetic Detection Method for Microcracks on Steel Balls Based on Alternating Current Energization. *Nondestructive Testing*. 2022, 44(11): 1-5.  
-刘伯承, 段兆祺, 姜春, 唐健, 康宜华. 轴承滚子微细裂纹的漏磁检测. *无损检测*, 2022, 44(11): 1-5.  
-[[HTML]](https://dx.doi.org/10.11973/wsjc202211001) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf) [[PDF]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf)  
-
-
--	Jie Meng, Erlong Li, `Jian Tang`, Yihua Kang. High Speed Magnetic Flux Leakage Detection System for Microcracks on Bearing Rings. *Bearing*. 2018(08): 66–70.  
-孟杰, 李二龙, 唐健, 康宜华. 轴承套圈裂纹高速漏磁检测系统. *轴承*. 2018(08): 66–70.  
-[[HTML]](https://dx.doi.org/10.19533/j.issn1000-3762.2018.08.015) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf) [[PDF]](/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf)  
-
-
--	Hang Yang, Shenghan Wang, `Jian Tang`, Yihua Kang. Automatic eddy current testing method and system for camshaft. *Nondestructive Testing*. 2020, 42(11): 61.  
-杨航, 汪圣涵, 唐健, 康宜华. 凸轮轴的自动化涡流检测方法与系统. *无损检测*. 2020, 42(11): 61.  
-[[HTML]](https://dx.doi.org/10.11973/wsjc202011013) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[PDF]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
-
-
-
-
-# 🏅 Honors and Awards
-- *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
-- *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
-- *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
-
-# 💬 Conferences
-
-- *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral.
-- *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
-- *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
-
-
-# 🏭 Internships
-- *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
-- *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
-- *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
+My research intersts include:
+- Chaotic theory and applicaitons
+- Multimedia Security
+- Data Hiding
+- Image Processing
+- AI Security
   
+
+
+<span class='anchor' id='-xl'></span>
+
+<h1 id="-Academic Qualifications">🎓 Academic Qualifications</h1>
+<ul>
+  <li><em>2013.09 - 2016.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> Ph.D., Department of Computer and Information Science, University of Macau</li>
+  <li><em>2011.09 - 2013.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> M.S., Department of Computer and Information Science, University of Macau</li>
+  <li><em>2007.09 - 2011.06</em>, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/CQU_logo.png" width="23pt" /></a> B.S., Department of Software Engineering, Chongqing University</li>
+</ul>
+ 
+<span class='anchor' id='-lwzl'></span>
+
+<h1 id="-Academic Qualifications">📝 Academic Qualifications</h1>
+
+<h3 id="Journal Papers">Journal Papers</h3>
+<li id="paperdistance">  Weijia Cao, Hang Cai, <B>Zhongyun Hua*</B>,  "n-Dimensional Chaotic Map with Application in Secure Communication", <B><I>Chaos Solitons & Fractals,</I></B>, Vol. 163, artcle no. 112519, 2022. <a href="https://www.sciencedirect.com/science/article/pii/S0960077922007196" target="_blank">[doi]</a><a href="..\wp-content\themes\homepage\Paper_PDF\n-Dimensional Chaotic Map with application.pdf" target="_blank">[pdf]</a></li>
+<li id="paperdistance">   <B>Zhongyun Hua</B>, Yongyong Chen, Han Bao, Yicong Zhou, "Two-Dimensional Parametric Polynomial Chaotic System", <B><I>IEEE Transactions on Systems, Man, and Cybernetics: Systems</I></B>, in press, 2021. <a href="https://doi.org/10.1109/TSMC.2021.3096967">[doi]</a>
+<li id="paperdistance">   Kexin Li, Han Bao, Houzhen Li, Jun Ma, <B>Zhongyun Hua*</B>, Bo-Cheng Bao, "memristive Rulkov Neuron Model with Magnetic Induction Effects", <B><I>IEEE Transactions on Industrial Informatics</I></B>, in press, 2021. <a href="https://doi.org/10.1109/TII.2021.3086819">[doi]</a>
+<li id="paperdistance">   Jianming Cai, Han Bao, Quan Xu, <B>Zhongyun Hua, Bocheng Bao</B>, "Smooth nonlinear fitting scheme for analog multiplierless implementation of Hindmarsh–Rose neuron model", <B><I>Nonlinear Dynamics</I></B>, vol. 104, pp. 4379-4389, 2021. <a href="https://link.springer.com/article/10.1007/s11071-021-06453-9">[doi]</a>
+<li id="paperdistance">   Han Bao, <B>Zhongyun Hua*</B>, Houzhen Li, Mo Chen, Bocheng Bao, "Discrete Memristor Hyperchaotic Maps", <B><I>IEEE Transactions on Circuits and Systems I: Regular Papers</I></B>, in press, 2021. <a href="https://doi.org/10.1109/TCSI.2021.3082895">[doi]</a>
+<li id="paperdistance">   <B>Zhongyun Hua*</B>, Zhihua Zhu, Yongyong Chen, and Yuanman Li, "Color image encryption using orthogonal Latin squares and a new 2D chaotic system", <B><I>Nonlinear Dynamics</I></B>, vol. 104, pp. 4505-4522, 2021. <a href="https://link.springer.com/article/10.1007/s11071-021-06472-6">[doi]</a><a href="..\wp-content\themes\homepage\SourceCode\S-boxEncryption_2021ND.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance">   Yongyong Chen, Shuqin Wang, Chong Peng, <B>Zhongyun Hua*</B>, and Yicong Zhou, "Generalized Nonconvex Low-Rank Tensor Approximation for Multi-View Subspace Clustering", <B><I>IEEE Transactions on Image Processing</I></B>, vol. 30, pp. 4022-4035, 2021. <a href="https://doi.org/10.1109/TIP.2021.3068646">[doi]</a>
+<li id="paperdistance">   BAO Han, <B>HUA ZhongYun</B>, LIU WenBo and BAO BoCheng, and Xi Zhang, "Discrete memristive neuron model and its interspike interval-encoded application in image encryption", <B><I>Science China Technological Sciences</I></B>, in press, 2021. <a href="https://doi.org/10.1109/TCSII.2021.3072393">[doi]</a>
+<li id="paperdistance">   Bocheng Bao, Kang Rong, Houzhen Li , IEEE, Kexin Li, <B>Zhongyun Hua</B>, and Xi Zhang, "Memristor-Coupled Logistic Hyperchaotic Map", <B><I>IEEE Transactions on Circuits and Systems II: Express Briefs</I></B>, vol. 68, no. 8, pp. 2992-2996, 2021. <a href="https://link.springer.com/article/10.1007/s11431-021-1845-x">[doi]</a>
+<li id="paperdistance">   Yongyong Chen, Xiaolin Xiao, <B>Zhongyun Hua</B>, and Yicong Zhou, "Adaptive Transition Probability Matrix Learning for Multi-view Spectral Clustering", <B><I>IEEE Transactions on Neural Networks and Learning Systems</I></B>, in press, 2021. <a href="https://doi.org/10.1109/TNNLS.2021.3059874">[doi]</a>
+<li id="paperdistance">  <B>Zhongyun Hua*</B>,  Jiaxin Li, Yongyong Chen, Shuang Yi, "Design and application of an S-box using complete Latin square", <B><I>Nonlinear Dynamics</I></B>, vol. 104, pp. 807–825, 2021. <a href="https://doi.org/10.1007/s11071-021-06308-3">[doi]</a><a href="..\wp-content\themes\homepage\SourceCode\LSM-CIEA_2021ND.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance">  <B>Zhongyun Hua*</B>, Kuiyuan Zhang, Yuanman Li, Yicong Zhou, "Visually secure image encryption using adaptive-thresholding sparsification and parallel compressive sensing", <B><I>Signal Processing</I></B>, vol. 183, article no. 107998, 2021. <a href="https://doi.org/10.1016/j.sigpro.2021.107998">[doi]</a>
+<li id="paperdistance">  Xiaolin Xiao, Yuejiao Gong, <B>Zhongyun Hua*</B>, Weineng Chen, "On Reliable Multi-View Affinity Learning for Subspace Clustering", <B><I> IEEE Transactions on Multimedia</I></B>, in press, 2020. <a href="https://doi.org/10.1109/TMM.2020.3045259 target=">[doi]</a>
+<li id="paperdistance">  <B>Zhongyun Hua*</B>, Binghang Zhou, Yinxing Zhang, Yicong Zhou, "Modular Chaotification Model with FPGA Implementation", <B><I>Science China Technological Sciences</I></B>, vol.64, pp. 1472-1484, 2021.<a href="https://link.springer.com/article/10.1007/s11431-020-1717-1" target="_blank">[doi]</a><a href="..\wp-content\themes\homepage\BibTex\Modular Chaotification Model with FPGA Implementation.txt" target="_blank">[BibTeX]</a>
+<li id="paperdistance">  <B>Zhongyun Hua</B>, Zhihua Zhu, Shuang Yi, Zheng Zhang, Hejiao Huang, "Cross-plane colour image encryption using a two-dimensional logistic tent modular map", <B><I>Information Sciences</I></B>, vol. 546, pp. 1063-1083, 2021. <a href="https://www.sciencedirect.com/science/article/pii/S0020025520309427" target="_blank">[doi]</a><a href="..\wp-content\themes\homepage\Paper_PDF\Cross-plane colour image encryption using a two-dimensional logistic tent modular map.pdf" target="_blank">[pdf]</a> <a href="..\wp-content\themes\homepage\BibTex\Cross-plane colour image encryption using a two-dimensional logistic tent modular map.txt" target="_blank">[BibTeX]</a> <a href="..\wp-content\themes\homepage\SourceCode\Hua2021INS_LTMM-CIEA.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance">  <B>Zhongyun Hua</B>, Yicong Zhou, "Exponential Chaotic Model for Generating Robust Chaos", <B><I>IEEE Transactions on Systems, Man, and Cybernetics: Systems</I></B>, vol. 54, no. 6, pp. 3713-3724, 2021. <a href="https://ieeexplore.ieee.org/document/8818361" target="_blank">[doi]</a> <a href="..\wp-content\themes\homepage\Paper_PDF\Exponential Chaotic Model for Generating Robust Chaos.pdf" target="_blank">[pdf]</a> <a href="..\wp-content\themes\homepage\BibTex\Exponential Chaotic Model for Generating Robust Chaos.txt" target="_blank">[BibTeX]</a>
+<li id="paperdistance">  Houzhen Li, <B>Zhongyun Hua*</B>, Han Bao, Lei Zhu, Mo Chen, Bocheng Bao, "Two-Dimensional Memristive Hyperchaotic Maps and Application in Secure Communication", <B><I>IEEE Transactions on Industrial Electronics</I></B>, vol. 68, no. 10, pp. 9931-9940, 2021. <a href="https://ieeexplore.ieee.org/document/9198105" target="_blank">[doi]</a> <a href="..\wp-content\themes\homepage\BibTex\Two-Dimensional Memristive Hyperchaotic Maps and Application in Secure Communication.txt" target="_blank">[BibTeX]</a>
+<li id="paperdistance">  Han Bao, <B>Zhongyun Hua</B>, Ning Wang, Lei Zhu, Mo Chen, Bo-Cheng Bao, "Initials-Boosted Coexisting Chaos in a 2-D Sine Map and Its Hardware Implementation", <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 17, no. 2, pp. 1132-1140, 2021. <a href="https://ieeexplore.ieee.org/document/9086072" target="_blank">[doi]</a> <a href="..\wp-content\themes\homepage\BibTex\Initials-Boosted Coexisting Chaos in a 2D Sine Map and Its Hardware Implementation.txt" target="_blank">[BibTeX]</a>
+<li id="paperdistance">  <B>Zhongyun Hua</B>, Yinxing Zhang, Yicong Zhou, "Two-Dimensional Modular Chaotification System for Improving Chaos Complexity", <B><I>IEEE Transactions on Signal Processing</I></B>, vol. 68, pp. 1937-1949, 2020. <a href="https://ieeexplore.ieee.org/document/9034175" target="_blank">[doi]</a> <a href="..\wp-content\themes\homepage\BibTex\Two-Dimensional Modular Chaotification System for Improving Chaos Complexity.txt" target="_blank">[BibTeX]</a>
+<li id="paperdistance">  <B>Zhongyun Hua</B>, Yicong Zhou, Bocheng Bao, "Two-Dimensional Sine Chaotification System with Hardware Implementation", <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 16, no. 2, pp. 887-897, 2020. [IF: 9.112/2019, JCR: Q1].<a href="https://ieeexplore.ieee.org/document/8738838" target="_blank">[doi]</a><a href="..\wp-content\themes\homepage\Paper_PDF\Two-Dimensional Sine Chaotification System with Hardware Implementation.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\Two-Dimensional Sine Chaotification System with Hardware Implementation.txt" target="_blank">[BibTeX]</a>
+<li id="paperdistance">  <B>Zhongyun Hua</B>, Yicong Zhou, Hejiao Huang, "Cosine-transform-based chaotic system for image encryption", <B><I>Information Sciences</I></B>, vol. 480, pp. 403 - 419, 2019. [IF: 4.305/2017, JCR: Q1]. <a href="https://www.sciencedirect.com/science/article/pii/S0020025518309927" target="_blank">[doi]</a><a href="..\wp-content\themes\homepage\Paper_PDF\Cosine-transform-based chaotic system for image encryption.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\Cosine-transform-based chaotic system for image encryption.txt" target="_blank">[BibTeX]</a><a href="..\wp-content\themes\homepage\SourceCode\Hua2019IS_LSC-IES.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance">  <B>Zhongyun Hua</B>, Binxuan Xu, Fan Jin, Hejiao Huang, "Image Encryption Using Josephus Problem and Filtering Diffusion", <B><I>IEEE Access</I></B>, vol. 7, pp. 8660 - 8674, 2019. [IF: 3.557/2017, JCR: Q1]. <a href="https://ieeexplore.ieee.org/document/8598711" target="_blank">[doi]</a><a href="..\wp-content\themes\homepage\Paper_PDF\Image Encryption Using Josephus Problem and Filtering Diffusion.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\Image Encryption Using Josephus Problem and Filtering Diffusion.txt" target="_blank">[BibTeX]</a><a href="..\wp-content\themes\homepage\SourceCode\Hua2019IEEEA_IES-JPFD.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance">  <B>Zhongyun Hua</B>, Binghang Zhou, Yicong Zhou, "Sine Chaotification Model for Enhancing Chaos and Its Hardware Implementation", <B><I>IEEE Transactions on Industrial Electronics</I></B>, vol. 66, no. 2, pp. 1273 - 1284, 2019. [<font color="red">ESI 1% Highly Cited Paper</font>][IF: 7.168/2016, JCR: Q1]. <a href="https://ieeexplore.ieee.org/document/8353838" target="_blank">[doi]</a><a href="..\wp-content\themes\homepage\Paper_PDF\Sine Chaotification Model for Enhancing Chaos and Its Hardware Implementation.pdf" target="_blank">[pdf]</a> <a href="..\wp-content\themes\homepage\BibTex\Sine Chaotification Model for Enhancing Chaos and Its Hardware Implementation.txt" target="_blank">[BibTeX]</a>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Fan Jin, Binxuan Xu, Hejiao Huang, "2D Logistic-Sine-Coupling Map for Image Encryption", <B><I>Signal Processing</I></B>, vol. 149, pp. 148-161, 2018. [<font color="red">ESI 1% Highly Cited Paper</font>][IF: 3.110/2016, JCR: Q1]  <a href="https://www.sciencedirect.com/science/article/pii/S0165168418301087" target="_blank">[doi]</a> <a href="..\wp-content\themes\homepage\Paper_PDF\2D Logistic-Sine-Coupling Map for Image Encryption.pdf" target="_blank">[pdf]</a> <a href="..\wp-content\themes\homepage\BibTex\2D Logistic-Sine-Coupling Map for Image Encryption.txt" target="_blank">[BibTeX]</a> <a href="..\wp-content\themes\homepage\SourceCode\LSCM-IEA_Hua2018SP.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance"> Shuang Yi, Yicong Zhou, <B>Zhongyun Hua</B>, "Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion", <B><I>Signal Processing: Image Communication</I></B>, vol. 64, pp. 78-88, 2018.  <a href="..\wp-content\themes\homepage\Paper_PDF\Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion.pdf" target="_blank">[pdf]</a> <a href="..\wp-content\themes\homepage\BibTex\Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion.txt" target="_blank">[BibTeX]</a>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Shuang Yi, Yicong Zhou, "Medical image encryption using high-speed scrambling and pixel adaptive diffusion", <B><I>Signal Processing</I></B>, vol. 144, pp. 134-144, 2018. [<font color="red">ESI 1% Highly Cited Paper</font>][IF: 3.110/2016, JCR: Q1] 
+<a href="https://www.sciencedirect.com/science/article/pii/S0165168417303559" target="_blank">[doi]</a>
+<a href="..\wp-content\themes\homepage\Paper_PDF\Medical image encryption using high-speed scrambling and pixel adaptive diffusion.pdf" target="_blank">[pdf]</a>
+<a href="..\wp-content\themes\homepage\BibTex\Medical image encryption using high-speed scrambling and pixel adaptive diffusion.txt" target="_blank">[BibTeX]</a>
+<a href="..\wp-content\themes\homepage\SourceCode\MedicalEn_Hua2018SP.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Binghang Zhou, Yicong Zhou, "Sine-Transform-Based Chaotic System with FPGA Implementation", <B><I>IEEE Transactions on Industrial Electronics</I></B>, vol. 65, no. 3, pp. 2557 - 2566, 2018. [<font color="red">ESI 1% Highly Cited Paper</font>][IF: 7.168/2016, JCR: Q1] <a href="https://ieeexplore.ieee.org/document/8003386" target="_blank">[doi]</a><a href="..\wp-content\themes\homepage\Paper_PDF\Sine-Transform-Based Chaotic System with FPGA Implementation.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\Sine-Transform-Based Chaotic System with FPGA Implementation.txt" target="_blank">[BibTeX]</a>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, "One-Dimensional Nonlinear Model for Producing Chaos", <B><I>IEEE Transactions on Circuits and Systems I: Regular Papers</I></B>, vol. 65, no. 1, pp. 235 - 246, 2018. [IF: 2.407/2016, JCR: Q2] 
+<a href="https://ieeexplore.ieee.org/document/7983008" target="_blank">[doi]</a>
+<a href="..\wp-content\themes\homepage\Paper_PDF\One-Dimensional Nonlinear Model for Producing Chaos.pdf" target="_blank">[pdf]</a>
+<a href="..\wp-content\themes\homepage\BibTex\One-Dimensional Nonlinear Model for Producing Chaos.txt" target="_blank">[BibTeX]</a>
+
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, "Design of image cipher using block-based scrambling and image filtering," <B><I>Information Sciences</I></B>, vol. 396, pp. 97-113, 2017. [IF: 4.832/2016, JCR: Q1] 
+<a href="https://www.sciencedirect.com/science/article/pii/S0020025517305418" target="_blank">[doi]</a>
+<a href="..\wp-content\themes\homepage\Paper_PDF\Design of image cipher using block-based scrambling and image filtering.pdf" target="_blank">[pdf]</a>
+<a href="..\wp-content\themes\homepage\BibTex\Design of image cipher using block-based scrambling and image filtering.txt" target="_blank">[BibTeX]</a>
+<a href="..\wp-content\themes\homepage\SourceCode\ImageEncryptionFiltering_Hua2017IS.rar" target="_blank">[Code]</a></li>
+
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Shuang Yi, Yicong Zhou, Chengqing Li, Yue Wu, "Designing hyperchaotic Cat maps with any desired number of positive Lyapunov exponents", <B><I>IEEE Transactions on Cybernetics</I></B>, vol. 48, no. 2, pp. 463 - 473, 2018. [<font color="red">ESI 1% Highly Cited Paper</font>][IF: 7.384/2016, JCR: Q1] 
+<a href="https://ieeexplore.ieee.org/document/7805290" target="_blank">[doi]</a>
+<a href="..\wp-content\themes\homepage\Paper_PDF\Designing hyperchaotic Cat maps with any desired number of positive Lyapunov exponents.pdf" target="_blank">[pdf]</a>
+<a href="..\wp-content\themes\homepage\BibTex\Designing hyperchaotic Cat maps with any desired number of positive Lyapunov exponents.txt" target="_blank">[BibTeX]</a>
+
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, "Dynamic parameter-control chaotic system," <B><I>IEEE Transactions on Cybernetics</I></B>, vol. 46, no. 12, pp. 3330 - 3341, 2016. [IF: 7.384/2016, JCR: Q1] <a href="https://ieeexplore.ieee.org/document/7360152" target="_blank">[doi]</a><a href="..\wp-content\themes\homepage\Paper_PDF\Dynamic parameter-control chaotic system.pdf" target="_blank">[pdf]</a>
+<a href="..\wp-content\themes\homepage\BibTex\Dynamic parameter-control chaotic system.txt" target="_blank">[BibTeX]</a>
+<li id="paperdistance"> Yue Wu, <B>Zhongyun Hua</B>, Yicong Zhou, "n-dimensional Discrete Cat Map Generation using Laplace Expansions," <B><I>IEEE Transactions on Cybernetics</I></B>, vol. 46, no. 11, pp. 2622 - 2633, 2016. [IF: 7.384/2016, JCR: Q1] 
+<a href="https://ieeexplore.ieee.org/document/7302020" target="_blank">[doi]</a>
+<a href="..\wp-content\themes\homepage\Paper_PDF\n-dimensional Discrete Cat Map Generation using Laplace Expansions.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\n-dimensional Discrete Cat Map Generation using Laplace Expansions.txt" target="_blank">[BibTeX]</a>
+
+<li id="paperdistance"> Yicong Zhou (Supervisor), <B>Zhongyun Hua</B>, Chi-Man Pun, C. L. Philip Chen, "Cascade chaotic system with applications," <B><I>IEEE Transactions on Cybernetics</I></B>, vol. 45, no. 9, pp. 2001-2012, 2015. [IF: 7.384/2016, JCR: Q1] 
+<a href="https://ieeexplore.ieee.org/document/6940279" target="_blank">[doi]</a>
+<a href="..\wp-content\themes\homepage\Paper_PDF\Cascade chaotic system with applications.pdf" target="_blank">[pdf]</a>
+<a href="..\wp-content\themes\homepage\BibTex\Cascade chaotic system with applications.txt" target="_blank">[BibTeX]</a>
+<a href="..\wp-content\themes\homepage\SourceCode\TL_DEA_Zhou2015IETC.rar" target="_blank">[Code]</a></li>
+
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, "Image encryption using 2D Logistic-adjusted-Sine map," <B><I>Information Sciences</I></B>, vol. 339, pp. 237–253, 2016. [<font color="red"> ESI 1% Highly Cited Paper since 2017, also Most Cited Paper since 2018</font>] [IF: 4.832/2016, JCR: Q1] 
+<a href="https://www.sciencedirect.com/science/article/pii/S0020025516000281" target="_blank">[doi]</a>
+<a href="..\wp-content\themes\homepage\Paper_PDF\Image encryption using 2D Logistic-adjusted-Sine map.pdf" target="_blank">[pdf]</a>
+<a href="..\wp-content\themes\homepage\BibTex\Image encryption using 2D Logistic-adjusted-Sine map.txt" target="_blank">[BibTeX]</a>
+<a href="..\wp-content\themes\homepage\SourceCode\2DLASMEncryption_Hua2016IS.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, Chi-Man Pun, C. L. Philip Chen, "2D Sine Logistic modulation map for image encryption," <B><I>Information Sciences</I></B>, vol. 297, pp. 80–94, 2015. [<font color="red"> ESI 1% Highly Cited Paper since 2016, also Most Cited Paper since 2018</font>] [IF: 4.832/2016, JCR: Q1] <a href="https://www.sciencedirect.com/science/article/pii/S0020025514010883" target="_blank">[doi]</a><a href="..\wp-content\themes\homepage\Paper_PDF\2D Sine Logistic modulation map for image encryption.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\2D Sine Logistic modulation map for image encryption.txt" target="_blank">[BibTeX]</a><a href="..\wp-content\themes\homepage\SourceCode\2DSLMMEncryption_Hua2015IS.rar" target="_blank">[Code]</a></li>
+
+
+<h3 id="Conferences and Talks">Conferences and Talks</h3>
+<li id="paperdistance"> Hang Cai, <B>Zhongyun Hua</B>, Hejiao Huang, "A Novel Differential-Chaos-Shift-Keying Secure Communication Scheme" in 2018 IEEE International Conference on Systems, Man and Cybernetics (SMC 2018), 2018, pp. 1794-1798, Miyazaki, Japan, 2018.10.7-2018.10.10. <a href="..\wp-content\themes\homepage\Paper_PDF\A novel image encryption scheme using Josephus permutation and image filtering.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\A novel image encryption scheme using Josephus permutation and image filtering.txt" target="_blank">[BibTeX]</a>
+
+<li id="paperdistance"> Binxuan Xu, <B>Zhongyun Hua</B>, Hejiao Huang, "A novel image encryption scheme using Josephus permutation and image filtering" in 9th International Symposium on Cyberspace Safety and Security (CSS 2017), 2017, pp. 307-319. <a href="..\wp-content\themes\homepage\Paper_PDF\A novel image encryption scheme using Josephus permutation and image filtering.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\A novel image encryption scheme using Josephus permutation and image filtering.txt" target="_blank">[BibTeX]</a>
+
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Binghang Zhou, Yicong Zhou, " Image content-based encryption algorithm using high-dimensional chaotic system," in 2015 International Symposium on Nonlinear Theory and its Applications (NOLTA2015), 2015, pp. 554-557. <a href="..\wp-content\themes\homepage\Paper_PDF\Image content-based encryption algorithm using high-dimensional chaotic system.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\Image content-based encryption algorithm using high-dimensional chaotic system.txt" target="_blank">[BibTeX]</a>
+
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Yiran Wang, Yicong Zhou, “Image cipher using a new interactive two-dimensional chaotic map,” in 2015 IEEE International Conference on Systems, Man and Cybernetics (SMC), 2015, pp. 1804-1808. （EI） <a href="..\wp-content\themes\homepage\Paper_PDF\Image cipher using a new interactive two-dimensional chaotic map.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\Image cipher using a new interactive two-dimensional chaotic map.txt" target="_blank">[BibTeX]</a>
+
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, Chi-Man Pun, C. L. Philip Chen, “Image encryption using 2D Logistic-Sine chaotic map,” in 2014 IEEE International Conference on Systems, Man and Cybernetics (SMC), 2014, pp. 3229-3234. （EI） <a href="..\wp-content\themes\homepage\Paper_PDF\Image encryption using 2D Logistic-Sine chaotic map.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\Image encryption using 2D Logistic-Sine chaotic map.txt" target="_blank">[BibTeX]</a>
+
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, Chi-Man Pun, C. L. Philip Chen, “A new 1D parameter-control chaotic framework,” in Mobile Devices and Multimedia: Enabling Technologies, Algorithms, and Applications 2014. Proc. SPIE 9030, 2014, pp. 90300M-1–90300M-10.（EI） <a href="..\wp-content\themes\homepage\Paper_PDF\A new 1D parameter-control chaotic framework.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\A new 1D parameter-control chaotic framework.txt" target="_blank">[BibTeX]</a>
+
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, C. L. Philip Chen, “A new series-wound framework for generating 1D chaotic maps,” in 2013 IEEE Digital Signal Processing and Signal Processing Education Meeting (DSP/SPE), 118–123 (2013). （EI）  <a href="..\wp-content\themes\homepage\Paper_PDF\A new series-wound framework for generating 1D chaotic maps.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\A new series-wound framework for generating 1D chaotic maps.txt" target="_blank">[BibTeX]</a>
+
+<h3 id="Collective Activities and Services">Collective Activities and Services</h3>
+<li>2017  IEEE SMC Institute, Technical Committee, member</li>
+<li>Reviewer,  IEEE Transactions on Circuits and Systems for Video Technology</li>
+<li>Reviewer,  IEEE Transactions on Cybernetics</li>
+<li>Reviewer,  IEEE Transactions on Industrial Informatics</li>
+<li>Reviewer,  Nonlinear Dynamics</li>
+<li>Reviewer,  Applied Soft Computing</li>
+<li>Reviewer,  Signal Processing: Image Communication</li>
+<li>Reviewer,  Journal of Visual Communication and Image Representation</li>
+<li>Reviewer,  International Journal of Bifurcation and Chaos</li>
+<li>Reviewer,  Information Sciences</li>
+<li>Reviewer,  IEEE Multimedia</li>
+
+
+<span class='anchor' id='-ryjx'></span>
+
+<h1 id="-Honours and Recognitions">🏅 Honours and Recognitions</h1>
+
+<li>2017  Harbin Institute of Technology Young Talents Program (Associate Professor)</li>
+<li>2017  Shenzhen Overseas High-level Talents Program</li>
+<li>Seven ESI 1% Highly Cited Papers in the ISI database</li>
+<B><I>Information Sciences</I></B>, vol. 297, pp. 80–94, 2015 <br>
+<B><I>Information Sciences</I></B>, vol. 339, pp. 237–253, 2016 <br>
+<B><I>IEEE Transactions on Cybernetics</I></B>, vol. 48, no. 2, pp. 463 - 473, 2018  (2018.11 - 2019.1) <br>
+<B><I>IEEE Transactions on Industrial Electronics</I></B>, vol. 65, no. 3, pp. 2557 - 2566, 2018 <br>
+<B><I>IEEE Transactions on Industrial Electronics</I></B>, vol. 66, no. 2, pp. 1273 - 1284, 2019 <br>
+<B><I>Signal Processing</I></B>, vol. 149, pp. 148-161, 2018 <br>
+<B><I>Signal Processing</I></B>, vol. 144, pp. 134-144, 2018
+<li>Two Mosted Cited Papers in <I>Information Sciences</I></li>
+<B><I>Information Sciences</I></B>, vol. 297, pp. 80–94, 2015 <br>
+<B><I>Information Sciences</I></B>, vol. 339, pp. 237–253, 2016
+
+<span class='anchor' id='-xshy'></span>
+
+<h1 id="-Research Experience">💻 Research Experience</h1>
+<ul>
+  <li><em>2018.03 - Now</em>, Associate Professor, School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen</li>
+  <li><em>2016.11 - 2018.03</em>, Assistant Professor, School of Computer Science and Technology, Harbin Institute of Technology Shenzhen Graduate School</li>
+  <li><em>2010.10 - 2011.04</em>, Engineer, New Tech Department, Hewlett Packard</li>
+</ul>
