@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Currently, I am an associate professor at the School of Computer Science, Harbin Institute of Technology (Shenzhen). I have already published 80+ academic papers. <a href='https://scholar.google.com/citations?user=Sl0BI_IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+Currently, I am an associate professor at the School of Computer Science, Harbin Institute of Technology (Shenzhen). I have already published 80+ academic papers. 
 
 My research intersts include:
 - Chaotic theory and applicaitons
