@@ -29,7 +29,7 @@ My research intersts include:
 
 <span class='anchor' id='-xl'></span>
 
-<h1 id="-Academic Qualifications">🎓 Academic Qualifications</h1>
+<h1 id="-Educations">🎓 Educationss</h1>
 <ul>
   <li><em>2013.09 - 2016.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> Ph.D., Department of Computer and Information Science, University of Macau</li>
   <li><em>2011.09 - 2013.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> M.S., Department of Computer and Information Science, University of Macau</li>
@@ -38,7 +38,7 @@ My research intersts include:
  
 <span class='anchor' id='-lwzl'></span>
 
-<h1 id="-Academic Qualifications">📝 Academic Qualifications</h1>
+<h1 id="-Publications">📝 Publications</h1>
 
 <h3 id="Journal Papers">Journal Papers</h3>
 <li id="paperdistance">  Weijia Cao, Hang Cai, <B>Zhongyun Hua*</B>,  "n-Dimensional Chaotic Map with Application in Secure Communication", <B><I>Chaos Solitons & Fractals,</I></B>, Vol. 163, artcle no. 112519, 2022. <a href="https://www.sciencedirect.com/science/article/pii/S0960077922007196" target="_blank">[doi]</a><a href="..\wp-content\themes\homepage\Paper_PDF\n-Dimensional Chaotic Map with application.pdf" target="_blank">[pdf]</a></li>
