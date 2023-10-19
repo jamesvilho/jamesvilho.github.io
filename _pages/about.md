@@ -174,20 +174,34 @@ My research interests include:
 <B><I>Information Sciences</I></B>, vol. 480, pp. 403-419, 2019. <br>
 <B><I>Signal Processing</I></B>, vol. 149, pp. 148-161, 2018. (2018-2019) <br>
 
+<span class='anchor' id='-ase'></span>
+
+<h1 id="-Academic Service Experience">📎 Academic Service Experience</h1>
+<ul>
+  <li><em>2022 - Now</em>, Associate Editor, International Journal of Bifurcation and Chaos</li>
+  <li><em>2020 - Now</em>, Editorial Board, China Computer Science Review (A Chinese Journal)</li>
+  <li><em>2021</em>, Special Issue Editor, "Cyber Security and AI" in Sensors</li>
+  <li><em>2022</em>, Special Issue Editor, "Mathematical Methods for Computer Science" in Mathematics (JCR Q1)</li>
+  <li><em>2020/10/30 - 11/01</em>, 2020 International Conference on Security and Privacy in Digital Economy, Section Chair</li>
+  <li><em>2020/10/30 - 11/01</em>, 2018 IEEE International Conference on SMC, Special Section Chair</li>
+  <li><em>2023 - Now</em>, IEEE Senior Member</li>
+</ul>
+
 <span class='anchor' id='-xshy'></span>
 
 <h1 id="-Research Experience">💻 Research Experience</h1>
 <ul>
   <li><em>2018.03 - Now</em>, Associate Professor, School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen</li>
   <li><em>2016.11 - 2018.03</em>, Assistant Professor, School of Computer Science and Technology, Harbin Institute of Technology Shenzhen Graduate School</li>
-  <li><em>2010.10 - 2011.04</em>, Engineer, New Tech Department, Hewlett Packard</li>
+  <li><em>2010.10 - 2011.04</em>, Research Intern, New Tech Department, Hewlett Packard</li>
 </ul>
 
 <span class='anchor' id='-rp'></span>
 
-<h1 id="-Research Projects">🔍 Research Projects</h1>
+<h1 id="-Research Grants">🔍 Research Grants (Selected)</h1>
 <ul>
-  <li><em>2017.09 - 2019.06</em>, the Shenzhen Science and Technology Innovation Council, PI</li>
-  <li><em>2018.01 - 2020.12</em>, the National Natural Science Foundation of China, PI</li>
+  <li>Research on high-dimensional robust chaos mechanism and its application in generative adversarial network, the National Natural Science Foundation of China, 62071142, 2021.01-2020.24, PI (570K CNY).</li>
+  <li>High-Dimensional Chaos Theory with Application in Secure Communication, the Guangdong Basic and Applied Basic Research Foundation, 2021A1515011406, 2021.1-2023.12, PI (100 K CNY).</li>
+  <li>Research on Designing New Chaotic Systems with Robust Chaos and Their Applications, the National Natural Science Foundation of China, 61701137, 2018.01-2020.12, PI (260K CNY).</li>
 </ul>
 <span class='anchor' id='-rpg'></span>
