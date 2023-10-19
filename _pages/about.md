@@ -1,4 +1,4 @@
----
+![image](https://github.com/HuaZhongyun/HuaZhongyun.github.io/assets/148323901/8b329de8-fde3-41f1-a63b-2a5467844fac)![image](https://github.com/HuaZhongyun/HuaZhongyun.github.io/assets/148323901/645e3834-e794-4474-b314-6e3ba8625257)---
 permalink: /
 title: ""
 excerpt: ""
@@ -16,6 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
+I am currently affiliated with the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen. My research interests include Secure Cloud Computing, Multimedia Security and Image Processing, Nonlinear Systems and Applications, and AI Security. If you have any interest in exploring potential academic collaborations or if you have inquiries related to my research, please feel free to contact me via email at huazhongyunAThit.edu.cn or huazyumATgmail.com. 
+
 I received the B.S. degree in software engineering from Chongqing University, Chongqing, China, in 2011, and the M.S. and Ph.D. degrees in software engineering from the University of Macau, Macau, China, in 2013 and 2016, respectively. I am currently an Associate Professor with the School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen, China. My works have appeared in prestigious venues such as IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Image Processing, IEEE Transactions on Signal Processing, IEEE Transactions on Multimedia, and ACM Multimedia. I have been recognized as a 'Highly Cited Researcher 2022'. My current research interests are focused on chaotic system, multimedia security, and secure cloud computing. I have published about seventy papers on the subject, receiving more than 5300 citations.
 
 
