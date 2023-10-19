@@ -16,9 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Currently, I am an associate professor at the School of Computer Science, Harbin Institute of Technology (Shenzhen). I have already published 80+ academic papers. 
+I received the B.S. degree in software engineering from Chongqing University, Chongqing, China, in 2011, and the M.S. and Ph.D. degrees in software engineering from the University of Macau, Macau, China, in 2013 and 2016, respectively. I am currently an Associate Professor with the School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen, China. My works have appeared in prestigious venues such as IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Image Processing, IEEE Transactions on Signal Processing, IEEE Transactions on Multimedia, and ACM Multimedia. I have been recognized as a 'Highly Cited Researcher 2022'. My current research interests are focused on chaotic system, multimedia security, and secure cloud computing. I have published about seventy papers on the subject, receiving more than 5300 citations.
 
-My research intersts include:
+
+My research interests include:
 - Chaotic theory and applicaitons
 - Multimedia Security
 - Data Hiding
