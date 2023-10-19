@@ -267,11 +267,10 @@ My research interests include:
 <li>2021  Chinese Most Cited Researchers</li>
 <li>2017  Harbin Institute of Technology Young Talents Program (Associate Professor)</li>
 <li>2017  Shenzhen Overseas High-level Talents Program</li>
-<li>Fourteen Highly Cited Papers in the ISI database</li>
+<li>Thirteen Highly Cited Papers in the ISI database</li>
 <B><I style="margin-left: 20px;">IEEE Transactions on Industrial Informatics</I></B>, vol. 17, no. 2, pp. 1132-1140, 2021.<br>
 <B><I style="margin-left: 20px;">IEEE Transactions on Industrial Informatics</I></B>, vol. 16, no. 2, pp. 887-897, 2020. <br>
 <B><I style="margin-left: 20px;">IEEE Transactions on Industrial Informatics</I></B>, vol. 66, no. 2, pp. 1273-1284, 2019. <br>
-<B><I style="margin-left: 20px;">IEEE Transactions on Industrial Informatics</I></B>, vol. 17, no. 2, pp. 1132-1140, 2021. <br>
 <B><I style="margin-left: 20px;">IEEE Transactions on Industrial Informatics</I></B>, vol. 68, no. 10, pp. 9931-9940, 2021. <br>
 <B><I style="margin-left: 20px;">IEEE Transactions on Industrial Informatics</I></B>, vol. 65, no. 3, pp. 2557-2566, 2018. (2019.11 - 2020.1) <br>
 <B><I style="margin-left: 20px;">IEEE Transactions on Signal Processing</I></B>, vol. 68, pp. 1937-1949, 2020. (2021.11-2022.1) <br>
