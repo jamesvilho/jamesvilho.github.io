@@ -1,0 +1,8 @@
+@inproceedings{hou2023cdnet,
+  title={CDNet: Cluster Decision for Deepfake Detection Generalization},
+  author={Hou, Zeming and Hua, Zhongyun and Zhang, Kuiyuan and Zhang, Yushu},
+  booktitle={2023 IEEE International Conference on Image Processing (ICIP)},
+  pages={3010--3014},
+  year={2023},
+  organization={IEEE}
+}
