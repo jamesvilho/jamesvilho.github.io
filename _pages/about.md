@@ -46,7 +46,7 @@ Google Scholar: https://scholar.google.com/citations?user=Sl0BI_IAAAAJ&hl Citati
 <h3 id="Journal Papers">Journal Papers(*Corresponding author)</h3>
 
 <h4 id="Secure Cloud Computing:">Secure Cloud Computing:</h4>
-
+<ol id="olstyle">
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, Xiaohua Jia,  "FCDedup: A Two-Level Deduplication System for Encrypted Data in Fog Computing", <B><I> IEEE Transactions on Parallel and Distributed Systems</I></B>, in press, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10193829">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/FCDedup_A_Two-Level_Deduplication_System_for_Encrypted_Data_in_Fog_Computing.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  <B>Zhongyun Hua</B>, Xingyu Liu, Yifeng Zheng, Shuang Yi, Yushu Zhang, "Reversible Data Hiding over Encrypted Images via Preprocessing-Free Matrix Secret Sharing", <B><I> IEEE Transactions on Circuits and Systems for Video Technology</I></B>, in press, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10193815">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Reversible_Data_Hiding_over_Encrypted_Images_via_Preprocessing-Free_Matrix_Secret_Sharing.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Yifeng Zheng, Shuangqing Xu, Songlei Wang, Yansong Gao, <B>Zhongyun Hua*</B>, "Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient Boosted Decision Tables", <B><I> IEEE Transactions on Services Computing</I></B>, in press, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10135127">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Privet_A_Privacy-Preserving_Vertical_Federated_Learning_Service_for_Gradient_Boosted_Decision_Tables.pdf" target="_blank">[pdf]</a></li>
@@ -56,9 +56,12 @@ Google Scholar: https://scholar.google.com/citations?user=Sl0BI_IAAAAJ&hl Citati
 <li id="paperdistance">  <B>Zhongyun Hua</B>, Yanxiang Wang, Shuang Yi, Yicong Zhou, Xiaohua Jia, "Reversible Data Hiding in Encrypted Images Using Cipher-Feedback Secret Sharing", <B><I> IEEE Transactions on Circuits and Systems for Video Technology</I></B>, vol. 32, no. 8, pp.
 4968–4982, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9672191">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Reversible_Data_Hiding_in_Encrypted_Images_Using_Cipher-Feedback_Secret_Sharing.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Hejiao Huang, Xiaohua Jia, "Blockchain-Based Deduplication and Integrity Auditing over Encrypted Cloud Storage", <B><I> IEEE Transactions on Dependable and Secure Computing</I></B>, in press, 2022. <a href="https://ieeexplore.ieee.org/document/10018273">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Blockchain-Based_Deduplication_and_Integrity_Auditing_over_Encrypted_Cloud_Storage.pdf" target="_blank">[pdf]</a></li>
+</ol>
+
 
 <h4 id="Multimedia Security and Image Processing:">Multimedia Security and Image Processing:</h4>
-<li id="paperdistance">  Yushu Zhang, Nuo Chen, Shuren Qi*, Mingfu Xue, <B>Zhongyun Hua</B>, "Detection of Recolored Image by Texture Features in Chrominance Components", <B><I>ACM Transactions on Multimedia Computing, Communications and Applications</I></B>, vol. 19, no. 3, pp 1-23, 2023. <a href="https://dl.acm.org/doi/abs/10.1145/3571076">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Detection of Recolored Image by Texture Features in Chrominance Components.pdf" target="_blank">[pdf]</a></li>
+<ol id="olstyle">
+<li id="paperdistance">  Yushu Zhang, Nuo Chen, Shuren Qi*, Mingfu Xue, <B>Zhongyun Hua</B>, "Detection of Recolored Image by Texture Features in Chrominance Components", <B><I>ACM Transactions on Multimedia Computing, Communications and Applications</I></B>, vol. 19, no. 3, pp 1-23, 2023. <a href="https://dl.acm.org/doi/abs/10.1145/3571076">[doi]</a><a href="https://dl.acm.org/doi/pdf/10.1145/3571076" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Xuanqi Zhang, Qiangqiang Shen, Yongyong Chen∗, <B>Zhongyun Hua</B>, Jingyong Su, "Multi-View Ensemble Clustering via Low-Rank and Sparse Decomposition: from Matrix to Tensor", <B><I>ACM Transactions on Knowledge Discovery from Data</I></B>, vol. 17, no. 103, pp 1-19, 2023. <a href="https://dl.acm.org/doi/abs/10.1145/3589768">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Multi-View Ensemble Clustering via Low-Rank and Sparse Decomposition_from Matrix to Tensor.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Yongyong Chen, Lei Cheng, <B>Zhongyun Hua*</B>, Shuang Yi, "Laplacian Regularized Deep Low-Rank Subspace Clustering Network", <B><I> Applied Intelligence</I></B>, in press, 2023. <a href="https://link.springer.com/article/10.1007/s10489-023-04668-4">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Laplacian Regularized Deep Low-Rank Subspace Clustering Network.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yuanman Li, Yongyong Chen, Yicong Zhou, "AMS-Net: Adaptive Multi?Scale Network for Image Compressive Sensing", <B><I> IEEE Transactions on Multimedia</I></B>, in press, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9855869">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/AMS-Net_Adaptive_Multi-Scale_Network_for_Image_Compressive_Sensing.pdf">[pdf]</a></li>
@@ -113,9 +116,11 @@ Google Scholar: https://scholar.google.com/citations?user=Sl0BI_IAAAAJ&hl Citati
 		<a href="https://doi.org/10.1109/TIP.2021.3068646">[doi]</a></li>
 <li id="paperdistance">  Xiaolin Xiao, Yuejiao Gong, <B>Zhongyun Hua*</B>, Weineng Chen, "On Reliable Multi-View Affinity Learning for Subspace Clustering", <B><I> IEEE Transactions on Multimedia</I></B>, in press, 2020. 
 		<a href="https://doi.org/10.1109/TMM.2020.3045259 target=">[doi]</a></li>
+</ol>
+
 
 <h4 id="Nonlinear Systems and Applications:">Nonlinear Systems and Applications:</h4>
-
+<ol id="olstyle">
 <li id="paperdistance">  Yinxing Zhang, <B>Zhongyun Hua*</B>, Han Bao, Hejiao Huang, Yicong Zhou, "Generation of n-Dimensional Hyperchaotic Maps Using Gershgorin-Type Theorem and Its Application", <B><I> IEEE Transactions on Systems, Man, and Cybernetics: Systems</I></B>, vol. 53, no. 10, pp. 6516-6529, Oct. 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10159988">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Generation_of_n-Dimensional_Hyperchaotic_Maps_Using_Gershgorin-Type_Theorem_and_its_Application.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Bocheng Bao, Zhuowu Wang, <B>Zhongyun Hua*</B>, Mo Chen, Han Bao*, "Regime transition and multi-scroll hyperchaos in a discrete neuron model", <B><I> Nonlinear Dynamics</I></B>, vol. 111, pp. 13499-13512, 2023. <a href="https://link.springer.com/article/10.1007/s11071-023-08543-2">[doi]</a></li>
 <li id="paperdistance">  Yinxing Zhang, <B>Zhongyun Hua*</B>, Han Bao, Hejiao Huang, Yicong Zhou, "An n-Dimensional Chaotic System Generation Method Using Parametric Pascal Matrix", <B><I> IEEE Transactions on Industrial Informatics</I></B>, vol. 18, no. 12, pp. 8434-8444, Dec. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9714884">[doi]</a></li>
@@ -140,15 +145,15 @@ Google Scholar: https://scholar.google.com/citations?user=Sl0BI_IAAAAJ&hl Citati
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Two-Dimensional Modular Chaotification System for Improving Chaos Complexity.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance">  <B>Zhongyun Hua*</B>, Binghang Zhou, Yinxing Zhang, Yicong Zhou, "Modular Chaotification Model with FPGA Implementation", <B><I>Science China Technological Sciences</I></B>, vol.64, pp. 1472-1484, 2021.
 		<a href="https://link.springer.com/article/10.1007/s11431-020-1717-1" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Modular Chaotification Model with FPGA Implementation.txt" target="_blank">[BibTeX]</a><\li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Modular Chaotification Model with FPGA Implementation.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance">  <B>Zhongyun Hua*</B>, Yicong Zhou, Bocheng Bao, "Two-Dimensional Sine Chaotification System with Hardware Implementation", <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 16, no. 2, pp. 887-897, 2020. [<font color="red">ESI 1% Highly Cited Paper</font>]
 	    <a href="https://ieeexplore.ieee.org/document/8738838" target="_blank">[doi]</a>
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Two-Dimensional Sine Chaotification System with Hardware Implementation.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Two-Dimensional Sine Chaotification System with Hardware Implementation.txt" target="_blank">[BibTeX]</a><\li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Two-Dimensional Sine Chaotification System with Hardware Implementation.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance">  <B>Zhongyun Hua*</B>, Binghang Zhou, Yicong Zhou, "Sine Chaotification Model for Enhancing Chaos and Its Hardware Implementation", <B><I>IEEE Transactions on Industrial Electronics</I></B>, vol. 66, no. 2, pp. 1273 - 1284, 2019. [<font color="red">ESI 1% Highly Cited Paper</font>] 
 		<a href="https://ieeexplore.ieee.org/document/8353838" target="_blank">[doi]</a>
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Sine Chaotification Model for Enhancing Chaos and Its Hardware Implementation.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Sine Chaotification Model for Enhancing Chaos and Its Hardware Implementation.txt" target="_blank">[BibTeX]</a> <\li>  
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Sine Chaotification Model for Enhancing Chaos and Its Hardware Implementation.txt" target="_blank">[BibTeX]</a> </li>  
 <li id="paperdistance">  <B>Zhongyun Hua*</B>, Yicong Zhou, Hejiao Huang, "Cosine-transform-based chaotic system for image encryption", <B><I>Information Sciences</I></B>, vol. 480, pp. 403 - 419, 2019. [<font color="red">Most Cited in INS</font>] [<font color="red">Most downloaded in INS</font>] [<font color="red">ESI 1% Highly Cited Paper</font>] 
 	    <a href="https://www.sciencedirect.com/science/article/pii/S0020025518309927" target="_blank">[doi]</a>
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Cosine-transform-based chaotic system for image encryption.pdf" target="_blank">[pdf]</a>
@@ -157,7 +162,7 @@ Google Scholar: https://scholar.google.com/citations?user=Sl0BI_IAAAAJ&hl Citati
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Binghang Zhou, Yicong Zhou, "Sine-Transform-Based Chaotic System with FPGA Implementation", <B><I>IEEE Transactions on Industrial Electronics</I></B>, vol. 65, no. 3, pp. 2557 - 2566, 2018. [<font color="red">ESI 1% Highly Cited Paper</font>] (2019.11 - 2020.1)
 		<a href="https://ieeexplore.ieee.org/document/8003386" target="_blank">[doi]</a>
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Sine-Transform-Based Chaotic System with FPGA Implementation.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Sine-Transform-Based Chaotic System with FPGA Implementation.txt" target="_blank">[BibTeX]</a><\li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Sine-Transform-Based Chaotic System with FPGA Implementation.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, "One-Dimensional Nonlinear Model for Producing Chaos", <B><I>IEEE Transactions on Circuits and Systems I: Regular Papers</I></B>, vol. 65, no. 1, pp. 235 - 246, 2018. 
 		<a href="https://ieeexplore.ieee.org/document/7983008" target="_blank">[doi]</a>
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/One-Dimensional Nonlinear Model for Producing Chaos.pdf" target="_blank">[pdf]</a>
@@ -196,7 +201,7 @@ Google Scholar: https://scholar.google.com/citations?user=Sl0BI_IAAAAJ&hl Citati
 <li id="paperdistance">   Kexin Li, Han Bao, Houzhen Li, Jun Ma, <B>Zhongyun Hua*</B>, Bo-Cheng Bao, "Memristive Rulkov Neuron Model with Magnetic Induction Effects", <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 18, no. 3, pp. 1726-1736, March 2022. 
 <a href="https://doi.org/10.1109/TII.2021.3086819">[doi]</a></li>
 <li id="paperdistance">   Han Bao, <B>Zhongyun Hua*</B>, Houzhen Li, Mo Chen, Bo-Cheng Bao*, "Memristor-Based Hyperchaotic Maps and Application in Auxiliary Classifier Generative Adversarial Nets", <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 18, no. 8, pp. 5297-5306, 2022. 
-	   <a href="https://ieeexplore.ieee.org/document/9568720">[doi]</a>
+	   <a href="https://ieeexplore.ieee.org/document/9568720">[doi]</a></li>
 <li id="paperdistance">  Houzhen Li, <B>Zhongyun Hua*</B>, Han Bao, Lei Zhu, Mo Chen, Bocheng Bao, "Two-Dimensional Memristive Hyperchaotic Maps and Application in Secure Communication", <B><I>IEEE Transactions on Industrial Electronics</I></B>, vol. 68, no. 10, pp. 9931-9940, 2021. [<font color="red"> ESI 1% Highly Cited Paper</font>]
 		<a href="https://ieeexplore.ieee.org/document/9198105" target="_blank">[doi]</a>
 <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Two-Dimensional Memristive Hyperchaotic Maps and Application in Secure Communication.txt" target="_blank">[BibTeX]</a></li>
@@ -204,7 +209,7 @@ Google Scholar: https://scholar.google.com/citations?user=Sl0BI_IAAAAJ&hl Citati
 <a href="https://link.springer.com/article/10.1007/s11431-021-1845-x">[doi]</a></li>
 <li id="paperdistance">   Kang Rong, Han Bao, Houzhen Li, <B>Zhongyun Hua</B>, Bocheng Bao*, "Memristive Hénon map with hidden Neimark–Sacker bifurcations", <B><I> Nonlinear Dynamics</I></B>, vol. 108, pp. 4459-4470, 2022. 
 <a href="https://link.springer.com/article/10.1007/s11071-022-07380-z">[doi]</a></li>
-
+</ol>
 
 
 				
