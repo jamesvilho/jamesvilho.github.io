@@ -1,0 +1,9 @@
+@article{Hua2016IETC,
+title   = {Dynamic Parameter-Control Chaotic System},
+author  = {Hua, Zhongyun and Zhou, Yicong},
+journal = {IEEE Transactions on Cybernetics},
+volume  = {46},
+number  = {12},
+pages   = {3330--3341},
+year    = {2016}
+}

@@ -1,0 +1,7 @@
+@article{Hua2017IETC,
+title     = {Designing hyperchaotic cat maps with any desired number of positive Lyapunov exponents},
+author    = {Hua, Zhongyun and Yi, Shuang and Zhou, Yicong and Li, Chengqing and Wu, Yue},
+journal   = {IEEE Transactions on Cybernetics},
+year      = {2017},
+publisher = {IEEE}
+}

@@ -1,0 +1,9 @@
+@inproceedings{Hua_2014MDMETAA,
+  title        = {A new 1D parameter-control chaotic framework},
+  author       = {Hua, Zhongyun and Zhou, Yicong and Pun, Chi-Man and Chen, C. L. Philip},
+  booktitle    = {Mobile Devices and Multimedia: Enabling Technologies, Algorithms, and Applications 2014},
+  volume       = {9030},
+  pages        = {90300M},
+  year         = {2014},
+  organization = {International Society for Optics and Photonics}
+}

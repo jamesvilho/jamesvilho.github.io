@@ -1,0 +1,9 @@
+@article{Hua2019IEEEA,
+  title={Image Encryption Using Josephus Problem and Filtering Diffusion},
+  author={Hua, Zhongyun and Xu, Binxuan and Jin, Fan and Huang, Hejiao},
+  journal={IEEE Access},
+  volume={7},
+  pages={8660--8674},
+  year={2019},
+  publisher={IEEE}
+}

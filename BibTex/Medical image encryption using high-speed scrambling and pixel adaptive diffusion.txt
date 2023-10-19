@@ -1,0 +1,9 @@
+@article{Hua2018SP,
+title     = {Medical image encryption using high-speed scrambling and pixel adaptive diffusion},
+author    = {Hua, Zhongyun and Yi, Shuang and Zhou, Yicong},
+journal   = {Signal Processing},
+volume    = {144},
+pages     = {134--144},
+year      = {2018},
+publisher = {Elsevier}
+}

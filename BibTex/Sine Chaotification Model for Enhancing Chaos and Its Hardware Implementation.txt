@@ -1,0 +1,10 @@
+@article{Hua2019IETIE,
+title     = {Sine Chaotification Model for Enhancing Chaos and Its Hardware Implementation},
+author    = {Hua, Zhongyun and Zhou, Binghang and Zhou, Yicong},
+journal   = {IEEE Transactions on Industrial Electronics},
+volume    = {66},
+number    = {2},
+pages     = {1273--1284},
+year      = {2019},
+publisher = {IEEE}
+}

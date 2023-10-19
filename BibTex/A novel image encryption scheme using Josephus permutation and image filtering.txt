@@ -1,0 +1,8 @@
+@inproceedings{Xu_2017ISCSS,
+  title        = {A Novel Image Encryption Scheme Using Josephus Permutation and Image Filtering},
+  author       = {Xu, Binxuan and Hua, Zhongyun and Huang, Hejiao},
+  booktitle    = {International Symposium on Cyberspace Safety and Security},
+  pages        = {307--319},
+  year         = {2017},
+  organization = {Springer}
+}

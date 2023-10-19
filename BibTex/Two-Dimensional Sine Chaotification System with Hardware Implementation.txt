@@ -1,0 +1,10 @@
+@article{Hua2020IEEETII,
+  title={Two-dimensional sine chaotification system with hardware implementation},
+  author={Hua, Zhongyun and Zhou, Yicong and Bao, Bocheng},
+  journal={IEEE Transactions on Industrial Informatics},
+  volume={16},
+  number={2},
+  pages={887--897},
+  year={2020},
+  publisher={IEEE}
+}

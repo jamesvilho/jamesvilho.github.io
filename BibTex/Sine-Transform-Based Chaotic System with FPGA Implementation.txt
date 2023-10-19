@@ -1,0 +1,10 @@
+@article{Hua2018IETIE,
+title     = {Sine-transform-based chaotic system with {FPGA} implementation},
+author    = {Hua, Zhongyun and Zhou, Binghang and Zhou, Yicong},
+journal   = {IEEE Transactions on Industrial Electronics},
+volume    = {65},
+number    = {3},
+pages     = {2557--2566},
+year      = {2018},
+publisher = {IEEE}
+}

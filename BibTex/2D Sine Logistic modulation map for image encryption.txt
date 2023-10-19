@@ -1,0 +1,9 @@
+@article{Hua2015IS,
+title     = {2D Sine Logistic modulation map for image encryption},
+author    = {Hua, Zhongyun and Zhou, Yicong and Pun, Chi-Man and Chen, C. L. Philip},
+journal   = {Information Sciences},
+volume    = {297},
+pages     = {80--94},
+year      = {2015},
+publisher = {Elsevier}
+}
