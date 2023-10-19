@@ -267,7 +267,7 @@ My research interests include:
 <li>2021  Chinese Most Cited Researchers</li>
 <li>2017  Harbin Institute of Technology Young Talents Program (Associate Professor)</li>
 <li>2017  Shenzhen Overseas High-level Talents Program</li>
-<li>Thirteen Highly Cited Papers in the ISI database</li>
+<li>Fifteen Highly Cited Papers in the ISI database</li>
 <B><I style="margin-left: 20px;">IEEE Transactions on Industrial Informatics</I></B>, vol. 17, no. 2, pp. 1132-1140, 2021.<br>
 <B><I style="margin-left: 20px;">IEEE Transactions on Industrial Informatics</I></B>, vol. 16, no. 2, pp. 887-897, 2020. <br>
 <B><I style="margin-left: 20px;">IEEE Transactions on Industrial Informatics</I></B>, vol. 66, no. 2, pp. 1273-1284, 2019. <br>
@@ -277,8 +277,10 @@ My research interests include:
 <B><I style="margin-left: 20px;">Nonlinear Dynamics</I></B>, vol. 104, no. 4, 4505-4522, 2021. <br>
 <B><I style="margin-left: 20px;">Information Sciences</I></B>, vol. 546, pp. 1063-1083, 2021. <br>
 <B><I style="margin-left: 20px;">Information Sciences</I></B>, vol. 480, pp. 403-419, 2019. <br>
+<B><I style="margin-left: 20px;">Information Sciences</I></B>, vol. 396, pp. 97-113, 2017. <br>
 <B><I style="margin-left: 20px;">Information Sciences</I></B>, vol. 297, pp. 80–94, 2015. <br>
 <B><I style="margin-left: 20px;">Information Sciences</I></B>, vol. 339, pp. 237–253, 2016. <br>
+<B><I style="margin-left: 20px;">Signal Processing</I></B>, vol. 183, pp. 107998, 2021. <br>
 <B><I style="margin-left: 20px;">Signal Processing</I></B>, vol. 149, pp. 148-161, 2018. <br>
 <B><I style="margin-left: 20px;">Signal Processing</I></B>, vol. 144, pp. 134-144, 2018. <br>
 
