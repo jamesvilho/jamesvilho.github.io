@@ -47,8 +47,8 @@ Google Scholar: https://scholar.google.com/citations?user=Sl0BI_IAAAAJ&hl Citati
 
 <h3 id="Journal Papers">Journal Papers(*Corresponding author)</h3>
 
-<h4 id="Secure Cloud Computing:">Secure Cloud Computing:</h4>
 <ol id="olstyle">
+<h4 id="Secure Cloud Computing:">Secure Cloud Computing:</h4>
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, Xiaohua Jia,  "FCDedup: A Two-Level Deduplication System for Encrypted Data in Fog Computing", <B><I> IEEE Transactions on Parallel and Distributed Systems</I></B>, in press, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10193829">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/FCDedup_A_Two-Level_Deduplication_System_for_Encrypted_Data_in_Fog_Computing.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  <B>Zhongyun Hua</B>, Xingyu Liu, Yifeng Zheng, Shuang Yi, Yushu Zhang, "Reversible Data Hiding over Encrypted Images via Preprocessing-Free Matrix Secret Sharing", <B><I> IEEE Transactions on Circuits and Systems for Video Technology</I></B>, in press, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10193815">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Reversible_Data_Hiding_over_Encrypted_Images_via_Preprocessing-Free_Matrix_Secret_Sharing.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Yifeng Zheng, Shuangqing Xu, Songlei Wang, Yansong Gao, <B>Zhongyun Hua*</B>, "Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient Boosted Decision Tables", <B><I> IEEE Transactions on Services Computing</I></B>, in press, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10135127">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Privet_A_Privacy-Preserving_Vertical_Federated_Learning_Service_for_Gradient_Boosted_Decision_Tables.pdf" target="_blank">[pdf]</a></li>
@@ -58,11 +58,11 @@ Google Scholar: https://scholar.google.com/citations?user=Sl0BI_IAAAAJ&hl Citati
 <li id="paperdistance">  <B>Zhongyun Hua</B>, Yanxiang Wang, Shuang Yi, Yicong Zhou, Xiaohua Jia, "Reversible Data Hiding in Encrypted Images Using Cipher-Feedback Secret Sharing", <B><I> IEEE Transactions on Circuits and Systems for Video Technology</I></B>, vol. 32, no. 8, pp.
 4968–4982, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9672191">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Reversible_Data_Hiding_in_Encrypted_Images_Using_Cipher-Feedback_Secret_Sharing.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Hejiao Huang, Xiaohua Jia, "Blockchain-Based Deduplication and Integrity Auditing over Encrypted Cloud Storage", <B><I> IEEE Transactions on Dependable and Secure Computing</I></B>, in press, 2022. <a href="https://ieeexplore.ieee.org/document/10018273">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Blockchain-Based_Deduplication_and_Integrity_Auditing_over_Encrypted_Cloud_Storage.pdf" target="_blank">[pdf]</a></li>
-</ol>
+
 
 
 <h4 id="Multimedia Security and Image Processing:">Multimedia Security and Image Processing:</h4>
-<ol id="olstyle">
+
 <li id="paperdistance">  Yushu Zhang, Nuo Chen, Shuren Qi*, Mingfu Xue, <B>Zhongyun Hua</B>, "Detection of Recolored Image by Texture Features in Chrominance Components", <B><I>ACM Transactions on Multimedia Computing, Communications and Applications</I></B>, vol. 19, no. 3, pp 1-23, 2023. <a href="https://dl.acm.org/doi/abs/10.1145/3571076">[doi]</a><a href="https://dl.acm.org/doi/pdf/10.1145/3571076" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Xuanqi Zhang, Qiangqiang Shen, Yongyong Chen∗, <B>Zhongyun Hua</B>, Jingyong Su, "Multi-View Ensemble Clustering via Low-Rank and Sparse Decomposition: from Matrix to Tensor", <B><I>ACM Transactions on Knowledge Discovery from Data</I></B>, vol. 17, no. 103, pp 1-19, 2023. <a href="https://dl.acm.org/doi/abs/10.1145/3589768">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Multi-View Ensemble Clustering via Low-Rank and Sparse Decomposition_from Matrix to Tensor.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Yongyong Chen, Lei Cheng, <B>Zhongyun Hua*</B>, Shuang Yi, "Laplacian Regularized Deep Low-Rank Subspace Clustering Network", <B><I> Applied Intelligence</I></B>, in press, 2023. <a href="https://link.springer.com/article/10.1007/s10489-023-04668-4">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Laplacian Regularized Deep Low-Rank Subspace Clustering Network.pdf" target="_blank">[pdf]</a></li>
@@ -118,11 +118,11 @@ Google Scholar: https://scholar.google.com/citations?user=Sl0BI_IAAAAJ&hl Citati
 		<a href="https://doi.org/10.1109/TIP.2021.3068646">[doi]</a></li>
 <li id="paperdistance">  Xiaolin Xiao, Yuejiao Gong, <B>Zhongyun Hua*</B>, Weineng Chen, "On Reliable Multi-View Affinity Learning for Subspace Clustering", <B><I> IEEE Transactions on Multimedia</I></B>, in press, 2020. 
 		<a href="https://doi.org/10.1109/TMM.2020.3045259 target=">[doi]</a></li>
-</ol>
+
 
 
 <h4 id="Nonlinear Systems and Applications:">Nonlinear Systems and Applications:</h4>
-<ol id="olstyle">
+
 <li id="paperdistance">  Yinxing Zhang, <B>Zhongyun Hua*</B>, Han Bao, Hejiao Huang, Yicong Zhou, "Generation of n-Dimensional Hyperchaotic Maps Using Gershgorin-Type Theorem and Its Application", <B><I> IEEE Transactions on Systems, Man, and Cybernetics: Systems</I></B>, vol. 53, no. 10, pp. 6516-6529, Oct. 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10159988">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Generation_of_n-Dimensional_Hyperchaotic_Maps_Using_Gershgorin-Type_Theorem_and_its_Application.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Bocheng Bao, Zhuowu Wang, <B>Zhongyun Hua*</B>, Mo Chen, Han Bao*, "Regime transition and multi-scroll hyperchaos in a discrete neuron model", <B><I> Nonlinear Dynamics</I></B>, vol. 111, pp. 13499-13512, 2023. <a href="https://link.springer.com/article/10.1007/s11071-023-08543-2">[doi]</a></li>
 <li id="paperdistance">  Yinxing Zhang, <B>Zhongyun Hua*</B>, Han Bao, Hejiao Huang, Yicong Zhou, "An n-Dimensional Chaotic System Generation Method Using Parametric Pascal Matrix", <B><I> IEEE Transactions on Industrial Informatics</I></B>, vol. 18, no. 12, pp. 8434-8444, Dec. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9714884">[doi]</a></li>
@@ -211,11 +211,11 @@ Google Scholar: https://scholar.google.com/citations?user=Sl0BI_IAAAAJ&hl Citati
 <a href="https://link.springer.com/article/10.1007/s11431-021-1845-x">[doi]</a></li>
 <li id="paperdistance">   Kang Rong, Han Bao, Houzhen Li, <B>Zhongyun Hua</B>, Bocheng Bao*, "Memristive Hénon map with hidden Neimark–Sacker bifurcations", <B><I> Nonlinear Dynamics</I></B>, vol. 108, pp. 4459-4470, 2022. 
 <a href="https://link.springer.com/article/10.1007/s11071-022-07380-z">[doi]</a></li>
-</ol>
+
 
 <h3 id="Conference Papers">Conference Papers</h3>
 
-<ol id="olstyle">
+
 <li id="paperdistance"> Jinhao Cui, Heyan Chai, Yanbin Gong, Ye Ding, <B>Zhongyun Hua</B>,Cuiyun Gao, Qing Liao, "MocGCL: Molecular Graph Contrastive Learning via Negative Selection" in 2023 International Joint Conference on Neural Networks (IJCNN). 
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.pdf" target="_blank">[pdf]</a>
 <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.txt" target="_blank">[BibTeX]</a></li>
