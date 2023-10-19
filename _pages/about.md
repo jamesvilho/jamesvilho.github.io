@@ -209,39 +209,11 @@ Google Scholar: https://scholar.google.com/citations?user=Sl0BI_IAAAAJ&hl Citati
     <li id="paperdistance">   Bocheng Bao, Kang Rong, Houzhen Li , IEEE, Kexin Li, <B>Zhongyun Hua</B>, and Xi Zhang, "Memristor-Coupled Logistic Hyperchaotic Map", <B><I>IEEE Transactions on Circuits and Systems II: Express Briefs</I></B>, vol. 68, no. 8, pp. 2992-2996, 2021. 
         <a href="https://link.springer.com/article/10.1007/s11431-021-1845-x">[doi]</a></li>
     <li id="paperdistance">   Kang Rong, Han Bao, Houzhen Li, <B>Zhongyun Hua</B>, Bocheng Bao*, "Memristive Hénon map with hidden Neimark–Sacker bifurcations", <B><I> Nonlinear Dynamics</I></B>, vol. 108, pp. 4459-4470, 2022. 
-        <a href="https://link.springer.com/article/10.1007/s11071-022-07380-z">[doi]</a></li>
+        <a href="https://link.springer.com/article/10.1007/s11071-022-07380-z">[doi]</a></li>			
 </ol>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+				
 <span class='anchor' id='-pr'></span>
+
 <h1 id="-Peer Review">➿ Peer Review</h1>
 <li>Reviewer,  IEEE Transactions on Circuits and Systems for Video Technology</li>
 <li>Reviewer,  IEEE Transactions on Cybernetics</li>
