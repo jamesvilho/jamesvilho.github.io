@@ -106,7 +106,8 @@ My research interests include:
 <a href="..\wp-content\themes\homepage\Paper_PDF\Image encryption using 2D Logistic-adjusted-Sine map.pdf" target="_blank">[pdf]</a>
 <a href="..\wp-content\themes\homepage\BibTex\Image encryption using 2D Logistic-adjusted-Sine map.txt" target="_blank">[BibTeX]</a>
 <a href="..\wp-content\themes\homepage\SourceCode\2DLASMEncryption_Hua2016IS.rar" target="_blank">[Code]</a></li>
-<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, Chi-Man Pun, C. L. Philip Chen, "2D Sine Logistic modulation map for image encryption," <B><I>Information Sciences</I></B>, vol. 297, pp. 80–94, 2015. [<font color="red"> ESI 1% Highly Cited Paper since 2016, also Most Cited Paper since 2018</font>] [IF: 4.832/2016, JCR: Q1] <a href="https://www.sciencedirect.com/science/article/pii/S0020025514010883" target="_blank">[doi]</a><a href="..\wp-content\themes\homepage\Paper_PDF\2D Sine Logistic modulation map for image encryption.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\2D Sine Logistic modulation map for image encryption.txt" target="_blank">[BibTeX]</a><a href="..\wp-content\themes\homepage\SourceCode\2DSLMMEncryption_Hua2015IS.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance">  Weijia Cao, Hang Cai, <B>Zhongyun Hua*</B>,  "n-Dimensional Chaotic Map with Application in Secure Communication", <B><I>Chaos Solitons & Fractals,</I></B>, Vol. 163, artcle no. 112519, 2022. <a href=" " target="_blank">[doi]</a ><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/2D Sine Logistic modulation map for image encryption.pdf" target="_blank">[pdf]</a ></li>
+
 
 
 <h3 id="Conferences and Talks">Conferences and Talks</h3>
