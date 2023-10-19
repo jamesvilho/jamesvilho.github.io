@@ -206,8 +206,8 @@ My research interests include:
 <h3 id="Conference Papers">Conference Papers</h3>
 
 <ol id="olstyle">
-<li id="paperdistance"> Jinhao Cui, Heyan Chai, Yanbin Gong, Ye Ding, <B>Zhongyun Hua</B>,Cuiyun Gao, Qing Liao, "MocGCL: Molecular Graph Contrastive Learning via Negative Selection" in 2023 International Joint Conference on Neural Networks (IJCNN). 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.pdf" target="_blank">[pdf]</a>
+<li id="paperdistance"> Zeming Hou, <B>Zhongyun Hua</B>,Kuiyuan Zhang, Yushu Zhang, "CDNet: Cluster Decision for Deepfake Detection Generalization" in 2023 IEEE International Conference on Image Processing (ICIP), 2023. <a href=" " target="_blank">[pdf]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/CDNet_Cluster_Decision_for_Deepfake_Detection_Generalization.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> Jinhao Cui, Heyan Chai, Yanbin Gong, Ye Ding, <B>Zhongyun Hua</B>,Cuiyun Gao, Qing Liao, "MocGCL: Molecular Graph Contrastive Learning via Negative Selection" in 2023 International Joint Conference on Neural Networks (IJCNN). <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.pdf" target="_blank">[pdf]</a>
 <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> Zhibin Zheng, <B>Zhongyun Hua</B>, Leo Yu Zhang, "Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers"  in The 29th International Conference on Neural Information Processing (ICONIP 2022), IIT Indore, India, November 22-26, 2022. 
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers.pdf" target="_blank">[pdf]</a>
