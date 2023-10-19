@@ -30,7 +30,7 @@ My research interests include:
 
 <span class='anchor' id='-xl'></span>
 
-<h1 id="-Educations">🎓 Educationss</h1>
+<h1 id="-Educations">🎓 Educations</h1>
 <ul>
   <li><em>2013.09 - 2016.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> Ph.D., Department of Computer and Information Science, University of Macau</li>
   <li><em>2011.09 - 2013.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> M.S., Department of Computer and Information Science, University of Macau</li>
