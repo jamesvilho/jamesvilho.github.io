@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently affiliated with the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen. My research interests include Secure Cloud Computing, Multimedia Security and Image Processing, Nonlinear Systems and Applications, and AI Security. If you have any interest in exploring potential academic collaborations or if you have inquiries related to my research, please feel free to contact me via email at huazhongyunAThit.edu.cn or huazyumATgmail.com. 
 
-I received the B.S. degree in software engineering from Chongqing University, Chongqing, China, in 2011, and the M.S. and Ph.D. degrees in software engineering from the University of Macau, Macau, China, in 2013 and 2016, respectively. My works have appeared in prestigious venues such as IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Image Processing, IEEE Transactions on Signal Processing, IEEE Transactions on Multimedia, and ACM Multimedia. I have been recognized as a 'Highly Cited Researcher 2022'. I have published about eighty papers on the subject, receiving more than 5300 citations. I am an associate editor of International Journal of Bifurcation and Chaos.
+I received the B.S. degree in software engineering from Chongqing University, Chongqing, China, in 2011, and the M.S. and Ph.D. degrees in software engineering from the University of Macau, Macau, China, in 2013 and 2016, respectively. My works have appeared in prestigious venues such as IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Image Processing, IEEE Transactions on Signal Processing, IEEE Transactions on Multimedia, and ACM Multimedia. I have been recognized as a 'Highly Cited Researcher 2022'. I have published about eighty papers on the subject, receiving more than 5300 citations. I am an associate editor of International Journal of Bifurcation and Chaos. <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 My research interests include:
@@ -200,11 +200,11 @@ My research interests include:
 <a href="https://link.springer.com/article/10.1007/s11431-021-1845-x">[doi]</a></li>
 <li id="paperdistance">   Kang Rong, Han Bao, Houzhen Li, <B>Zhongyun Hua</B>, Bocheng Bao*, "Memristive Hénon map with hidden Neimark–Sacker bifurcations", <B><I> Nonlinear Dynamics</I></B>, vol. 108, pp. 4459-4470, 2022. 
 <a href="https://link.springer.com/article/10.1007/s11071-022-07380-z">[doi]</a></li>
-
+</ol>
 
 <h3 id="Conference Papers">Conference Papers</h3>
 
-
+<ol id="olstyle">
 <li id="paperdistance"> Jinhao Cui, Heyan Chai, Yanbin Gong, Ye Ding, <B>Zhongyun Hua</B>,Cuiyun Gao, Qing Liao, "MocGCL: Molecular Graph Contrastive Learning via Negative Selection" in 2023 International Joint Conference on Neural Networks (IJCNN). 
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.pdf" target="_blank">[pdf]</a>
 <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.txt" target="_blank">[BibTeX]</a></li>
