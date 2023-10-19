@@ -8,12 +8,18 @@ main:
 
   - title: "Publications"
     url: "/#-lwzl"
-
+    
+  - title: "Peer Review"
+    url: "/#-pr"
+    
   - title: "Honors and Recognitions"
     url: "/#-ryjx"
 
+  - title: "Academic Service Experience"
+    url: "/#-ase"
+    
   - title: "Research Experience"
     url: "/#-xshy"
     
-  - title: "Research Projects"
+  - title: "Research Grants"
     url: "/#-rp"
