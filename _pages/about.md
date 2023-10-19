@@ -213,6 +213,49 @@ Google Scholar: https://scholar.google.com/citations?user=Sl0BI_IAAAAJ&hl Citati
 <a href="https://link.springer.com/article/10.1007/s11071-022-07380-z">[doi]</a></li>
 </ol>
 
+<h3 id="Conference Papers">Conference Papers</h3>
+
+<ol id="olstyle">
+<li id="paperdistance"> Jinhao Cui, Heyan Chai, Yanbin Gong, Ye Ding, <B>Zhongyun Hua</B>,Cuiyun Gao, Qing Liao, "MocGCL: Molecular Graph Contrastive Learning via Negative Selection" in 2023 International Joint Conference on Neural Networks (IJCNN). 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> Zhibin Zheng, <B>Zhongyun Hua</B>, Leo Yu Zhang, "Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers"  in The 29th International Conference on Neural Information Processing (ICONIP 2022), IIT Indore, India, November 22-26, 2022. 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> Lei Chen, Yongyong Chen, <B>Zhongyun Hua</B>, "Deep Contrastive Multi-view Subspace Clustering" in The 29th International Conference on Neural Information Processing (ICONIP 2022), IIT Indore, India, November 22-26, 2022. 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Deep Contrastive Multi-view Subspace Clustering.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Deep Contrastive Multi-view Subspace Clustering.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> Jiaxiang You, Yuanman Li, Jiantao Zhou, <B>Zhongyun Hua</B>, Weiwei Sun, Xia Li, "A Transformer based Approach for Image Manipulation Chain Detection" in The 29th ACM International Conference on Multimedia (ACMMM), Chengdu, China, October, 20-24 2021. 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/A Transformer based Approach for Image Manipulation Chain Detection.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/A Transformer based Approach for Image Manipulation Chain Detection.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> Shuang Yi, Juan Zhou, <B>Zhongyun Hua</B>, Yong Xiang, "Reversible data hiding method in encrypted images using secret sharing and Huffman coding," in 2021 11th International Conference on Information Science and Technology (ICIST), Sichuan, China, 2021.05.21-2021.05.23.
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Reversible data hiding method in encrypted images using secret sharing and Huffman coding.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Reversible data hiding method in encrypted images using secret sharing and Huffman coding.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> Bo Fang, <B>Zhongyun Hua</B>, Hejiao Huang, "Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket," in 2019 14th International Conference on Computer Science & Education (ICCSE), 5-10, Toronto, Canada, 2019.08.19-2019.08-21.
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> Hang Cai, <B>Zhongyun Hua</B>, Hejiao Huang, "A Novel Differential-Chaos-Shift-Keying Secure Communication Scheme" in 2018 IEEE International Conference on Systems, Man and Cybernetics (SMC 2018), 2018, pp. 1794-1798, Miyazaki, Japan, 2018.10.7-2018.10.10. 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/A Novel Differential-Chaos-Shift-Keying Secure Communication Scheme.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/A Novel Differential-Chaos-Shift-Keying Secure Communication Scheme.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> Binxuan Xu, <B>Zhongyun Hua</B>, Hejiao Huang, "A novel image encryption scheme using Josephus permutation and image filtering" in 9th International Symposium on Cyberspace Safety and Security (CSS 2017), 2017, pp. 307-319. 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/A novel image encryption scheme using Josephus permutation and image filtering.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/A novel image encryption scheme using Josephus permutation and image filtering.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Binghang Zhou, Yicong Zhou, " Image content-based encryption algorithm using high-dimensional chaotic system," in 2015 International Symposium on Nonlinear Theory and its Applications (NOLTA2015), 2015, pp. 554-557. 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Image content-based encryption algorithm using high-dimensional chaotic system.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Image content-based encryption algorithm using high-dimensional chaotic system.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Yiran Wang, Yicong Zhou, “Image cipher using a new interactive two-dimensional chaotic map,” in 2015 IEEE International Conference on Systems, Man and Cybernetics (SMC), 2015, pp. 1804-1808. （EI） 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Image cipher using a new interactive two-dimensional chaotic map.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Image cipher using a new interactive two-dimensional chaotic map.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, Chi-Man Pun, C. L. Philip Chen, “Image encryption using 2D Logistic-Sine chaotic map,” in 2014 IEEE International Conference on Systems, Man and Cybernetics (SMC), 2014, pp. 3229-3234. （EI） 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Image encryption using 2D Logistic-Sine chaotic map.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Image encryption using 2D Logistic-Sine chaotic map.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, Chi-Man Pun, C. L. Philip Chen, “A new 1D parameter-control chaotic framework,” in Mobile Devices and Multimedia: Enabling Technologies, Algorithms, and Applications 2014. Proc. SPIE 9030, 2014, pp. 90300M-1–90300M-10.（EI） 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/A new 1D parameter-control chaotic framework.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/A new 1D parameter-control chaotic framework.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, C. L. Philip Chen, “A new series-wound framework for generating 1D chaotic maps,” in 2013 IEEE Digital Signal Processing and Signal Processing Education Meeting (DSP/SPE), 118–123 (2013). （EI）  
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/A new series-wound framework for generating 1D chaotic maps.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/BibTex/A new series-wound framework for generating 1D chaotic maps.txt" target="_blank">[BibTeX]</a></li>
+</ol>
 
 				
 <span class='anchor' id='-pr'></span>
