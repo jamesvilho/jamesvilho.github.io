@@ -145,7 +145,7 @@ My research interests include:
 <li>2017  Harbin Institute of Technology Young Talents Program (Associate Professor)</li>
 <li>2017  Shenzhen Overseas High-level Talents Program</li>
 <li>Fourteen Highly Cited Papers in the ISI database</li>
-<br><B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 17, no. 2, pp. 1132-1140, 2021. </br>
+<br><B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 17, no. 2, pp. 1132-1140, 2021.<br>
 <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 16, no. 2, pp. 887-897, 2020. <br>
 <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 66, no. 2, pp. 1273-1284, 2019. <br>
 <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 17, no. 2, pp. 1132-1140, 2021. <br>
