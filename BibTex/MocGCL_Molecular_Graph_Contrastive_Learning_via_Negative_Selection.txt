@@ -1,0 +1,9 @@
+@INPROCEEDINGS{10191518,
+  author={Cui, Jinhao and Chai, Heyan and Gong, Yanbin and Ding, Ye and Hua, Zhongyun and Gao, Cuiyun and Liao, Qing},
+  booktitle={2023 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={MocGCL: Molecular Graph Contrastive Learning via Negative Selection}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/IJCNN54540.2023.10191518}}

@@ -1,0 +1,8 @@
+@inproceedings{cheng2022deep,
+  title={Deep Contrastive Multi-view Subspace Clustering},
+  author={Cheng, Lei and Chen, Yongyong and Hua, Zhongyun},
+  booktitle={International Conference on Neural Information Processing},
+  pages={692--704},
+  year={2022},
+  organization={Springer}
+}
