@@ -128,19 +128,15 @@ My research interests include:
 
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, C. L. Philip Chen, “A new series-wound framework for generating 1D chaotic maps,” in 2013 IEEE Digital Signal Processing and Signal Processing Education Meeting (DSP/SPE), 118–123 (2013). （EI）  <a href="..\wp-content\themes\homepage\Paper_PDF\A new series-wound framework for generating 1D chaotic maps.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\A new series-wound framework for generating 1D chaotic maps.txt" target="_blank">[BibTeX]</a>
 
-<h3 id="Collective Activities and Services">Collective Activities and Services</h3>
-<li>2017  IEEE SMC Institute, Technical Committee, member</li>
+<span class='anchor' id='-pr'></span>
+<h1 id="-Peer Review">➿ Peer Review</h1>
 <li>Reviewer,  IEEE Transactions on Circuits and Systems for Video Technology</li>
 <li>Reviewer,  IEEE Transactions on Cybernetics</li>
 <li>Reviewer,  IEEE Transactions on Industrial Informatics</li>
-<li>Reviewer,  Nonlinear Dynamics</li>
-<li>Reviewer,  Applied Soft Computing</li>
-<li>Reviewer,  Signal Processing: Image Communication</li>
-<li>Reviewer,  Journal of Visual Communication and Image Representation</li>
-<li>Reviewer,  International Journal of Bifurcation and Chaos</li>
-<li>Reviewer,  Information Sciences</li>
-<li>Reviewer,  IEEE Multimedia</li>
-
+<li>Reviewer,  IEEE Transactions on Industrial Electronics</li>
+<li>Reviewer,  IEEE Transactions on Signal Processing</li>
+<li>Reviewer,  IEEE Transactions on Circuits and Systems II: Express Briefs, etc</li>
+<li>Reviewer,  IEEE Transactions on Circuits and Systems I: Regular Papers</li>
 
 <span class='anchor' id='-ryjx'></span>
 
