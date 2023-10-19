@@ -42,6 +42,10 @@ My research interests include:
 <h1 id="-Publications">📝 Publications</h1>
 
 <h3 id="Journal Papers">Journal Papers</h3>
+<li id="paperdistance">  Weijia Cao, Hang Cai, <B>Zhongyun Hua*</B>,  "n-Dimensional Chaotic Map with Application in Secure Communication", <B><I>Chaos Solitons & Fractals,</I></B>, Vol. 163, artcle no. 112519, 2022. <a href=" " target="_blank">[doi]</a ><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/2D Sine Logistic modulation map for image encryption.pdf" target="_blank">[pdf]</a ></li>
+
+
+
 <li id="paperdistance">  Weijia Cao, Hang Cai, <B>Zhongyun Hua*</B>,  "n-Dimensional Chaotic Map with Application in Secure Communication", <B><I>Chaos Solitons & Fractals,</I></B>, Vol. 163, artcle no. 112519, 2022. <a href="https://www.sciencedirect.com/science/article/pii/S0960077922007196" target="_blank">[doi]</a><a href="..\wp-content\themes\homepage\Paper_PDF\n-Dimensional Chaotic Map with application.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">   <B>Zhongyun Hua</B>, Yongyong Chen, Han Bao, Yicong Zhou, "Two-Dimensional Parametric Polynomial Chaotic System", <B><I>IEEE Transactions on Systems, Man, and Cybernetics: Systems</I></B>, in press, 2021. <a href="https://doi.org/10.1109/TSMC.2021.3096967">[doi]</a>
 <li id="paperdistance">   Kexin Li, Han Bao, Houzhen Li, Jun Ma, <B>Zhongyun Hua*</B>, Bo-Cheng Bao, "memristive Rulkov Neuron Model with Magnetic Induction Effects", <B><I>IEEE Transactions on Industrial Informatics</I></B>, in press, 2021. <a href="https://doi.org/10.1109/TII.2021.3086819">[doi]</a>
@@ -106,7 +110,6 @@ My research interests include:
 <a href="..\wp-content\themes\homepage\Paper_PDF\Image encryption using 2D Logistic-adjusted-Sine map.pdf" target="_blank">[pdf]</a>
 <a href="..\wp-content\themes\homepage\BibTex\Image encryption using 2D Logistic-adjusted-Sine map.txt" target="_blank">[BibTeX]</a>
 <a href="..\wp-content\themes\homepage\SourceCode\2DLASMEncryption_Hua2016IS.rar" target="_blank">[Code]</a></li>
-<li id="paperdistance">  Weijia Cao, Hang Cai, <B>Zhongyun Hua*</B>,  "n-Dimensional Chaotic Map with Application in Secure Communication", <B><I>Chaos Solitons & Fractals,</I></B>, Vol. 163, artcle no. 112519, 2022. <a href=" " target="_blank">[doi]</a ><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/2D Sine Logistic modulation map for image encryption.pdf" target="_blank">[pdf]</a ></li>
 
 
 
