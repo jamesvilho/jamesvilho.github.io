@@ -145,30 +145,30 @@ My research interests include:
 <li>2017  Harbin Institute of Technology Young Talents Program (Associate Professor)</li>
 <li>2017  Shenzhen Overseas High-level Talents Program</li>
 <li list-style-position: inside>Fourteen Highly Cited Papers in the ISI database</li>
-<B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 17, no. 2, pp. 1132-1140, 2021.<br>
-<B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 16, no. 2, pp. 887-897, 2020. <br>
-<B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 66, no. 2, pp. 1273-1284, 2019. <br>
-<B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 17, no. 2, pp. 1132-1140, 2021. <br>
-<B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 68, no. 10, pp. 9931-9940, 2021. <br>
-<B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 65, no. 3, pp. 2557-2566, 2018. (2019.11 - 2020.1) <br>
-<B><I>IEEE Transactions on Signal Processing</I></B>, vol. 68, pp. 1937-1949, 2020. (2021.11-2022.1) <br>
-<B><I>Nonlinear Dynamics</I></B>, vol. 104, no. 4, 4505-4522, 2021. <br>
-<B><I>Information Sciences</I></B>, vol. 546, pp. 1063-1083, 2021. <br>
-<B><I>Information Sciences</I></B>, vol. 480, pp. 403-419, 2019. <br>
-<B><I>Information Sciences</I></B>, vol. 297, pp. 80–94, 2015. <br>
-<B><I>Information Sciences</I></B>, vol. 339, pp. 237–253, 2016. <br>
-<B><I>Signal Processing</I></B>, vol. 149, pp. 148-161, 2018. <br>
-<B><I>Signal Processing</I></B>, vol. 144, pp. 134-144, 2018. <br>
+<B><I style="margin-left: 20px;">IEEE Transactions on Industrial Informatics</I></B>, vol. 17, no. 2, pp. 1132-1140, 2021.<br>
+<B><I style="margin-left: 20px;">IEEE Transactions on Industrial Informatics</I></B>, vol. 16, no. 2, pp. 887-897, 2020. <br>
+<B><I style="margin-left: 20px;">IEEE Transactions on Industrial Informatics</I></B>, vol. 66, no. 2, pp. 1273-1284, 2019. <br>
+<B><I style="margin-left: 20px;">IEEE Transactions on Industrial Informatics</I></B>, vol. 17, no. 2, pp. 1132-1140, 2021. <br>
+<B><I style="margin-left: 20px;">IEEE Transactions on Industrial Informatics</I></B>, vol. 68, no. 10, pp. 9931-9940, 2021. <br>
+<B><I style="margin-left: 20px;">IEEE Transactions on Industrial Informatics</I></B>, vol. 65, no. 3, pp. 2557-2566, 2018. (2019.11 - 2020.1) <br>
+<B><I style="margin-left: 20px;">IEEE Transactions on Signal Processing</I></B>, vol. 68, pp. 1937-1949, 2020. (2021.11-2022.1) <br>
+<B><I style="margin-left: 20px;">Nonlinear Dynamics</I></B>, vol. 104, no. 4, 4505-4522, 2021. <br>
+<B><I style="margin-left: 20px;">Information Sciences</I></B>, vol. 546, pp. 1063-1083, 2021. <br>
+<B><I style="margin-left: 20px;">Information Sciences</I></B>, vol. 480, pp. 403-419, 2019. <br>
+<B><I style="margin-left: 20px;">Information Sciences</I></B>, vol. 297, pp. 80–94, 2015. <br>
+<B><I style="margin-left: 20px;">Information Sciences</I></B>, vol. 339, pp. 237–253, 2016. <br>
+<B><I style="margin-left: 20px;">Signal Processing</I></B>, vol. 149, pp. 148-161, 2018. <br>
+<B><I style="margin-left: 20px;">Signal Processing</I></B>, vol. 144, pp. 134-144, 2018. <br>
 
 <li>Most Cited Papers in <I>Information Sciences</I> and <I>Signal Processing</I></li>
-<B><I>Information Sciences</I></B>, vol. 480, pp. 403-419, 2019. <br>
-<B><I>Information Sciences</I></B>, vol. 339, pp. 237–253, 2016. (2019) <br>
-<B><I>Information Sciences</I></B>, vol. 297, pp. 80–94, 2015. (2019) <br>
-<B><I>Signal Processing</I></B>, vol. 149, pp. 148-161, 2018. <br>
+<B><I style="margin-left: 20px;">Information Sciences</I></B>, vol. 480, pp. 403-419, 2019. <br>
+<B><I style="margin-left: 20px;">Information Sciences</I></B>, vol. 339, pp. 237–253, 2016. (2019) <br>
+<B><I style="margin-left: 20px;">Information Sciences</I></B>, vol. 297, pp. 80–94, 2015. (2019) <br>
+<B><I style="margin-left: 20px;">Signal Processing</I></B>, vol. 149, pp. 148-161, 2018. <br>
 
 <li>Most Downloaded Papers in <I>Information Sciences</I> and <I>Signal Processing</I></li>
-<B><I>Information Sciences</I></B>, vol. 480, pp. 403-419, 2019. <br>
-<B><I>Signal Processing</I></B>, vol. 149, pp. 148-161, 2018. (2018-2019) <br>
+<B><I style="margin-left: 20px;">Information Sciences</I></B>, vol. 480, pp. 403-419, 2019. <br>
+<B><I style="margin-left: 20px;">Signal Processing</I></B>, vol. 149, pp. 148-161, 2018. (2018-2019) <br>
 
 <span class='anchor' id='-ase'></span>
 
