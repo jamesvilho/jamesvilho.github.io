@@ -29,15 +29,6 @@ My research interests include:
 - AI Security
   
 
-
-<span class='anchor' id='-xl'></span>
-
-<h1 id="-Educations">🎓 Educations</h1>
-<ul>
-  <li><em>2013.09 - 2016.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> Ph.D., Department of Computer and Information Science, University of Macau</li>
-  <li><em>2011.09 - 2013.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> M.S., Department of Computer and Information Science, University of Macau</li>
-  <li><em>2007.09 - 2011.06</em>, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/CQU_logo.png" width="23pt" /></a> B.S., Department of Software Engineering, Chongqing University</li>
-</ul>
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -313,6 +304,18 @@ Google Scholar: https://scholar.google.com/citations?user=Sl0BI_IAAAAJ&hl Citati
   <li><em>2020/10/30 - 11/01</em>, 2018 IEEE International Conference on SMC, Special Section Chair</li>
   <li><em>2023 - Now</em>, IEEE Senior Member</li>
 </ul>
+
+
+<span class='anchor' id='-xl'></span>
+
+<h1 id="-Educations">🎓 Educations</h1>
+<ul>
+  <li><em>2013.09 - 2016.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> Ph.D., Department of Computer and Information Science, University of Macau</li>
+  <li><em>2011.09 - 2013.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> M.S., Department of Computer and Information Science, University of Macau</li>
+  <li><em>2007.09 - 2011.06</em>, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/CQU_logo.png" width="23pt" /></a> B.S., Department of Software Engineering, Chongqing University</li>
+</ul>
+
+
 
 <span class='anchor' id='-xshy'></span>
 
