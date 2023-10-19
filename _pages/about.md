@@ -34,8 +34,6 @@ My research interests include:
 
 <h1 id="-Publications">📝 Publications</h1>
 
-Google Scholar: https://scholar.google.com/citations?user=Sl0BI_IAAAAJ&hl Citations: 5498. H-index: 33
-
 <h3 id="Journal Papers">Journal Papers(*Corresponding author)</h3>
 
 <ol id="olstyle">
