@@ -261,7 +261,9 @@ My research interests include:
 <span class='anchor' id='-ryjx'></span>
 
 <h1 id="-Honours and Recognitions">🏅 Honours and Recognitions</h1>
-
+<li>2022  Highly Cited Researcher</li>
+<li>2022  Chinese Most Cited Researchers</li>
+<li>2021  Chinese Most Cited Researchers</li>
 <li>2017  Harbin Institute of Technology Young Talents Program (Associate Professor)</li>
 <li>2017  Shenzhen Overseas High-level Talents Program</li>
 <li>Fourteen Highly Cited Papers in the ISI database</li>
