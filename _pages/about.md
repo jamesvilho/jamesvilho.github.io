@@ -111,7 +111,8 @@ My research interests include:
 
 
 <h4 id="Nonlinear Systems and Applications:">Nonlinear Systems and Applications:</h4>
-
+<li id="paperdistance">  Han Bao, KeXin Li, Jun Ma, <B>Zhongyun Hua</B>, Quan Xu, BoCheng Bao, "Memristive effects on an improved discrete Rulkov neuron model", <B><I> Science China Technological Sciences </I></B>, 1-11, 2023. <a href=" ">[doi]</a></li>
+<li id="paperdistance">  Yongxin Li, Chunbiao Li, Sicong Liu <B>Zhongyun Hua</B>, Haibo Jiang, "A 2-D Conditional Symmetric Hyperchaotic Map With Complete Control", <B><I> Nonlinear Dynamics</I></B>, vol. 109, no. 2, pp. 1155-1165, 2022. <a href="https://link.springer.com/article/10.1007/s11071-022-07485-5">[doi]</a ></li>
 <li id="paperdistance">  Yinxing Zhang, <B>Zhongyun Hua*</B>, Han Bao, Hejiao Huang, Yicong Zhou, "Generation of n-Dimensional Hyperchaotic Maps Using Gershgorin-Type Theorem and Its Application", <B><I> IEEE Transactions on Systems, Man, and Cybernetics: Systems</I></B>, vol. 53, no. 10, pp. 6516-6529, Oct. 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10159988">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Generation_of_n-Dimensional_Hyperchaotic_Maps_Using_Gershgorin-Type_Theorem_and_its_Application.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Bocheng Bao, Zhuowu Wang, <B>Zhongyun Hua*</B>, Mo Chen, Han Bao*, "Regime transition and multi-scroll hyperchaos in a discrete neuron model", <B><I> Nonlinear Dynamics</I></B>, vol. 111, pp. 13499-13512, 2023. <a href="https://link.springer.com/article/10.1007/s11071-023-08543-2">[doi]</a></li>
 <li id="paperdistance">  Yinxing Zhang, <B>Zhongyun Hua*</B>, Han Bao, Hejiao Huang, Yicong Zhou, "An n-Dimensional Chaotic System Generation Method Using Parametric Pascal Matrix", <B><I> IEEE Transactions on Industrial Informatics</I></B>, vol. 18, no. 12, pp. 8434-8444, Dec. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9714884">[doi]</a></li>
@@ -243,7 +244,7 @@ My research interests include:
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/A new 1D parameter-control chaotic framework.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, C. L. Philip Chen, “A new series-wound framework for generating 1D chaotic maps,” in 2013 IEEE Digital Signal Processing and Signal Processing Education Meeting (DSP/SPE), 118–123 (2013). （EI）  
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/A new series-wound framework for generating 1D chaotic maps.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/BibTex/A new series-wound framework for generating 1D chaotic maps.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/A new series-wound framework for generating 1D chaotic maps.txt" target="_blank">[BibTeX]</a></li>
 </ol>
 
 				
