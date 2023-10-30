@@ -67,21 +67,21 @@ My research interests include:
 		<a href="https://www.sciencedirect.com/science/article/pii/S0165168418301087" target="_blank">[doi]</a>
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/2D Logistic-Sine-Coupling Map for Image Encryption.pdf" target="_blank">[pdf]</a>
 		<a href="..\wp-content\themes\homepage\BibTex\2D Logistic-Sine-Coupling Map for Image Encryption.txt" target="_blank">[BibTeX]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/Code/LSCM-IEA_Hua2018SP.rar" target="_blank">[Code]</a></li>
-<li id="paperdistance">  Ruoyu Zhao, Yushu Zhang, Rushi Lan, <B>Zhongyun Hua</B>, Yong Xiang, "Heterogeneous and Customized Cost-Efficient Reversible Image Degradation for Green IoT", <B><I>IEEE Internet of Things Journal</I></B>,  vol. 10, no. 3, pp. 2630-2645, 1 Feb.1, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/9916250">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Heterogeneous_and_Customized_Cost-Efficient_Reversible_Image_Degradation_for_Green_IoT.pdf">[pdf]</a></li>
-<li id="paperdistance">  Yushu Zhang, Zhibin Fu, Shuren Qi, Mingfu Xue, <B>Zhongyun Hua</B>, Yong Xiang, "Localization of Inpainting Forgery With Feature Enhancement Network", <B><I> IEEE Transactions on Big Data</I></B>,  in press, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9964430">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Localization_of_Inpainting_Forgery_With_Feature_Enhancement_Network.pdf">[pdf]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/LSCM-IEA_Hua2018SP.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance">  Ruoyu Zhao, Yushu Zhang, Rushi Lan, <B>Zhongyun Hua</B>, Yong Xiang, "Heterogeneous and Customized Cost-Efficient Reversible Image Degradation for Green IoT", <B><I>IEEE Internet of Things Journal</I></B>,  vol. 10, no. 3, pp. 2630-2645, 1 Feb.1, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/9916250">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Heterogeneous_and_Customized_Cost-Efficient_Reversible_Image_Degradation_for_Green_IoT.pdf">[pdf]</a></li>
+<li id="paperdistance">  Yushu Zhang, Zhibin Fu, Shuren Qi, Mingfu Xue, <B>Zhongyun Hua</B>, Yong Xiang, "Localization of Inpainting Forgery With Feature Enhancement Network", <B><I> IEEE Transactions on Big Data</I></B>,  in press, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9964430">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Localization_of_Inpainting_Forgery_With_Feature_Enhancement_Network.pdf">[pdf]</a></li>
 <li id="paperdistance">  <B>Zhongyun Hua*</B>, Zhihua Zhu, Shuang Yi, Zheng Zhang, Hejiao Huang, "Cross-plane colour image encryption using a two-dimensional logistic tent modular map", <B><I>Information Sciences</I></B>, vol. 546, pp. 1063-1083, 2021. [<font color="red">ESI 1% Highly Cited Paper</font>]
 	    <a href="https://www.sciencedirect.com/science/article/pii/S0020025520309427" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Cross-plane colour image encryption using a two-dimensional logistic tent modular map.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Cross-plane colour image encryption using a two-dimensional logistic tent modular map.pdf" target="_blank">[pdf]</a>
 		<a href="..\wp-content\themes\homepage\BibTex\Cross-plane colour image encryption using a two-dimensional logistic tent modular map.txt" target="_blank">[BibTeX]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/Code/Hua2021INS_LTMM-CIEA.rar" target="_blank">[Code]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/Hua2021INS_LTMM-CIEA.rar" target="_blank">[Code]</a></li>
 <li id="paperdistance">   <B>Zhongyun Hua*</B>, Zhihua Zhu, Yongyong Chen, and Yuanman Li, "Color image encryption using orthogonal Latin squares and a new 2D chaotic system", <B><I>Nonlinear Dynamics</I></B>, vol. 104, pp. 4505-4522, 2021.  [<font color="red">ESI 1% Highly Cited Paper</font>]
 		<a href="https://link.springer.com/article/10.1007/s11071-021-06472-6">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/Code/S-boxEncryption_2021ND.rar" target="_blank">[Code]</a></li>
-<li id="paperdistance">   <B>Zhongyun Hua</B>, Jiaxin Li, Yuanman Li, Yongyong Chen*, "Image Encryption Using Value-Differencing Transformation and Modified ZigZag Transformation", <B><I>Nonlinear Dynamics</I></B>, vol. 106, pp. 3583-3599, 2021. [<font color="red">ESI 1% Highly Cited Paper</font>] <a href="https://link.springer.com/article/10.1007/s11071-021-06941-y">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Image Encryption Using Value-Differencing Transformation and Modified ZigZag Transformation.pdf" target="_blank">[pdf]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/S-boxEncryption_2021ND.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance">   <B>Zhongyun Hua</B>, Jiaxin Li, Yuanman Li, Yongyong Chen*, "Image Encryption Using Value-Differencing Transformation and Modified ZigZag Transformation", <B><I>Nonlinear Dynamics</I></B>, vol. 106, pp. 3583-3599, 2021. [<font color="red">ESI 1% Highly Cited Paper</font>] <a href="https://link.springer.com/article/10.1007/s11071-021-06941-y">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image Encryption Using Value-Differencing Transformation and Modified ZigZag Transformation.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  <B>Zhongyun Hua*</B>,  Jiaxin Li, Yongyong Chen, Shuang Yi, "Design and application of an S-box using complete Latin square", <B><I>Nonlinear Dynamics</I></B>, vol. 104, pp. 807–825, 2021. 
 		<a href="https://doi.org/10.1007/s11071-021-06308-3">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/Code/LSM-CIEA_2021ND.rar" target="_blank">[Code]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/LSM-CIEA_2021ND.rar" target="_blank">[Code]</a></li>
 <li id="paperdistance">  Yongyong Chen, Shuqin Wang, Xiaolin Xiao, Youfa Liu*, <B>Zhongyun Hua*</B>, Yicong Zhou, "Self-paced Enhanced Low-rank Tensor Kernelized Multi-view Subspace Clustering", <B><I>IEEE Transactions on Multimedia</I></B>, vol. 24, pp. 4054-4066, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9546681">[doi]</a></li>
 <li id="paperdistance">   Yongyong Chen, Xiaolin Xiao, <B>Zhongyun Hua</B>, Yicong Zhou, "Adaptive Transition Probability Matrix Learning for Multi-view Spectral Clustering", <B><I>IEEE Transactions on Neural Networks and Learning Systems</I></B>, vol. 33, no. 9, pp. 4712-4726, Sept. 2022. 
 		<a href="https://ieeexplore.ieee.org/abstract/document/9366999">[doi]</a></li>
@@ -93,17 +93,17 @@ My research interests include:
 		<a href="https://doi.org/10.1109/TCSII.2021.3072393">[doi]</a></li>
 <li id="paperdistance">  <B>Zhongyun Hua</B>, Binxuan Xu, Fan Jin, Hejiao Huang, "Image Encryption Using Josephus Problem and Filtering Diffusion", <B><I>IEEE Access</I></B>, vol. 7, pp. 8660 - 8674, 2019. [IF: 3.557/2017, JCR: Q1]. 
 		<a href="https://ieeexplore.ieee.org/document/8598711" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Image Encryption Using Josephus Problem and Filtering Diffusion.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image Encryption Using Josephus Problem and Filtering Diffusion.pdf" target="_blank">[pdf]</a>
 		<a href="..\wp-content\themes\homepage\BibTex\Image Encryption Using Josephus Problem and Filtering Diffusion.txt" target="_blank">[BibTeX]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/Code/Hua2019IEEEA_IES-JPFD.rar" target="_blank">[Code]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/Hua2019IEEEA_IES-JPFD.rar" target="_blank">[Code]</a></li>
 <li id="paperdistance"> Shuang Yi, Yicong Zhou, <B>Zhongyun Hua</B>, "Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion", <B><I>Signal Processing: Image Communication</I></B>, vol. 64, pp. 78-88, 2018. 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/BibTex/Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/BibTex/Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, "Design of image cipher using block-based scrambling and image filtering," <B><I>Information Sciences</I></B>, vol. 396, pp. 97-113, 2017. [IF: 4.832/2016, JCR: Q1] 
 		<a href="https://www.sciencedirect.com/science/article/pii/S0020025517305418" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Design of image cipher using block-based scrambling and image filtering.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Design of image cipher using block-based scrambling and image filtering.txt" target="_blank">[BibTeX]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/Code/ImageEncryptionFiltering_Hua2017IS.rar" target="_blank">[Code]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Design of image cipher using block-based scrambling and image filtering.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Design of image cipher using block-based scrambling and image filtering.txt" target="_blank">[BibTeX]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/ImageEncryptionFiltering_Hua2017IS.rar" target="_blank">[Code]</a></li>
 <li id="paperdistance">   Yongyong Chen, Shuqin Wang, Chong Peng, <B>Zhongyun Hua*</B>, and Yicong Zhou, "Generalized Nonconvex Low-Rank Tensor Approximation for Multi-View Subspace Clustering", <B><I>IEEE Transactions on Image Processing</I></B>, vol. 30, pp. 4022-4035, 2021. 
 		<a href="https://doi.org/10.1109/TIP.2021.3068646">[doi]</a></li>
 <li id="paperdistance">  Xiaolin Xiao, Yuejiao Gong, <B>Zhongyun Hua*</B>, Weineng Chen, "On Reliable Multi-View Affinity Learning for Subspace Clustering", <B><I> IEEE Transactions on Multimedia</I></B>, in press, 2020. 
@@ -114,79 +114,79 @@ My research interests include:
 <h4 id="Nonlinear Systems and Applications:">Nonlinear Systems and Applications:</h4>
 <li id="paperdistance">  Han Bao, KeXin Li, Jun Ma, <B>Zhongyun Hua</B>, Quan Xu, BoCheng Bao, "Memristive effects on an improved discrete Rulkov neuron model", <B><I> Science China Technological Sciences </I></B>, 1-11, 2023. <a href=" ">[doi]</a></li>
 <li id="paperdistance">  Yongxin Li, Chunbiao Li, Sicong Liu <B>Zhongyun Hua</B>, Haibo Jiang, "A 2-D Conditional Symmetric Hyperchaotic Map With Complete Control", <B><I> Nonlinear Dynamics</I></B>, vol. 109, no. 2, pp. 1155-1165, 2022. <a href="https://link.springer.com/article/10.1007/s11071-022-07485-5">[doi]</a ></li>
-<li id="paperdistance">  Yinxing Zhang, <B>Zhongyun Hua*</B>, Han Bao, Hejiao Huang, Yicong Zhou, "Generation of n-Dimensional Hyperchaotic Maps Using Gershgorin-Type Theorem and Its Application", <B><I> IEEE Transactions on Systems, Man, and Cybernetics: Systems</I></B>, vol. 53, no. 10, pp. 6516-6529, Oct. 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10159988">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Generation_of_n-Dimensional_Hyperchaotic_Maps_Using_Gershgorin-Type_Theorem_and_its_Application.pdf" target="_blank">[pdf]</a></li>
+<li id="paperdistance">  Yinxing Zhang, <B>Zhongyun Hua*</B>, Han Bao, Hejiao Huang, Yicong Zhou, "Generation of n-Dimensional Hyperchaotic Maps Using Gershgorin-Type Theorem and Its Application", <B><I> IEEE Transactions on Systems, Man, and Cybernetics: Systems</I></B>, vol. 53, no. 10, pp. 6516-6529, Oct. 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10159988">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Generation_of_n-Dimensional_Hyperchaotic_Maps_Using_Gershgorin-Type_Theorem_and_its_Application.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Bocheng Bao, Zhuowu Wang, <B>Zhongyun Hua*</B>, Mo Chen, Han Bao*, "Regime transition and multi-scroll hyperchaos in a discrete neuron model", <B><I> Nonlinear Dynamics</I></B>, vol. 111, pp. 13499-13512, 2023. <a href="https://link.springer.com/article/10.1007/s11071-023-08543-2">[doi]</a></li>
 <li id="paperdistance">  Yinxing Zhang, <B>Zhongyun Hua*</B>, Han Bao, Hejiao Huang, Yicong Zhou, "An n-Dimensional Chaotic System Generation Method Using Parametric Pascal Matrix", <B><I> IEEE Transactions on Industrial Informatics</I></B>, vol. 18, no. 12, pp. 8434-8444, Dec. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9714884">[doi]</a></li>
 <li id="paperdistance">  Yinxing Zhang, Han Bao, <B>Zhongyun Hua*</B>, Hejiao Huang, "Two-Dimensional Exponential Chaotic System With Hardware Implementation", <B><I>  IEEE Transactions on Industrial Electronics</I></B>,  vol. 70, no. 9, pp. 9346-9356, Sept. 2023. <a href="https://ieeexplore.ieee.org/abstract/document/9896742">[doi]</a></li>
 <li id="paperdistance">  Weijia Cao, Hang Cai, <B>Zhongyun Hua*</B>,  "n-Dimensional Chaotic Map with Application in Secure Communication", <B><I>Chaos Solitons & Fractals,</I></B>, Vol. 163, artcle no. 112519, 2022. 
 	    <a href="https://www.sciencedirect.com/science/article/pii/S0960077922007196" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/n-Dimensional Chaotic Map with application.pdf" target="_blank">[pdf]</a></li>
-<li id="paperdistance">  <B>Zhongyun Hua*</B>, Yinxing Zhang, Han Bao*, Hejiao Huang, and Yicong Zhou, "n-Dimensional Polynomial Chaotic System With Applications", <B><I> IEEE Transactions on Circuits and Systems I: Regular Papers</I></B>, vol. 69, no. 2, pp. 784-797, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9896742">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Two-Dimensional_Exponential_Chaotic_System_With_Hardware_Implementation.pdf" target="_blank">[pdf]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/n-Dimensional Chaotic Map with application.pdf" target="_blank">[pdf]</a></li>
+<li id="paperdistance">  <B>Zhongyun Hua*</B>, Yinxing Zhang, Han Bao*, Hejiao Huang, and Yicong Zhou, "n-Dimensional Polynomial Chaotic System With Applications", <B><I> IEEE Transactions on Circuits and Systems I: Regular Papers</I></B>, vol. 69, no. 2, pp. 784-797, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9896742">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Two-Dimensional_Exponential_Chaotic_System_With_Hardware_Implementation.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">   <B>Zhongyun Hua</B>, Yongyong Chen, Han Bao, Yicong Zhou, "Two-Dimensional Parametric Polynomial Chaotic System", <B><I>IEEE Transactions on Systems, Man, and Cybernetics: Systems</I></B>, vol. 52, no. 7, pp. 4402-4414, 2022. 
 	    <a href="https://doi.org/10.1109/TSMC.2021.3096967">[doi]</a></li>
 <li id="paperdistance">  <B>Zhongyun Hua</B>, Yicong Zhou, "Exponential Chaotic Model for Generating Robust Chaos", <B><I>IEEE Transactions on Systems, Man, and Cybernetics: Systems</I></B>, vol. 54, no. 6, pp. 3713-3724, 2021. [<font color="red">ESI 1% Highly Cited Paper</font>]
 		<a href="https://ieeexplore.ieee.org/document/8818361" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Exponential Chaotic Model for Generating Robust Chaos.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Exponential Chaotic Model for Generating Robust Chaos.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Exponential Chaotic Model for Generating Robust Chaos.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Exponential Chaotic Model for Generating Robust Chaos.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance">   Jianming Cai, Han Bao, Quan Xu, <B>Zhongyun Hua, Bocheng Bao</B>, "Smooth nonlinear fitting scheme for analog multiplierless implementation of Hindmarsh–Rose neuron model", <B><I>Nonlinear Dynamics</I></B>, vol. 104, pp. 4379-4389, 2021. 
 		<a href="https://link.springer.com/article/10.1007/s11071-021-06453-9">[doi]</a></li>
 <li id="paperdistance">  Han Bao, <B>Zhongyun Hua</B>, Ning Wang, Lei Zhu, Mo Chen, Bo-Cheng Bao, "Initials-Boosted Coexisting Chaos in a 2-D Sine Map and Its Hardware Implementation", <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 17, no. 2, pp. 1132-1140, 2021. [<font color="red">ESI 1% Highly Cited Paper</font>]
 		<a href="https://ieeexplore.ieee.org/document/9086072" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Initials-Boosted Coexisting Chaos in a 2D Sine Map and Its Hardware Implementation.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Initials-Boosted Coexisting Chaos in a 2D Sine Map and Its Hardware Implementation.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance">  <B>Zhongyun Hua*</B>, Yinxing Zhang, Yicong Zhou, "Two-Dimensional Modular Chaotification System for Improving Chaos Complexity", <B><I>IEEE Transactions on Signal Processing</I></B>, vol. 68, pp. 1937-1949, 2020. [<font color="red">ESI 1% Highly Cited Paper</font>]  (2021.11-2022.1)
 		<a href="https://ieeexplore.ieee.org/document/9034175" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Two-Dimensional Modular Chaotification System for Improving Chaos Complexity.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Two-Dimensional Modular Chaotification System for Improving Chaos Complexity.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance">  <B>Zhongyun Hua*</B>, Binghang Zhou, Yinxing Zhang, Yicong Zhou, "Modular Chaotification Model with FPGA Implementation", <B><I>Science China Technological Sciences</I></B>, vol.64, pp. 1472-1484, 2021.
 		<a href="https://link.springer.com/article/10.1007/s11431-020-1717-1" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Modular Chaotification Model with FPGA Implementation.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Modular Chaotification Model with FPGA Implementation.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance">  <B>Zhongyun Hua*</B>, Yicong Zhou, Bocheng Bao, "Two-Dimensional Sine Chaotification System with Hardware Implementation", <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 16, no. 2, pp. 887-897, 2020. [<font color="red">ESI 1% Highly Cited Paper</font>]
 	    <a href="https://ieeexplore.ieee.org/document/8738838" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Two-Dimensional Sine Chaotification System with Hardware Implementation.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Two-Dimensional Sine Chaotification System with Hardware Implementation.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Two-Dimensional Sine Chaotification System with Hardware Implementation.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Two-Dimensional Sine Chaotification System with Hardware Implementation.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance">  <B>Zhongyun Hua*</B>, Binghang Zhou, Yicong Zhou, "Sine Chaotification Model for Enhancing Chaos and Its Hardware Implementation", <B><I>IEEE Transactions on Industrial Electronics</I></B>, vol. 66, no. 2, pp. 1273 - 1284, 2019. [<font color="red">ESI 1% Highly Cited Paper</font>] 
 		<a href="https://ieeexplore.ieee.org/document/8353838" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Sine Chaotification Model for Enhancing Chaos and Its Hardware Implementation.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Sine Chaotification Model for Enhancing Chaos and Its Hardware Implementation.txt" target="_blank">[BibTeX]</a> </li>  
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Sine Chaotification Model for Enhancing Chaos and Its Hardware Implementation.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Sine Chaotification Model for Enhancing Chaos and Its Hardware Implementation.txt" target="_blank">[BibTeX]</a> </li>  
 <li id="paperdistance">  <B>Zhongyun Hua*</B>, Yicong Zhou, Hejiao Huang, "Cosine-transform-based chaotic system for image encryption", <B><I>Information Sciences</I></B>, vol. 480, pp. 403 - 419, 2019. [<font color="red">Most Cited in INS</font>] [<font color="red">Most downloaded in INS</font>] [<font color="red">ESI 1% Highly Cited Paper</font>] 
 	    <a href="https://www.sciencedirect.com/science/article/pii/S0020025518309927" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Cosine-transform-based chaotic system for image encryption.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Cosine-transform-based chaotic system for image encryption.txt" target="_blank">[BibTeX]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/Code/Hua2019IS_LSC-IES.rar" target="_blank">[Code]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Cosine-transform-based chaotic system for image encryption.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Cosine-transform-based chaotic system for image encryption.txt" target="_blank">[BibTeX]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/Hua2019IS_LSC-IES.rar" target="_blank">[Code]</a></li>
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Binghang Zhou, Yicong Zhou, "Sine-Transform-Based Chaotic System with FPGA Implementation", <B><I>IEEE Transactions on Industrial Electronics</I></B>, vol. 65, no. 3, pp. 2557 - 2566, 2018. [<font color="red">ESI 1% Highly Cited Paper</font>] (2019.11 - 2020.1)
 		<a href="https://ieeexplore.ieee.org/document/8003386" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Sine-Transform-Based Chaotic System with FPGA Implementation.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Sine-Transform-Based Chaotic System with FPGA Implementation.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Sine-Transform-Based Chaotic System with FPGA Implementation.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Sine-Transform-Based Chaotic System with FPGA Implementation.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, "One-Dimensional Nonlinear Model for Producing Chaos", <B><I>IEEE Transactions on Circuits and Systems I: Regular Papers</I></B>, vol. 65, no. 1, pp. 235 - 246, 2018. 
 		<a href="https://ieeexplore.ieee.org/document/7983008" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/One-Dimensional Nonlinear Model for Producing Chaos.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/One-Dimensional Nonlinear Model for Producing Chaos.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/One-Dimensional Nonlinear Model for Producing Chaos.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/One-Dimensional Nonlinear Model for Producing Chaos.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Shuang Yi, Yicong Zhou, Chengqing Li, Yue Wu, "Designing hyperchaotic Cat maps with any desired number of positive Lyapunov exponents", <B><I>IEEE Transactions on Cybernetics</I></B>, vol. 48, no. 2, pp. 463 - 473, 2018. [<font color="red">ESI 1% Highly Cited Paper</font>] (2018.11 - 2019.1)
 		<a href="https://ieeexplore.ieee.org/document/7805290" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Designing hyperchaotic Cat maps with any desired number of positive Lyapunov exponents.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Designing hyperchaotic Cat maps with any desired number of positive Lyapunov exponents.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Designing hyperchaotic Cat maps with any desired number of positive Lyapunov exponents.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Designing hyperchaotic Cat maps with any desired number of positive Lyapunov exponents.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> Yue Wu, <B>Zhongyun Hua</B>, Yicong Zhou, "n-dimensional Discrete Cat Map Generation using Laplace Expansions," <B><I>IEEE Transactions on Cybernetics</I></B>, vol. 46, no. 11, pp. 2622 - 2633, 2016. 
 		<a href="https://ieeexplore.ieee.org/document/7302020" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/n-dimensional Discrete Cat Map Generation using Laplace Expansions.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/n-dimensional Discrete Cat Map Generation using Laplace Expansions.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/n-dimensional Discrete Cat Map Generation using Laplace Expansions.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/n-dimensional Discrete Cat Map Generation using Laplace Expansions.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, "Dynamic parameter-control chaotic system," <B><I>IEEE Transactions on Cybernetics</I></B>, vol. 46, no. 12, pp. 3330 - 3341, 2016.  
 		<a href="https://ieeexplore.ieee.org/document/7360152" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Dynamic parameter-control chaotic system.pdf" target="_blank">[pdf]</a>
-    <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Dynamic parameter-control chaotic system.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Dynamic parameter-control chaotic system.pdf" target="_blank">[pdf]</a>
+    <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Dynamic parameter-control chaotic system.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> Yicong Zhou (Supervisor), <B>Zhongyun Hua</B>, Chi-Man Pun, C. L. Philip Chen, "Cascade chaotic system with applications," <B><I>IEEE Transactions on Cybernetics</I></B>, vol. 45, no. 9, pp. 2001-2012, 2015. 
 		<a href="https://ieeexplore.ieee.org/document/6940279" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Cascade chaotic system with applications.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Cascade chaotic system with applications.txt" target="_blank">[BibTeX]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/Code/TL_DEA_Zhou2015IETC.rar" target="_blank">[Code]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Cascade chaotic system with applications.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Cascade chaotic system with applications.txt" target="_blank">[BibTeX]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/TL_DEA_Zhou2015IETC.rar" target="_blank">[Code]</a></li>
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, "Image encryption using 2D Logistic-adjusted-Sine map," <B><I>Information Sciences</I></B>, vol. 339, pp. 237–253, 2016. [<font color="red"> [Most Cited in INS</font>] [<font color="red"> ESI 1% Highly Cited Paper</font>]
 		<a href="https://www.sciencedirect.com/science/article/pii/S0020025516000281" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Image encryption using 2D Logistic-adjusted-Sine map.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Image encryption using 2D Logistic-adjusted-Sine map.txt" target="_blank">[BibTeX]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/Code/2DLASMEncryption_Hua2016IS.rar" target="_blank">[Code]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image encryption using 2D Logistic-adjusted-Sine map.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Image encryption using 2D Logistic-adjusted-Sine map.txt" target="_blank">[BibTeX]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/2DLASMEncryption_Hua2016IS.rar" target="_blank">[Code]</a></li>
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, Chi-Man Pun, C. L. Philip Chen, "2D Sine Logistic modulation map for image encryption," <B><I>Information Sciences</I></B>, vol. 297, pp. 80–94, 2015. [<font color="red"> [Most Cited in INS</font>] [<font color="red"> ESI 1% Highly Cited Paper</font>]
 		<a href="https://www.sciencedirect.com/science/article/pii/S0020025514010883" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/2D Sine Logistic modulation map for image encryption.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/2D Sine Logistic modulation map for image encryption.txt" target="_blank">[BibTeX]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/Code/2DSLMMEncryption_Hua2015IS.rar" target="_blank">[Code]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/2D Sine Logistic modulation map for image encryption.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/2D Sine Logistic modulation map for image encryption.txt" target="_blank">[BibTeX]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/2DSLMMEncryption_Hua2015IS.rar" target="_blank">[Code]</a></li>
 <li id="paperdistance">   Han Bao, <B>Zhongyun Hua*</B>, Houzhen Li, Mo Chen, Bocheng Bao, "Discrete Memristor Hyperchaotic Maps", <B><I>IEEE Transactions on Circuits and Systems I: Regular Papers</I></B>, vol. 68, no. 11, pp. 4534-4544, Nov. 2021. 
 <a href="https://doi.org/10.1109/TCSI.2021.3082895">[doi]</a></li>
 <li id="paperdistance">    Han Bao, Houzhen Li, <B>Zhongyun Hua*</B>, Quan Xu, Bo-Cheng Bao*, "Sine-Transform-Based Memristive Hyperchaotic Model with Hardware Implementation", <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 19, no. 3, pp. 2792-2801, March 2023. 
@@ -197,7 +197,7 @@ My research interests include:
 	   <a href="https://ieeexplore.ieee.org/document/9568720">[doi]</a></li>
 <li id="paperdistance">  Houzhen Li, <B>Zhongyun Hua*</B>, Han Bao, Lei Zhu, Mo Chen, Bocheng Bao, "Two-Dimensional Memristive Hyperchaotic Maps and Application in Secure Communication", <B><I>IEEE Transactions on Industrial Electronics</I></B>, vol. 68, no. 10, pp. 9931-9940, 2021. [<font color="red"> ESI 1% Highly Cited Paper</font>]
 		<a href="https://ieeexplore.ieee.org/document/9198105" target="_blank">[doi]</a>
-<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Two-Dimensional Memristive Hyperchaotic Maps and Application in Secure Communication.txt" target="_blank">[BibTeX]</a></li>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Two-Dimensional Memristive Hyperchaotic Maps and Application in Secure Communication.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance">   Bocheng Bao, Kang Rong, Houzhen Li , IEEE, Kexin Li, <B>Zhongyun Hua</B>, and Xi Zhang, "Memristor-Coupled Logistic Hyperchaotic Map", <B><I>IEEE Transactions on Circuits and Systems II: Express Briefs</I></B>, vol. 68, no. 8, pp. 2992-2996, 2021. 
 <a href="https://link.springer.com/article/10.1007/s11431-021-1845-x">[doi]</a></li>
 <li id="paperdistance">   Kang Rong, Han Bao, Houzhen Li, <B>Zhongyun Hua</B>, Bocheng Bao*, "Memristive Hénon map with hidden Neimark–Sacker bifurcations", <B><I> Nonlinear Dynamics</I></B>, vol. 108, pp. 4459-4470, 2022. 
@@ -207,45 +207,45 @@ My research interests include:
 <h3 id="Conference Papers">Conference Papers</h3>
 
 <ol id="olstyle">
-<li id="paperdistance"> Zeming Hou, <B>Zhongyun Hua</B>,Kuiyuan Zhang, Yushu Zhang, "CDNet: Cluster Decision for Deepfake Detection Generalization" in 2023 IEEE International Conference on Image Processing (ICIP), 2023. <a href=" " target="_blank">[pdf]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/CDNet_Cluster_Decision_for_Deepfake_Detection_Generalization.txt" target="_blank">[BibTeX]</a></li>
-<li id="paperdistance"> Jinhao Cui, Heyan Chai, Yanbin Gong, Ye Ding, <B>Zhongyun Hua</B>,Cuiyun Gao, Qing Liao, "MocGCL: Molecular Graph Contrastive Learning via Negative Selection" in 2023 International Joint Conference on Neural Networks (IJCNN). <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> Zeming Hou, <B>Zhongyun Hua</B>,Kuiyuan Zhang, Yushu Zhang, "CDNet: Cluster Decision for Deepfake Detection Generalization" in 2023 IEEE International Conference on Image Processing (ICIP), 2023. <a href=" " target="_blank">[pdf]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/CDNet_Cluster_Decision_for_Deepfake_Detection_Generalization.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> Jinhao Cui, Heyan Chai, Yanbin Gong, Ye Ding, <B>Zhongyun Hua</B>,Cuiyun Gao, Qing Liao, "MocGCL: Molecular Graph Contrastive Learning via Negative Selection" in 2023 International Joint Conference on Neural Networks (IJCNN). <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> Zhibin Zheng, <B>Zhongyun Hua</B>, Leo Yu Zhang, "Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers"  in The 29th International Conference on Neural Information Processing (ICONIP 2022), IIT Indore, India, November 22-26, 2022. 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> Lei Chen, Yongyong Chen, <B>Zhongyun Hua</B>, "Deep Contrastive Multi-view Subspace Clustering" in The 29th International Conference on Neural Information Processing (ICONIP 2022), IIT Indore, India, November 22-26, 2022. 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Deep Contrastive Multi-view Subspace Clustering.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Deep Contrastive Multi-view Subspace Clustering.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Deep Contrastive Multi-view Subspace Clustering.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Deep Contrastive Multi-view Subspace Clustering.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> Jiaxiang You, Yuanman Li, Jiantao Zhou, <B>Zhongyun Hua</B>, Weiwei Sun, Xia Li, "A Transformer based Approach for Image Manipulation Chain Detection" in The 29th ACM International Conference on Multimedia (ACMMM), Chengdu, China, October, 20-24 2021. 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/A Transformer based Approach for Image Manipulation Chain Detection.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/A Transformer based Approach for Image Manipulation Chain Detection.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/A Transformer based Approach for Image Manipulation Chain Detection.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/A Transformer based Approach for Image Manipulation Chain Detection.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> Shuang Yi, Juan Zhou, <B>Zhongyun Hua</B>, Yong Xiang, "Reversible data hiding method in encrypted images using secret sharing and Huffman coding," in 2021 11th International Conference on Information Science and Technology (ICIST), Sichuan, China, 2021.05.21-2021.05.23.
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Reversible data hiding method in encrypted images using secret sharing and Huffman coding.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Reversible data hiding method in encrypted images using secret sharing and Huffman coding.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Reversible data hiding method in encrypted images using secret sharing and Huffman coding.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Reversible data hiding method in encrypted images using secret sharing and Huffman coding.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> Bo Fang, <B>Zhongyun Hua</B>, Hejiao Huang, "Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket," in 2019 14th International Conference on Computer Science & Education (ICCSE), 5-10, Toronto, Canada, 2019.08.19-2019.08-21.
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> Hang Cai, <B>Zhongyun Hua</B>, Hejiao Huang, "A Novel Differential-Chaos-Shift-Keying Secure Communication Scheme" in 2018 IEEE International Conference on Systems, Man and Cybernetics (SMC 2018), 2018, pp. 1794-1798, Miyazaki, Japan, 2018.10.7-2018.10.10. 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/A Novel Differential-Chaos-Shift-Keying Secure Communication Scheme.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/A Novel Differential-Chaos-Shift-Keying Secure Communication Scheme.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/A Novel Differential-Chaos-Shift-Keying Secure Communication Scheme.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/A Novel Differential-Chaos-Shift-Keying Secure Communication Scheme.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> Binxuan Xu, <B>Zhongyun Hua</B>, Hejiao Huang, "A novel image encryption scheme using Josephus permutation and image filtering" in 9th International Symposium on Cyberspace Safety and Security (CSS 2017), 2017, pp. 307-319. 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/A novel image encryption scheme using Josephus permutation and image filtering.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/A novel image encryption scheme using Josephus permutation and image filtering.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/A novel image encryption scheme using Josephus permutation and image filtering.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/A novel image encryption scheme using Josephus permutation and image filtering.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Binghang Zhou, Yicong Zhou, " Image content-based encryption algorithm using high-dimensional chaotic system," in 2015 International Symposium on Nonlinear Theory and its Applications (NOLTA2015), 2015, pp. 554-557. 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Image content-based encryption algorithm using high-dimensional chaotic system.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Image content-based encryption algorithm using high-dimensional chaotic system.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image content-based encryption algorithm using high-dimensional chaotic system.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Image content-based encryption algorithm using high-dimensional chaotic system.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Yiran Wang, Yicong Zhou, “Image cipher using a new interactive two-dimensional chaotic map,” in 2015 IEEE International Conference on Systems, Man and Cybernetics (SMC), 2015, pp. 1804-1808. （EI） 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Image cipher using a new interactive two-dimensional chaotic map.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Image cipher using a new interactive two-dimensional chaotic map.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image cipher using a new interactive two-dimensional chaotic map.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Image cipher using a new interactive two-dimensional chaotic map.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, Chi-Man Pun, C. L. Philip Chen, “Image encryption using 2D Logistic-Sine chaotic map,” in 2014 IEEE International Conference on Systems, Man and Cybernetics (SMC), 2014, pp. 3229-3234. （EI） 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/Image encryption using 2D Logistic-Sine chaotic map.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/Image encryption using 2D Logistic-Sine chaotic map.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image encryption using 2D Logistic-Sine chaotic map.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Image encryption using 2D Logistic-Sine chaotic map.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, Chi-Man Pun, C. L. Philip Chen, “A new 1D parameter-control chaotic framework,” in Mobile Devices and Multimedia: Enabling Technologies, Algorithms, and Applications 2014. Proc. SPIE 9030, 2014, pp. 90300M-1–90300M-10.（EI） 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/A new 1D parameter-control chaotic framework.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/A new 1D parameter-control chaotic framework.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/A new 1D parameter-control chaotic framework.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/A new 1D parameter-control chaotic framework.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, C. L. Philip Chen, “A new series-wound framework for generating 1D chaotic maps,” in 2013 IEEE Digital Signal Processing and Signal Processing Education Meeting (DSP/SPE), 118–123 (2013). （EI）  
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/pdf/A new series-wound framework for generating 1D chaotic maps.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/tree/main/BibTex/A new series-wound framework for generating 1D chaotic maps.txt" target="_blank">[BibTeX]</a></li>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/A new series-wound framework for generating 1D chaotic maps.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/A new series-wound framework for generating 1D chaotic maps.txt" target="_blank">[BibTeX]</a></li>
 </ol>
 
 				
