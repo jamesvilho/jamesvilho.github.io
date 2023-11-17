@@ -32,6 +32,12 @@ My research interests include:
  
 <span class='anchor' id='-lwzl'></span>
 
+<h1 id="-news">🔥 News</h1>
+<ul>
+  <li><em>2022.02</em>:  🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.</li>
+  <li><em>2022.02</em>:  🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.</li>
+</ul>
+
 <h1 id="-Publications">📝 Publications</h1>
 
 <h3 id="Journal Papers">Journal Papers(*Corresponding author)</h3>
