@@ -34,7 +34,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-  <li><em>2023.11</em>:  🎉🎉I was recognized as 'Highly Cited Researchers 20233'</li>
+  <li><em>2023.11</em>:  🎉🎉I was recognized as a 'Highly Cited Researcher 2023'</li>
   <li><em>2023.11</em>:  🎉🎉 A paper is accepted by IEEE TC; A paper is accepted by IEEE TSC; A paper is accepted by IEEE TDSC</li>
 </ul>
 
