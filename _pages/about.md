@@ -34,7 +34,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-  <li><em>2023.11</em>:  🎉🎉I was recognized a 'Highly Cited Researchers 20233'</li>
+  <li><em>2023.11</em>:  🎉🎉I was recognized as 'Highly Cited Researchers 20233'</li>
   <li><em>2023.11</em>:  🎉🎉 A paper is accepted by IEEE TC; A paper is accepted by IEEE TSC; A paper is accepted by IEEE TDSC</li>
 </ul>
 
@@ -44,7 +44,9 @@ My research interests include:
 
 <ol id="olstyle">
 <h4 id="Secure Cloud Computing:">Secure Cloud Computing:</h4>
-<li id="paperdistance">  "Bi-directional Block Encoding for Reversible Data Hiding over Encrypted Images", under review, 2023. <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/BDBE_RDHEI_2023_10_29.zip" target="_blank">[Code]</a></li>
+<li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “Enabling Transparent Deduplication and Auditing for Encrypted Data in Cloud”,  <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, 2023</li>
+<li id="paperdistance">  Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yuanman Li, Yushu Zhang, Yicong Zhou, “Uformer-ICS: A U-Shaped Transformer for Image Compressive Sensing Service”,  <B><I>IEEE Transactions on Services Computing</I></B>, 2023</li>
+<li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Hejiaog Huang, Xiaohua Jia, “LSDedup: Layered Secure Deduplication for Cloud Storage”, <B><I>IEEE Transactions on Computers</I></B>, 2023</li>
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, Xiaohua Jia,  "FCDedup: A Two-Level Deduplication System for Encrypted Data in Fog Computing", <B><I> IEEE Transactions on Parallel and Distributed Systems</I></B>, in press, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10193829">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/FCDedup_A_Two-Level_Deduplication_System_for_Encrypted_Data_in_Fog_Computing.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  <B>Zhongyun Hua</B>, Xingyu Liu, Yifeng Zheng, Shuang Yi, Yushu Zhang, "Reversible Data Hiding over Encrypted Images via Preprocessing-Free Matrix Secret Sharing", <B><I> IEEE Transactions on Circuits and Systems for Video Technology</I></B>, in press, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10193815">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Reversible_Data_Hiding_over_Encrypted_Images_via_Preprocessing-Free_Matrix_Secret_Sharing.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Yifeng Zheng, Shuangqing Xu, Songlei Wang, Yansong Gao, <B>Zhongyun Hua*</B>, "Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient Boosted Decision Tables", <B><I> IEEE Transactions on Services Computing</I></B>, in press, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10135127">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Privet_A_Privacy-Preserving_Vertical_Federated_Learning_Service_for_Gradient_Boosted_Decision_Tables.pdf" target="_blank">[pdf]</a></li>
