@@ -61,6 +61,7 @@ My research interests include:
 
 
 <h4 id="Multimedia Security and Image Processing:">Multimedia Security and Image Processing:</h4>
+<li id="paperdistance">Xingyu Liu, <B>Zhongyun Hua*</B>, Shuang Yi, Yushu Zhang, Yicong Zhou, "Bi-directional Block Encoding for Reversible Data Hiding over Encrypted Images", ACM Transactions on Multimedia Computing, Communications, and Applications, in press, 2023. </li>
 
 <li id="paperdistance"> Qiuyu Duan, <B>Zhongyun Hua*</B>, Qing Liao, Yushu Zhang, LEO Yu Zhang,, "Conditional Backdoor Attack via JPEG Compression", <B><I>Thirty-Eighth AAAI Conference on Artificial Intelligence</I></B>, 2024.</li>
 
