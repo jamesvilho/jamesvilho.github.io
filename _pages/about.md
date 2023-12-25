@@ -45,7 +45,7 @@ My research interests include:
 
 <ol id="olstyle">
 <h4 id="Secure Cloud Computing:">Secure Cloud Computing:</h4>
-<li id="paperdistance">  <B>Zhongyun Hua*</B>, Yufei, Yao, Mingyang Song, Yifeng Zheng*, Yushu Zhang, and Cong Wang, “Blockchain-Assisted Secure Deduplication for Large-Scale Cloud Storage Service”,  <B><I>IEEE Transactions on Services Computing</I></B>, 2023</li>
+<li id="paperdistance">  <B>Zhongyun Hua</B>, Yufei, Yao, Mingyang Song, Yifeng Zheng*, Yushu Zhang, and Cong Wang, “Blockchain-Assisted Secure Deduplication for Large-Scale Cloud Storage Service”,  <B><I>IEEE Transactions on Services Computing</I></B>, 2023</li>
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “Enabling Transparent Deduplication and Auditing for Encrypted Data in Cloud”,  <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, 2023</li>
 <li id="paperdistance">  Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yuanman Li, Yushu Zhang, Yicong Zhou, “Uformer-ICS: A U-Shaped Transformer for Image Compressive Sensing Service”,  <B><I>IEEE Transactions on Services Computing</I></B>, 2023</li>
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Hejiaog Huang, Xiaohua Jia, “LSDedup: Layered Secure Deduplication for Cloud Storage”, <B><I>IEEE Transactions on Computers</I></B>, 2023</li>
