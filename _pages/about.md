@@ -210,7 +210,7 @@ My research interests include:
 <a href="https://ieeexplore.ieee.org/document/9729639">[doi]</a></li>
 <li id="paperdistance">   Kexin Li, Han Bao, Houzhen Li, Jun Ma, <B>Zhongyun Hua*</B>, Bo-Cheng Bao, "Memristive Rulkov Neuron Model with Magnetic Induction Effects", <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 18, no. 3, pp. 1726-1736, March 2022. 
 <a href="https://doi.org/10.1109/TII.2021.3086819">[doi]</a></li>
-<li id="paperdistance">   Han Bao, <B>Zhongyun Hua*</B>, Houzhen Li, Mo Chen, Bo-Cheng Bao*, "Memristor-Based Hyperchaotic Maps and Application in Auxiliary Classifier Generative Adversarial Nets", <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 18, no. 8, pp. 5297-5306, 2022. 
+<li id="paperdistance">   Han Bao, <B>Zhongyun Hua</B>, Houzhen Li, Mo Chen, Bo-Cheng Bao*, "Memristor-Based Hyperchaotic Maps and Application in Auxiliary Classifier Generative Adversarial Nets", <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 18, no. 8, pp. 5297-5306, 2022. 
 	   <a href="https://ieeexplore.ieee.org/document/9568720">[doi]</a></li>
 <li id="paperdistance">  Houzhen Li, <B>Zhongyun Hua*</B>, Han Bao, Lei Zhu, Mo Chen, Bocheng Bao, "Two-Dimensional Memristive Hyperchaotic Maps and Application in Secure Communication", <B><I>IEEE Transactions on Industrial Electronics</I></B>, vol. 68, no. 10, pp. 9931-9940, 2021. [<font color="red"> ESI 1% Highly Cited Paper</font>]
 		<a href="https://ieeexplore.ieee.org/document/9198105" target="_blank">[doi]</a>
