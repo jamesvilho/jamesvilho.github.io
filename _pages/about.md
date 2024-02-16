@@ -206,7 +206,7 @@ My research interests include:
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/2DSLMMEncryption_Hua2015IS.rar" target="_blank">[Code]</a></li>
 <li id="paperdistance">   Han Bao, <B>Zhongyun Hua*</B>, Houzhen Li, Mo Chen, Bocheng Bao, "Discrete Memristor Hyperchaotic Maps", <B><I>IEEE Transactions on Circuits and Systems I: Regular Papers</I></B>, vol. 68, no. 11, pp. 4534-4544, Nov. 2021. 
 <a href="https://doi.org/10.1109/TCSI.2021.3082895">[doi]</a></li>
-<li id="paperdistance">    Han Bao, Houzhen Li, <B>Zhongyun Hua*</B>, Quan Xu, Bo-Cheng Bao*, "Sine-Transform-Based Memristive Hyperchaotic Model with Hardware Implementation", <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 19, no. 3, pp. 2792-2801, March 2023. 
+<li id="paperdistance">    Han Bao, Houzhen Li, <B>Zhongyun Hua</B>, Quan Xu, Bo-Cheng Bao*, "Sine-Transform-Based Memristive Hyperchaotic Model with Hardware Implementation", <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 19, no. 3, pp. 2792-2801, March 2023. 
 <a href="https://ieeexplore.ieee.org/document/9729639">[doi]</a></li>
 <li id="paperdistance">   Kexin Li, Han Bao, Houzhen Li, Jun Ma, <B>Zhongyun Hua*</B>, Bo-Cheng Bao, "Memristive Rulkov Neuron Model with Magnetic Induction Effects", <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 18, no. 3, pp. 1726-1736, March 2022. 
 <a href="https://doi.org/10.1109/TII.2021.3086819">[doi]</a></li>
