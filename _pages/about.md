@@ -34,7 +34,8 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-  <li><em>2024.1</em>:  🎉🎉 A paper is accpeted by IEEE TIFS; A paper is accpeted by CSF </li>
+  <li><em>2024.1</em>:  🎉🎉 A paper is accpeted by CSF </li>
+  <li><em>2024.1</em>:  🎉🎉 A paper is accpeted by IEEE TIFS </li>
   <li><em>2023.12</em>:  🎉🎉 A paper is accpeted by AAAI 2024; A paper is accepted by ACM TOMM; A paper is accepted by IEEE TSC </li>
   <li><em>2023.11</em>:  🎉🎉I was recognized as a 'Highly Cited Researcher 2023'</li>
   <li><em>2023.11</em>:  🎉🎉 A paper is accepted by IEEE TC; A paper is accepted by IEEE TSC; A paper is accepted by IEEE TDSC</li>
