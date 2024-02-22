@@ -34,7 +34,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-  <li><em>2024.1</em>:  🎉🎉 A paper is accpeted by IEEE TIFS </li>
+  <li><em>2024.1</em>:  🎉🎉 A paper is accpeted by IEEE TIFS; A paper is accpeted by CSF </li>
   <li><em>2023.12</em>:  🎉🎉 A paper is accpeted by AAAI 2024; A paper is accepted by ACM TOMM; A paper is accepted by IEEE TSC </li>
   <li><em>2023.11</em>:  🎉🎉I was recognized as a 'Highly Cited Researcher 2023'</li>
   <li><em>2023.11</em>:  🎉🎉 A paper is accepted by IEEE TC; A paper is accepted by IEEE TSC; A paper is accepted by IEEE TDSC</li>
@@ -128,6 +128,7 @@ My research interests include:
 
 
 <h4 id="Nonlinear Systems and Applications:">Nonlinear Systems and Applications:</h4>
+<li id="paperdistance"> [3]	Zihua Wu, Yinxing Zhang, Han Bao, Rushi Lan, <B>Zhongyun Hua*</B>, "nD-CS: A Circularly Shifting Chaotic Map Generation Method", <B><I> Chaos, Solitons and Fractals </I></B>, 2024. <a href=" ">[doi]</a></li>
 <li id="paperdistance"> GU Yang, BAO Han*, YU XiHong, <B>HUA ZhongYun</B>, BAO BoCheng, XU Quan, "Hybrid tri-memristor hyperchaotic map and application in Wasserstein Generative Adversarial Nets", <B><I> Science China Technological Sciences </I></B>, 2024. <a href=" ">[doi]</a></li>
 <li id="paperdistance">  Han Bao, KeXin Li, Jun Ma, <B>Zhongyun Hua</B>, Quan Xu, BoCheng Bao, "Memristive effects on an improved discrete Rulkov neuron model", <B><I> Science China Technological Sciences </I></B>, 2023. <a href=" ">[doi]</a></li>
 <li id="paperdistance">  Yongxin Li, Chunbiao Li, Sicong Liu <B>Zhongyun Hua</B>, Haibo Jiang, "A 2-D Conditional Symmetric Hyperchaotic Map With Complete Control", <B><I> Nonlinear Dynamics</I></B>, vol. 109, no. 2, pp. 1155-1165, 2022. <a href="https://link.springer.com/article/10.1007/s11071-022-07485-5">[doi]</a ></li>
