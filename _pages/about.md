@@ -34,7 +34,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-  <li><em>2024.02</em>:  🎉🎉 A paper is accpeted by CSF </li>
+  <li><em>2024.02</em>:  🎉🎉 A paper is accpeted by CSF; A paper is accpeted by CVPR 2024 </li>
   <li><em>2024.01</em>:  🎉🎉 A paper is accpeted by IEEE TIFS </li>
   <li><em>2023.12</em>:  🎉🎉 A paper is accpeted by AAAI 2024; A paper is accepted by ACM TOMM; A paper is accepted by IEEE TSC </li>
   <li><em>2023.11</em>:  🎉🎉I was recognized as a 'Highly Cited Researcher 2023'</li>
@@ -66,8 +66,6 @@ My research interests include:
 
 <h4 id="Multimedia Security and Image Processing:">Multimedia Security and Image Processing:</h4>
 <li id="paperdistance">Xingyu Liu, <B>Zhongyun Hua*</B>, Shuang Yi, Yushu Zhang, Yicong Zhou, "Bi-directional Block Encoding for Reversible Data Hiding over Encrypted Images", ACM Transactions on Multimedia Computing, Communications, and Applications, in press, 2023. </li>
-
-<li id="paperdistance"> Qiuyu Duan, <B>Zhongyun Hua*</B>, Qing Liao, Yushu Zhang, LEO Yu Zhang,, "Conditional Backdoor Attack via JPEG Compression", <B><I>Thirty-Eighth AAAI Conference on Artificial Intelligence</I></B>, 2024.</li>
 
 
 <li id="paperdistance">  Yushu Zhang, Nuo Chen, Shuren Qi*, Mingfu Xue, <B>Zhongyun Hua</B>, "Detection of Recolored Image by Texture Features in Chrominance Components", <B><I>ACM Transactions on Multimedia Computing, Communications and Applications</I></B>, vol. 19, no. 3, pp 1-23, 2023. <a href="https://dl.acm.org/doi/abs/10.1145/3571076">[doi]</a><a href="https://dl.acm.org/doi/pdf/10.1145/3571076" target="_blank">[pdf]</a></li>
@@ -226,6 +224,10 @@ My research interests include:
 <h3 id="Conference Papers">Conference Papers</h3>
 
 <ol id="olstyle">
+<li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B, "Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay", <B><I>The IEEE/CVF Computer Vision and Pattern Recognition Conferencee</I></B>, 2024.</li>
+	
+<li id="paperdistance"> Qiuyu Duan, <B>Zhongyun Hua*</B>, Qing Liao, Yushu Zhang, LEO Yu Zhang, "Conditional Backdoor Attack via JPEG Compression", <B><I>Thirty-Eighth AAAI Conference on Artificial Intelligence</I></B>, 2024.</li>
+
 <li id="paperdistance"> Zeming Hou, <B>Zhongyun Hua</B>,Kuiyuan Zhang, Yushu Zhang, "CDNet: Cluster Decision for Deepfake Detection Generalization" in 2023 IEEE International Conference on Image Processing (ICIP), 2023. <a href=" " target="_blank">[pdf]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/CDNet_Cluster_Decision_for_Deepfake_Detection_Generalization.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> Jinhao Cui, Heyan Chai, Yanbin Gong, Ye Ding, <B>Zhongyun Hua</B>,Cuiyun Gao, Qing Liao, "MocGCL: Molecular Graph Contrastive Learning via Negative Selection" in 2023 International Joint Conference on Neural Networks (IJCNN). <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.pdf" target="_blank">[pdf]</a>
 <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.txt" target="_blank">[BibTeX]</a></li>
