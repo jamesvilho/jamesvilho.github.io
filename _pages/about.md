@@ -224,7 +224,7 @@ My research interests include:
 <h3 id="Conference Papers">Conference Papers</h3>
 
 <ol id="olstyle">
-<li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B>, "Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay", in IEEE/CVF Computer Vision and Pattern Recognition Conferencee, 2024.</li>
+<li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B>, "Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay", in IEEE/CVF Computer Vision and Pattern Recognition Conference, 2024.</li>
 	
 <li id="paperdistance"> Qiuyu Duan, <B>Zhongyun Hua*</B>, Qing Liao, Yushu Zhang, LEO Yu Zhang, "Conditional Backdoor Attack via JPEG Compression", in Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024.</li>
 
