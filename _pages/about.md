@@ -48,7 +48,7 @@ My research interests include:
 <ol id="olstyle">
 
  <h4 id="Multimedia Security and Image Processing:">Multimedia Security and Image Processing:</h4>
-<li id="paperdistance">Xingyu Liu, <B>Zhongyun Hua*</B>, Shuang Yi, Yushu Zhang, Yicong Zhou, "Bi-directional Block Encoding for Reversible Data Hiding over Encrypted Images", ACM Transactions on Multimedia Computing, Communications, and Applications, in press, 2023. </li>
+<li id="paperdistance">Xingyu Liu, <B>Zhongyun Hua*</B>, Shuang Yi, Yushu Zhang, Yicong Zhou, "Bi-directional Block Encoding for Reversible Data Hiding over Encrypted Images", <B><I>ACM Transactions on Multimedia Computing, Communications, and Applications</I></B>, in press, 2023. </li>
 
 
 <li id="paperdistance">  Yushu Zhang, Nuo Chen, Shuren Qi*, Mingfu Xue, <B>Zhongyun Hua</B>, "Detection of Recolored Image by Texture Features in Chrominance Components", <B><I>ACM Transactions on Multimedia Computing, Communications and Applications</I></B>, vol. 19, no. 3, pp 1-23, 2023. <a href="https://dl.acm.org/doi/abs/10.1145/3571076">[doi]</a><a href="https://dl.acm.org/doi/pdf/10.1145/3571076" target="_blank">[pdf]</a></li>
