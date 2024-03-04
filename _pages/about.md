@@ -34,6 +34,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
+  <li><em>2024.03</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I </li>
   <li><em>2024.02</em>:  🎉🎉 A paper is accpeted by CSF; A paper is accpeted by CVPR 2024 </li>
   <li><em>2024.01</em>:  🎉🎉 A paper is accpeted by IEEE TIFS </li>
   <li><em>2023.12</em>:  🎉🎉 A paper is accpeted by AAAI 2024; A paper is accepted by ACM TOMM; A paper is accepted by IEEE TSC </li>
@@ -130,7 +131,8 @@ My research interests include:
 
 
 <h4 id="Nonlinear Systems and Applications:">Nonlinear Systems and Applications:</h4>
-<li id="paperdistance"> Zihua Wu, Yinxing Zhang, Han Bao, Rushi Lan, <B>Zhongyun Hua*</B>, "nD-CS: A Circularly Shifting Chaotic Map Generation Method", <B><I> Chaos, Solitons and Fractals </I></B>, 2024. <a href=" ">[doi]</a></li>
+<li id="paperdistance"> Yinxing Zhang, <B>Zhongyun Hua*</B>, Han Bao, Hejiao Huang, "Multi-Valued Model for Generating Complex Chaos and Fractals", <B><I> IEEE Transactions on Circuits and Systems I: Regular Papers </I></B>, 2024. </li>
+<li id="paperdistance"> Zihua Wu, Yinxing Zhang, Han Bao, Rushi Lan, <B>Zhongyun Hua*</B>, "nD-CS: A Circularly Shifting Chaotic Map Generation Method", <B><I> Chaos, Solitons and Fractals </I></B>, 2024. </li>
 <li id="paperdistance"> GU Yang, BAO Han*, YU XiHong, <B>HUA ZhongYun</B>, BAO BoCheng, XU Quan, "Hybrid tri-memristor hyperchaotic map and application in Wasserstein Generative Adversarial Nets", <B><I> Science China Technological Sciences </I></B>, 2024. <a href=" ">[doi]</a></li>
 <li id="paperdistance">  Han Bao, KeXin Li, Jun Ma, <B>Zhongyun Hua</B>, Quan Xu, BoCheng Bao, "Memristive effects on an improved discrete Rulkov neuron model", <B><I> Science China Technological Sciences </I></B>, 2023. <a href=" ">[doi]</a></li>
 <li id="paperdistance">  Yongxin Li, Chunbiao Li, Sicong Liu <B>Zhongyun Hua</B>, Haibo Jiang, "A 2-D Conditional Symmetric Hyperchaotic Map With Complete Control", <B><I> Nonlinear Dynamics</I></B>, vol. 109, no. 2, pp. 1155-1165, 2022. <a href="https://link.springer.com/article/10.1007/s11071-022-07485-5">[doi]</a ></li>
