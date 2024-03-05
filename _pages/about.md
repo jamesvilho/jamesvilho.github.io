@@ -34,7 +34,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-  <li><em>2024.03</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I </li>
+  <li><em>2024.03</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSS </li>
   <li><em>2024.02</em>:  🎉🎉 A paper is accpeted by CSF; A paper is accpeted by CVPR 2024 </li>
   <li><em>2024.01</em>:  🎉🎉 A paper is accpeted by IEEE TIFS </li>
   <li><em>2023.12</em>:  🎉🎉 A paper is accpeted by AAAI 2024; A paper is accepted by ACM TOMM; A paper is accepted by IEEE TSC </li>
@@ -49,9 +49,10 @@ My research interests include:
 <ol id="olstyle">
 
  <h4 id="Multimedia Security and Image Processing:">Multimedia Security and Image Processing:</h4>
+
+ <li id="paperdistance">Xiangli Xiao, Yushu Zhang, Leo Yu Zhang, <B>Zhongyun Hua</B>, Zhe Liu, Jiwu Huang, "FairCMS: Cloud Media Sharing with Fair Copyright Protection", <B><I>IEEE Transactions on Computational Social Systems</I></B>, in press, 2024. </li>
+ 
 <li id="paperdistance">Xingyu Liu, <B>Zhongyun Hua*</B>, Shuang Yi, Yushu Zhang, Yicong Zhou, "Bi-directional Block Encoding for Reversible Data Hiding over Encrypted Images", <B><I>ACM Transactions on Multimedia Computing, Communications, and Applications</I></B>, in press, 2023. </li>
-
-
 <li id="paperdistance">  Yushu Zhang, Nuo Chen, Shuren Qi*, Mingfu Xue, <B>Zhongyun Hua</B>, "Detection of Recolored Image by Texture Features in Chrominance Components", <B><I>ACM Transactions on Multimedia Computing, Communications and Applications</I></B>, vol. 19, no. 3, pp 1-23, 2023. <a href="https://dl.acm.org/doi/abs/10.1145/3571076">[doi]</a><a href="https://dl.acm.org/doi/pdf/10.1145/3571076" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Xuanqi Zhang, Qiangqiang Shen, Yongyong Chen∗, <B>Zhongyun Hua</B>, Jingyong Su, "Multi-View Ensemble Clustering via Low-Rank and Sparse Decomposition: from Matrix to Tensor", <B><I>ACM Transactions on Knowledge Discovery from Data</I></B>, vol. 17, no. 103, pp 1-19, 2023. <a href="https://dl.acm.org/doi/abs/10.1145/3589768">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Multi-View Ensemble Clustering via Low-Rank and Sparse Decomposition_from Matrix to Tensor.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Yongyong Chen, Lei Cheng, <B>Zhongyun Hua*</B>, Shuang Yi, "Laplacian Regularized Deep Low-Rank Subspace Clustering Network", <B><I> Applied Intelligence</I></B>, in press, 2023. <a href="https://link.springer.com/article/10.1007/s10489-023-04668-4">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Laplacian Regularized Deep Low-Rank Subspace Clustering Network.pdf" target="_blank">[pdf]</a></li>
@@ -110,6 +111,7 @@ My research interests include:
 
 
 <h4 id="Secure Cloud Computing:">Secure Cloud Computing:</h4>
+<li id="paperdistance">  Weibo Wang, Yifeng Zheng, Songlei Wanga, <B>Zhongyun Hua</B>, Lei Xub, and Yansong Gao, “BopSkyline: Boosting Privacy-Preserving Skyline Query Service in the Cloud”,  <B><I>IEEE Computer & Security</I></B>, 2024</li>
 <li id="paperdistance">  <B>Zhongyun Hua</B>, Yan, Tong, Yifeng Zheng*, Yuhong Li, and Yushu Zhang, “PPGloVe: Privacy-Preserving GloVe for Training Word Vectors in the Dark”,  <B><I>IEEE Transactions on Information Forensics and Security</I></B>, 2024</li>
 <li id="paperdistance">  <B>Zhongyun Hua</B>, Yufei, Yao, Mingyang Song, Yifeng Zheng*, Yushu Zhang, and Cong Wang, “Blockchain-Assisted Secure Deduplication for Large-Scale Cloud Storage Service”,  <B><I>IEEE Transactions on Services Computing</I></B>, 2023</li>
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “Enabling Transparent Deduplication and Auditing for Encrypted Data in Cloud”,  <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, 2023</li>
