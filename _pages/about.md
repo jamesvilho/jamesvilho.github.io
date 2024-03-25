@@ -35,7 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-  <li><em>2024.03</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSS </li>
+  <li><em>2024.03</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSS; Apaper is accepted bgy IEEE TIFS </li>
   <li><em>2024.02</em>:  🎉🎉 A paper is accpeted by CSF; A paper is accpeted by CVPR 2024 </li>
   <li><em>2024.01</em>:  🎉🎉 A paper is accpeted by IEEE TIFS </li>
   <li><em>2023.12</em>:  🎉🎉 A paper is accpeted by AAAI 2024; A paper is accepted by ACM TOMM; A paper is accepted by IEEE TSC </li>
@@ -112,6 +112,8 @@ My research interests include:
 
 
 <h4 id="Secure Cloud Computing:">Secure Cloud Computing:</h4>
+<li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “SimLESS: A Secure Deduplication System over
+Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information Forensics and Security</I></B>, 2024</li>
 <li id="paperdistance">  Weibo Wang, Yifeng Zheng, Songlei Wanga, <B>Zhongyun Hua</B>, Lei Xub, and Yansong Gao, “BopSkyline: Boosting Privacy-Preserving Skyline Query Service in the Cloud”,  <B><I>IEEE Computer & Security</I></B>, 2024</li>
 <li id="paperdistance">  <B>Zhongyun Hua</B>, Yan, Tong, Yifeng Zheng*, Yuhong Li, and Yushu Zhang, “PPGloVe: Privacy-Preserving GloVe for Training Word Vectors in the Dark”,  <B><I>IEEE Transactions on Information Forensics and Security</I></B>, 2024</li>
 <li id="paperdistance">  <B>Zhongyun Hua</B>, Yufei, Yao, Mingyang Song, Yifeng Zheng*, Yushu Zhang, and Cong Wang, “Blockchain-Assisted Secure Deduplication for Large-Scale Cloud Storage Service”,  <B><I>IEEE Transactions on Services Computing</I></B>, 2023</li>
