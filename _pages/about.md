@@ -18,14 +18,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently affiliated with the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen. My research interests include Multimedia Security, Multimedia Forensics, Image Processingg, Nonlinear Systems and Applications, Secure Cloud Computing, and AI Security. If you have any interest in exploring potential academic collaborations or if you have inquiries related to my research, please feel free to contact me via email at <B>huazhongyunAThit.edu.cn</B> or <B>huazyumATgmail.com</B>. 
+I am currently affiliated with the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen. My research interests include Multimedia Security, Multimedia Forensics, Image Processing, Nonlinear Systems and Applications, Secure Cloud Computing, and AI Security. If you have any interest in exploring potential academic collaborations or if you have inquiries related to my research, please feel free to contact me via email at <B>huazhongyunAThit.edu.cn</B> or <B>huazyumATgmail.com</B>. 
 
 I received the B.S. degree in software engineering from Chongqing University, Chongqing, China, in 2011, and the M.S. and Ph.D. degrees in software engineering from the University of Macau, Macau, China, in 2013 and 2016, respectively. My works have appeared in prestigious venues such as IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Image Processing, IEEE Transactions on Signal Processing, IEEE Transactions on Multimedia, and ACM Multimedia. I have been recognized as a 'Highly Cited Researcher 2022'. I have published about eighty research papers. I am an associate editor of International Journal of Bifurcation and Chaos. <a href='https://scholar.google.com/citations?user=Sl0BI_IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a><a href='https://scholar.google.com/citations?user=Sl0BI_IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=h-index"></a>。
 
 
 My research interests include:
 - Nonlinear Systems and Applications; Chaos theory
-- Multimedia Security
+- Multimedia Security, Multimedia Forensics, Image Processing
 - Secure Cloud Computing
 - AI Security
   
