@@ -35,7 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-  <li><em>2024.05</em>:  🎉🎉 A paper is accpeted by ICML 2024 </li>
+  <li><em>2024.05</em>:  🎉🎉 A paper is accpeted by ICML 2024; A paper is accpeted by IEEE TIFS </li>
   <li><em>2024.03</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSS; Apaper is accepted bgy IEEE TIFS </li>
   <li><em>2024.02</em>:  🎉🎉 A paper is accpeted by CSF; A paper is accpeted by CVPR 2024 </li>
   <li><em>2024.01</em>:  🎉🎉 A paper is accpeted by IEEE TIFS </li>
@@ -149,6 +149,7 @@ My research interests include:
 
  <h4 id="Multimedia Security and Image Processing:">Multimedia Security and Image Processing:</h4>
 
+<li id="paperdistance">Xiangli Xiao, Yushu Zhang*, <B>Zhongyun Hua</B>, Zhihua Xia, Jian Weng, "Client-Side Embedding of Screen-Shooting Resilient Image Watermarking", <B><I>IEEE Transactions on Information Forensics and Security</I></B>, in press, 2024. </li>
  <li id="paperdistance">Xiangli Xiao, Yushu Zhang, Leo Yu Zhang, <B>Zhongyun Hua</B>, Zhe Liu, Jiwu Huang, "FairCMS: Cloud Media Sharing with Fair Copyright Protection", <B><I>IEEE Transactions on Computational Social Systems</I></B>, in press, 2024. </li>
  
 <li id="paperdistance">Xingyu Liu, <B>Zhongyun Hua*</B>, Shuang Yi, Yushu Zhang, Yicong Zhou, "Bi-directional Block Encoding for Reversible Data Hiding over Encrypted Images", <B><I>ACM Transactions on Multimedia Computing, Communications, and Applications</I></B>, in press, 2023. </li>
