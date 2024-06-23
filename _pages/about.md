@@ -71,8 +71,10 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Hejiao Huang, Xiaohua Jia, "Blockchain-Based Deduplication and Integrity Auditing over Encrypted Cloud Storage", <B><I> IEEE Transactions on Dependable and Secure Computing</I></B>, in press, 2022. <a href="https://ieeexplore.ieee.org/document/10018273">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Blockchain-Based_Deduplication_and_Integrity_Auditing_over_Encrypted_Cloud_Storage.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance"> 李忠文, 丁烨, <B>花忠云</B>, 李君一, 廖清*, “结合三元组重要性的知识图谱补全模型”, <B><I>计算机科学</I></B>, 2020</li>
 
- <h4 id="Multimedia Security and Image Processing:">Multimedia Security and Image Processing:</h4>
-
+ <h4 id="Multimedia Security, Multimedia Forensics, and AI Security:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
+ 
+<li id="paperdistance">[12]	Linshan Hou, <B>Zhongyun Hua*</B>, Yuhong Li, Yifeng Zheng, and Leo Yu Zhang, "M-to-N Backdoor Paradigm: A Multi-Trigger and Multi-Target Attack to Deep Learning Models", <B><I>IEEE Transactions on Circuits and Systems for Video Technology</I></B>, in press, 2024. </li>
+ <li id="paperdistance">Yuanman Li, Lanhao Ye, Haokun Cao, Wei Wang, <B>Zhongyun Hua*</B>, "Cascaded Adaptive Graph Representation Learning for lmage Copy-Move Forgery Detection", <B><I>ACM Transactions on Multimedia Computing, Communications, and Applications</I></B>, in press, 2024. </li>
 <li id="paperdistance">Xiangli Xiao, Yushu Zhang*, <B>Zhongyun Hua</B>, Zhihua Xia, Jian Weng, "Client-Side Embedding of Screen-Shooting Resilient Image Watermarking", <B><I>IEEE Transactions on Information Forensics and Security</I></B>, in press, 2024. </li>
  <li id="paperdistance">Xiangli Xiao, Yushu Zhang, Leo Yu Zhang, <B>Zhongyun Hua</B>, Zhe Liu, Jiwu Huang, "FairCMS: Cloud Media Sharing with Fair Copyright Protection", <B><I>IEEE Transactions on Computational Social Systems</I></B>, in press, 2024. </li>
  
