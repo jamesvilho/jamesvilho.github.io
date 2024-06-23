@@ -45,6 +45,42 @@ My research interests include:
   <li><em>2023.11</em>:  🎉🎉 A paper is accepted by IEEE TC; A paper is accepted by IEEE TSC; A paper is accepted by IEEE TDSC</li>
 </ul>
 
+<span class='anchor' id='-ase'></span>
+
+<h1 id="-Academic Service Experience">📎 Academic Service Experience</h1>
+<ul>
+ <li><em>2024 - Now</em>, Associate Editor, IEEE Signal Processing Letters</li>
+  <li><em>2022 - Now</em>, Associate Editor, International Journal of Bifurcation and Chaos</li>
+  <li><em>2020 - Now</em>, Editorial Board, China Computer Science Review (A Chinese Journal)</li>
+  <li><em>2021</em>, Special Issue Editor, "Cyber Security and AI" in Sensors</li>
+  <li><em>2022</em>, Special Issue Editor, "Mathematical Methods for Computer Science" in Mathematics (JCR Q1)</li>
+  <li><em>2020/10/30 - 11/01</em>, 2020 International Conference on Security and Privacy in Digital Economy, Section Chair</li>
+  <li><em>2020/10/30 - 11/01</em>, 2018 IEEE International Conference on SMC, Special Section Chair</li>
+  <li><em>2023 - Now</em>, IEEE Senior Member</li>
+</ul>
+
+
+<span class='anchor' id='-xl'></span>
+
+<h1 id="-Educations">🎓 Educations</h1>
+<ul>
+  <li><em>2013.09 - 2016.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> Ph.D., Department of Computer and Information Science, University of Macau</li>
+  <li><em>2011.09 - 2013.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> M.S., Department of Computer and Information Science, University of Macau</li>
+  <li><em>2007.09 - 2011.06</em>, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/CQU_logo.png" width="23pt" /></a> B.S., Department of Software Engineering, Chongqing University</li>
+</ul>
+
+
+
+<span class='anchor' id='-xshy'></span>
+
+<h1 id="-Research Experience">💻 Research Experience</h1>
+<ul>
+ <li><em>2024.01 - Now</em>, Professor, School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen</li>
+  <li><em>2018.03 - 2023.12</em>, Associate Professor, School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen</li>
+  <li><em>2016.11 - 2018.03</em>, Assistant Professor, School of Computer Science and Technology, Harbin Institute of Technology Shenzhen Graduate School</li>
+  <li><em>2010.10 - 2011.04</em>, Research Intern, New Tech Department, Hewlett Packard</li>
+</ul>
+
 <h1 id="-Publications">📝 Publications</h1>
 
 <h3 id="Journal Papers">Journal Papers(*Corresponding author)</h3>
@@ -73,7 +109,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
  <h4 id="Multimedia Security, Multimedia Forensics, and AI Security:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
  
-<li id="paperdistance">[12]	Linshan Hou, <B>Zhongyun Hua*</B>, Yuhong Li, Yifeng Zheng, and Leo Yu Zhang, "M-to-N Backdoor Paradigm: A Multi-Trigger and Multi-Target Attack to Deep Learning Models", <B><I>IEEE Transactions on Circuits and Systems for Video Technology</I></B>, in press, 2024. </li>
+<li id="paperdistance">Linshan Hou, <B>Zhongyun Hua*</B>, Yuhong Li, Yifeng Zheng, and Leo Yu Zhang, "M-to-N Backdoor Paradigm: A Multi-Trigger and Multi-Target Attack to Deep Learning Models", <B><I>IEEE Transactions on Circuits and Systems for Video Technology</I></B>, in press, 2024. </li>
  <li id="paperdistance">Yuanman Li, Lanhao Ye, Haokun Cao, Wei Wang, <B>Zhongyun Hua*</B>, "Cascaded Adaptive Graph Representation Learning for lmage Copy-Move Forgery Detection", <B><I>ACM Transactions on Multimedia Computing, Communications, and Applications</I></B>, in press, 2024. </li>
 <li id="paperdistance">Xiangli Xiao, Yushu Zhang*, <B>Zhongyun Hua</B>, Zhihua Xia, Jian Weng, "Client-Side Embedding of Screen-Shooting Resilient Image Watermarking", <B><I>IEEE Transactions on Information Forensics and Security</I></B>, in press, 2024. </li>
  <li id="paperdistance">Xiangli Xiao, Yushu Zhang, Leo Yu Zhang, <B>Zhongyun Hua</B>, Zhe Liu, Jiwu Huang, "FairCMS: Cloud Media Sharing with Fair Copyright Protection", <B><I>IEEE Transactions on Computational Social Systems</I></B>, in press, 2024. </li>
@@ -337,41 +373,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 <B><I style="margin-left: 20px;">Information Sciences</I></B>, vol. 480, pp. 403-419, 2019. <br>
 <B><I style="margin-left: 20px;">Signal Processing</I></B>, vol. 149, pp. 148-161, 2018. (2018-2019) <br>
 
-<span class='anchor' id='-ase'></span>
 
-<h1 id="-Academic Service Experience">📎 Academic Service Experience</h1>
-<ul>
- <li><em>2024 - Now</em>, Associate Editor, IEEE Signal Processing Letters</li>
-  <li><em>2022 - Now</em>, Associate Editor, International Journal of Bifurcation and Chaos</li>
-  <li><em>2020 - Now</em>, Editorial Board, China Computer Science Review (A Chinese Journal)</li>
-  <li><em>2021</em>, Special Issue Editor, "Cyber Security and AI" in Sensors</li>
-  <li><em>2022</em>, Special Issue Editor, "Mathematical Methods for Computer Science" in Mathematics (JCR Q1)</li>
-  <li><em>2020/10/30 - 11/01</em>, 2020 International Conference on Security and Privacy in Digital Economy, Section Chair</li>
-  <li><em>2020/10/30 - 11/01</em>, 2018 IEEE International Conference on SMC, Special Section Chair</li>
-  <li><em>2023 - Now</em>, IEEE Senior Member</li>
-</ul>
-
-
-<span class='anchor' id='-xl'></span>
-
-<h1 id="-Educations">🎓 Educations</h1>
-<ul>
-  <li><em>2013.09 - 2016.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> Ph.D., Department of Computer and Information Science, University of Macau</li>
-  <li><em>2011.09 - 2013.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> M.S., Department of Computer and Information Science, University of Macau</li>
-  <li><em>2007.09 - 2011.06</em>, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/CQU_logo.png" width="23pt" /></a> B.S., Department of Software Engineering, Chongqing University</li>
-</ul>
-
-
-
-<span class='anchor' id='-xshy'></span>
-
-<h1 id="-Research Experience">💻 Research Experience</h1>
-<ul>
- <li><em>2024.01 - Now</em>, Professor, School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen</li>
-  <li><em>2018.03 - 2023.12</em>, Associate Professor, School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen</li>
-  <li><em>2016.11 - 2018.03</em>, Assistant Professor, School of Computer Science and Technology, Harbin Institute of Technology Shenzhen Graduate School</li>
-  <li><em>2010.10 - 2011.04</em>, Research Intern, New Tech Department, Hewlett Packard</li>
-</ul>
 
 <span class='anchor' id='-rp'></span>
 
