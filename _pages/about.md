@@ -35,6 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
+  <li><em>2024.06</em>:  🎉🎉 A paper is accpeted by IEEE TCSVT; A paper is accpeted by ACM TOMM </li>
   <li><em>2024.05</em>:  🎉🎉 A paper is accpeted by ICML 2024; A paper is accpeted by IEEE TIFS </li>
   <li><em>2024.03</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSS; Apaper is accepted bgy IEEE TIFS </li>
   <li><em>2024.02</em>:  🎉🎉 A paper is accpeted by CSF; A paper is accpeted by CVPR 2024 </li>
@@ -49,6 +50,93 @@ My research interests include:
 <h3 id="Journal Papers">Journal Papers(*Corresponding author)</h3>
 
 <ol id="olstyle">
+
+
+
+ <h4 id="Multimedia Security and Image Processing:">Multimedia Security and Image Processing:</h4>
+
+<li id="paperdistance">Xiangli Xiao, Yushu Zhang*, <B>Zhongyun Hua</B>, Zhihua Xia, Jian Weng, "Client-Side Embedding of Screen-Shooting Resilient Image Watermarking", <B><I>IEEE Transactions on Information Forensics and Security</I></B>, in press, 2024. </li>
+ <li id="paperdistance">Xiangli Xiao, Yushu Zhang, Leo Yu Zhang, <B>Zhongyun Hua</B>, Zhe Liu, Jiwu Huang, "FairCMS: Cloud Media Sharing with Fair Copyright Protection", <B><I>IEEE Transactions on Computational Social Systems</I></B>, in press, 2024. </li>
+ 
+<li id="paperdistance">Xingyu Liu, <B>Zhongyun Hua*</B>, Shuang Yi, Yushu Zhang, Yicong Zhou, "Bi-directional Block Encoding for Reversible Data Hiding over Encrypted Images", <B><I>ACM Transactions on Multimedia Computing, Communications, and Applications</I></B>, in press, 2023. </li>
+<li id="paperdistance">  Yushu Zhang, Nuo Chen, Shuren Qi*, Mingfu Xue, <B>Zhongyun Hua</B>, "Detection of Recolored Image by Texture Features in Chrominance Components", <B><I>ACM Transactions on Multimedia Computing, Communications and Applications</I></B>, vol. 19, no. 3, pp 1-23, 2023. <a href="https://dl.acm.org/doi/abs/10.1145/3571076">[doi]</a><a href="https://dl.acm.org/doi/pdf/10.1145/3571076" target="_blank">[pdf]</a></li>
+<li id="paperdistance">  Xuanqi Zhang, Qiangqiang Shen, Yongyong Chen∗, <B>Zhongyun Hua</B>, Jingyong Su, "Multi-View Ensemble Clustering via Low-Rank and Sparse Decomposition: from Matrix to Tensor", <B><I>ACM Transactions on Knowledge Discovery from Data</I></B>, vol. 17, no. 103, pp 1-19, 2023. <a href="https://dl.acm.org/doi/abs/10.1145/3589768">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Multi-View Ensemble Clustering via Low-Rank and Sparse Decomposition_from Matrix to Tensor.pdf" target="_blank">[pdf]</a></li>
+<li id="paperdistance">  Yongyong Chen, Lei Cheng, <B>Zhongyun Hua*</B>, Shuang Yi, "Laplacian Regularized Deep Low-Rank Subspace Clustering Network", <B><I> Applied Intelligence</I></B>, in press, 2023. <a href="https://link.springer.com/article/10.1007/s10489-023-04668-4">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Laplacian Regularized Deep Low-Rank Subspace Clustering Network.pdf" target="_blank">[pdf]</a></li>
+<li id="paperdistance">  Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yuanman Li, Yongyong Chen, Yicong Zhou, "AMS-Net: Adaptive Multi-Scale Network for Image Compressive Sensing", <B><I> IEEE Transactions on Multimedia</I></B>, in press, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9855869">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/AMS-Net_Adaptive_Multi-Scale_Network_for_Image_Compressive_Sensing.pdf">[pdf]</a></li>
+<li id="paperdistance">  <B>Zhongyun Hua*</B>, Kuiyuan Zhang, Yuanman Li, Yicong Zhou, "Visually secure image encryption using adaptive-thresholding sparsification and parallel compressive sensing", <B><I>Signal Processing</I></B>, vol. 183, article no. 107998, 2021. <a href="https://doi.org/10.1016/j.sigpro.2021.107998">[doi]</a></li>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Shuang Yi, Yicong Zhou, "Medical image encryption using high-speed scrambling and pixel adaptive diffusion", <B><I>Signal Processing</I></B>, vol. 144, pp. 134-144, 2018. [<font color="red">ESI 1% Highly Cited Paper</font>]
+		<a href="https://www.sciencedirect.com/science/article/pii/S0165168417303559" target="_blank">[doi]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Medical image encryption using high-speed scrambling and pixel adaptive diffusion.pdf" target="_blank">[pdf]</a>
+		<a href="..\wp-content\themes\homepage\BibTex\Medical image encryption using high-speed scrambling and pixel adaptive diffusion.txt" target="_blank">[BibTeX]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/MedicalEn_Hua2018SP.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Fan Jin, Binxuan Xu, Hejiao Huang, "2D Logistic-Sine-Coupling Map for Image Encryption", <B><I>Signal Processing</I></B>, vol. 149, pp. 148-161, 2018. [<font color="red">Most Cited in SIGPRO</font>] [<font color="red">Most downloaded in SIGPRO</font>] [<font color="red">ESI 1% Highly Cited Paper</font>]
+		<a href="https://www.sciencedirect.com/science/article/pii/S0165168418301087" target="_blank">[doi]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/2D Logistic-Sine-Coupling Map for Image Encryption.pdf" target="_blank">[pdf]</a>
+		<a href="..\wp-content\themes\homepage\BibTex\2D Logistic-Sine-Coupling Map for Image Encryption.txt" target="_blank">[BibTeX]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/LSCM-IEA_Hua2018SP.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance">  Ruoyu Zhao, Yushu Zhang, Rushi Lan, <B>Zhongyun Hua</B>, Yong Xiang, "Heterogeneous and Customized Cost-Efficient Reversible Image Degradation for Green IoT", <B><I>IEEE Internet of Things Journal</I></B>,  vol. 10, no. 3, pp. 2630-2645, 1 Feb.1, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/9916250">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Heterogeneous_and_Customized_Cost-Efficient_Reversible_Image_Degradation_for_Green_IoT.pdf">[pdf]</a></li>
+<li id="paperdistance">  Yushu Zhang, Zhibin Fu, Shuren Qi, Mingfu Xue, <B>Zhongyun Hua</B>, Yong Xiang, "Localization of Inpainting Forgery With Feature Enhancement Network", <B><I> IEEE Transactions on Big Data</I></B>,  in press, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9964430">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Localization_of_Inpainting_Forgery_With_Feature_Enhancement_Network.pdf">[pdf]</a></li>
+<li id="paperdistance">  <B>Zhongyun Hua*</B>, Zhihua Zhu, Shuang Yi, Zheng Zhang, Hejiao Huang, "Cross-plane colour image encryption using a two-dimensional logistic tent modular map", <B><I>Information Sciences</I></B>, vol. 546, pp. 1063-1083, 2021. [<font color="red">ESI 1% Highly Cited Paper</font>]
+	    <a href="https://www.sciencedirect.com/science/article/pii/S0020025520309427" target="_blank">[doi]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Cross-plane colour image encryption using a two-dimensional logistic tent modular map.pdf" target="_blank">[pdf]</a>
+		<a href="..\wp-content\themes\homepage\BibTex\Cross-plane colour image encryption using a two-dimensional logistic tent modular map.txt" target="_blank">[BibTeX]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/Hua2021INS_LTMM-CIEA.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance">   <B>Zhongyun Hua*</B>, Zhihua Zhu, Yongyong Chen, and Yuanman Li, "Color image encryption using orthogonal Latin squares and a new 2D chaotic system", <B><I>Nonlinear Dynamics</I></B>, vol. 104, pp. 4505-4522, 2021.  [<font color="red">ESI 1% Highly Cited Paper</font>]
+		<a href="https://link.springer.com/article/10.1007/s11071-021-06472-6">[doi]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/S-boxEncryption_2021ND.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance">   <B>Zhongyun Hua</B>, Jiaxin Li, Yuanman Li, Yongyong Chen*, "Image Encryption Using Value-Differencing Transformation and Modified ZigZag Transformation", <B><I>Nonlinear Dynamics</I></B>, vol. 106, pp. 3583-3599, 2021. [<font color="red">ESI 1% Highly Cited Paper</font>] <a href="https://link.springer.com/article/10.1007/s11071-021-06941-y">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image Encryption Using Value-Differencing Transformation and Modified ZigZag Transformation.pdf" target="_blank">[pdf]</a></li>
+<li id="paperdistance">  <B>Zhongyun Hua*</B>,  Jiaxin Li, Yongyong Chen, Shuang Yi, "Design and application of an S-box using complete Latin square", <B><I>Nonlinear Dynamics</I></B>, vol. 104, pp. 807–825, 2021. 
+		<a href="https://doi.org/10.1007/s11071-021-06308-3">[doi]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/LSM-CIEA_2021ND.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance">  Yongyong Chen, Shuqin Wang, Xiaolin Xiao, Youfa Liu*, <B>Zhongyun Hua*</B>, Yicong Zhou, "Self-paced Enhanced Low-rank Tensor Kernelized Multi-view Subspace Clustering", <B><I>IEEE Transactions on Multimedia</I></B>, vol. 24, pp. 4054-4066, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9546681">[doi]</a></li>
+<li id="paperdistance">   Yongyong Chen, Xiaolin Xiao, <B>Zhongyun Hua</B>, Yicong Zhou, "Adaptive Transition Probability Matrix Learning for Multi-view Spectral Clustering", <B><I>IEEE Transactions on Neural Networks and Learning Systems</I></B>, vol. 33, no. 9, pp. 4712-4726, Sept. 2022. 
+		<a href="https://ieeexplore.ieee.org/abstract/document/9366999">[doi]</a></li>
+<li id="paperdistance">   Yuchao Su, Jie Du, Yuanman Li, Xia Li, Rongqin Liang, <B>Zhongyun Hua</B>, Jiantao Zhou, "Trajectory Forecasting Based on Prior-Aware Directed Graph Convolutional Neural Network", <B><I> IEEE Transactions on Intelligent Transportation Systems</I></B>, vol. 23, no. 9, pp. 16773-16785, Sept. 2022. 
+		<a href="https://ieeexplore.ieee.org/abstract/document/9686621">[doi]</a></li>
+<li id="paperdistance">   Jie Zhao, Hejiao Huang*, Chonglin Gu, <B>Zhongyun Hua</B>, Xiaojun Zhang, "Blockchain-Assisted Conditional Anonymity Privacy-Preserving Public Auditing Scheme with Reward Mechanism", <B><I> IEEE Systems Journal</I></B>, vol. 16, no. 3, pp. 4477-4488, Sept. 2022. 
+		<a href="https://ieeexplore.ieee.org/abstract/document/9631167">[doi]</a></li>
+<li id="paperdistance">   BAO Han, <B>HUA ZhongYun</B>, LIU WenBo and BAO BoCheng, and Xi Zhang, "Discrete memristive neuron model and its interspike interval-encoded application in image encryption", <B><I>Science China Technological Sciences</I></B>, in press, 2021. 
+		<a href="https://doi.org/10.1109/TCSII.2021.3072393">[doi]</a></li>
+<li id="paperdistance">  <B>Zhongyun Hua</B>, Binxuan Xu, Fan Jin, Hejiao Huang, "Image Encryption Using Josephus Problem and Filtering Diffusion", <B><I>IEEE Access</I></B>, vol. 7, pp. 8660 - 8674, 2019. [IF: 3.557/2017, JCR: Q1]. 
+		<a href="https://ieeexplore.ieee.org/document/8598711" target="_blank">[doi]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image Encryption Using Josephus Problem and Filtering Diffusion.pdf" target="_blank">[pdf]</a>
+		<a href="..\wp-content\themes\homepage\BibTex\Image Encryption Using Josephus Problem and Filtering Diffusion.txt" target="_blank">[BibTeX]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/Hua2019IEEEA_IES-JPFD.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance"> Shuang Yi, Yicong Zhou, <B>Zhongyun Hua</B>, "Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion", <B><I>Signal Processing: Image Communication</I></B>, vol. 64, pp. 78-88, 2018. 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/BibTex/Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, "Design of image cipher using block-based scrambling and image filtering," <B><I>Information Sciences</I></B>, vol. 396, pp. 97-113, 2017. [IF: 4.832/2016, JCR: Q1] 
+		<a href="https://www.sciencedirect.com/science/article/pii/S0020025517305418" target="_blank">[doi]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Design of image cipher using block-based scrambling and image filtering.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Design of image cipher using block-based scrambling and image filtering.txt" target="_blank">[BibTeX]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/ImageEncryptionFiltering_Hua2017IS.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance">   Yongyong Chen, Shuqin Wang, Chong Peng, <B>Zhongyun Hua*</B>, and Yicong Zhou, "Generalized Nonconvex Low-Rank Tensor Approximation for Multi-View Subspace Clustering", <B><I>IEEE Transactions on Image Processing</I></B>, vol. 30, pp. 4022-4035, 2021. 
+		<a href="https://doi.org/10.1109/TIP.2021.3068646">[doi]</a></li>
+<li id="paperdistance">  Xiaolin Xiao, Yuejiao Gong, <B>Zhongyun Hua*</B>, Weineng Chen, "On Reliable Multi-View Affinity Learning for Subspace Clustering", <B><I> IEEE Transactions on Multimedia</I></B>, in press, 2020. 
+		<a href="https://doi.org/10.1109/TMM.2020.3045259 target=">[doi]</a></li>
+
+
+<h4 id="Secure Cloud Computing:">Secure Cloud Computing:</h4>
+<li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “SimLESS: A Secure Deduplication System over
+Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information Forensics and Security</I></B>, 2024</li>
+<li id="paperdistance">  Weibo Wang, Yifeng Zheng, Songlei Wanga, <B>Zhongyun Hua</B>, Lei Xub, and Yansong Gao, “BopSkyline: Boosting Privacy-Preserving Skyline Query Service in the Cloud”,  <B><I>IEEE Computer & Security</I></B>, 2024</li>
+<li id="paperdistance">  <B>Zhongyun Hua</B>, Yan, Tong, Yifeng Zheng*, Yuhong Li, and Yushu Zhang, “PPGloVe: Privacy-Preserving GloVe for Training Word Vectors in the Dark”,  <B><I>IEEE Transactions on Information Forensics and Security</I></B>, 2024</li>
+<li id="paperdistance">  <B>Zhongyun Hua</B>, Yufei, Yao, Mingyang Song, Yifeng Zheng*, Yushu Zhang, and Cong Wang, “Blockchain-Assisted Secure Deduplication for Large-Scale Cloud Storage Service”,  <B><I>IEEE Transactions on Services Computing</I></B>, 2023</li>
+<li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “Enabling Transparent Deduplication and Auditing for Encrypted Data in Cloud”,  <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, 2023</li>
+<li id="paperdistance">  Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yuanman Li, Yushu Zhang, Yicong Zhou, “Uformer-ICS: A U-Shaped Transformer for Image Compressive Sensing Service”,  <B><I>IEEE Transactions on Services Computing</I></B>, 2023</li>
+<li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Hejiaog Huang, Xiaohua Jia, “LSDedup: Layered Secure Deduplication for Cloud Storage”, <B><I>IEEE Transactions on Computers</I></B>, 2023</li>
+<li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, Xiaohua Jia,  "FCDedup: A Two-Level Deduplication System for Encrypted Data in Fog Computing", <B><I> IEEE Transactions on Parallel and Distributed Systems</I></B>, in press, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10193829">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/FCDedup_A_Two-Level_Deduplication_System_for_Encrypted_Data_in_Fog_Computing.pdf" target="_blank">[pdf]</a></li>
+<li id="paperdistance">  <B>Zhongyun Hua</B>, Xingyu Liu, Yifeng Zheng, Shuang Yi, Yushu Zhang, "Reversible Data Hiding over Encrypted Images via Preprocessing-Free Matrix Secret Sharing", <B><I> IEEE Transactions on Circuits and Systems for Video Technology</I></B>, in press, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10193815">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Reversible_Data_Hiding_over_Encrypted_Images_via_Preprocessing-Free_Matrix_Secret_Sharing.pdf" target="_blank">[pdf]</a></li>
+<li id="paperdistance">  Yifeng Zheng, Shuangqing Xu, Songlei Wang, Yansong Gao, <B>Zhongyun Hua*</B>, "Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient Boosted Decision Tables", <B><I> IEEE Transactions on Services Computing</I></B>, in press, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10135127">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Privet_A_Privacy-Preserving_Vertical_Federated_Learning_Service_for_Gradient_Boosted_Decision_Tables.pdf" target="_blank">[pdf]</a></li>
+<li id="paperdistance">  Menglun Zhou, Yifeng Zheng, Songlei Wang, <B>Zhongyun Hua</B>, Hejiao Huang, Yansong Gao, Xiaohua Jia, "PPTA: A location privacy-preserving and flexible task assignment service for spatial crowdsourcing", <B><I> Computer Networks</I></B>, vol. 224, pp. 109600, 2023. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1389128623000452">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/PPTA_A location privacy-preserving and flexible task assignment service for spatial crowdsourcing.pdf" target="_blank">[pdf]</a></li>
+<li id="paperdistance">  <B>Zhongyun Hua</B>, Yanxiang Wang, Shuang Yi, Yifeng Zheng, Xingyu Liu, Yongyong Chen, Xinpeng Zhang, "Matrix-Based Secret Sharing for Reversible Data Hiding in Encrypted Images", <B><I> IEEE Transactions on Dependable and Secure Computing</I></B>, in press, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9933877">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Matrix-Based_Secret_Sharing_for_Reversible_Data_Hiding_in_Encrypted_Images.pdf" target="_blank">[pdf]</a></li>
+<li id="paperdistance">  <B>Zhongyun Hua</B>, Ziyi Wang, Yifeng Zheng, Yongyong Chen, Yuanman Li, "Enabling Large-Capacity Reversible Data Hiding over Encrypted JPEG Bitstreams", <B><I> IEEE Transactions on Circuits and Systems for Video Technology</I></B>, vol. 33, no. 3, pp. 1003–1018, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9895436">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Enabling_Large-Capacity_Reversible_Data_Hiding_Over_Encrypted_JPEG_Bitstreams.pdf" target="_blank">[pdf]</a></li>
+<li id="paperdistance">  <B>Zhongyun Hua</B>, Yanxiang Wang, Shuang Yi, Yicong Zhou, Xiaohua Jia, "Reversible Data Hiding in Encrypted Images Using Cipher-Feedback Secret Sharing", <B><I> IEEE Transactions on Circuits and Systems for Video Technology</I></B>, vol. 32, no. 8, pp.
+4968–4982, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9672191">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Reversible_Data_Hiding_in_Encrypted_Images_Using_Cipher-Feedback_Secret_Sharing.pdf" target="_blank">[pdf]</a></li>
+<li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Hejiao Huang, Xiaohua Jia, "Blockchain-Based Deduplication and Integrity Auditing over Encrypted Cloud Storage", <B><I> IEEE Transactions on Dependable and Secure Computing</I></B>, in press, 2022. <a href="https://ieeexplore.ieee.org/document/10018273">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Blockchain-Based_Deduplication_and_Integrity_Auditing_over_Encrypted_Cloud_Storage.pdf" target="_blank">[pdf]</a></li>
+<li id="paperdistance"> 李忠文, 丁烨, <B>花忠云</B>, 李君一, 廖清*, “结合三元组重要性的知识图谱补全模型”, <B><I>计算机科学</I></B>, 2020</li>
+
+</ol>
 
 
 <h4 id="Nonlinear Systems and Applications:">Nonlinear Systems and Applications:</h4>
@@ -146,91 +234,6 @@ My research interests include:
 <a href="https://link.springer.com/article/10.1007/s11431-021-1845-x">[doi]</a></li>
 <li id="paperdistance">   Kang Rong, Han Bao, Houzhen Li, <B>Zhongyun Hua</B>, Bocheng Bao*, "Memristive Hénon map with hidden Neimark–Sacker bifurcations", <B><I> Nonlinear Dynamics</I></B>, vol. 108, pp. 4459-4470, 2022. 
 <a href="https://link.springer.com/article/10.1007/s11071-022-07380-z">[doi]</a></li>
-
- <h4 id="Multimedia Security and Image Processing:">Multimedia Security and Image Processing:</h4>
-
-<li id="paperdistance">Xiangli Xiao, Yushu Zhang*, <B>Zhongyun Hua</B>, Zhihua Xia, Jian Weng, "Client-Side Embedding of Screen-Shooting Resilient Image Watermarking", <B><I>IEEE Transactions on Information Forensics and Security</I></B>, in press, 2024. </li>
- <li id="paperdistance">Xiangli Xiao, Yushu Zhang, Leo Yu Zhang, <B>Zhongyun Hua</B>, Zhe Liu, Jiwu Huang, "FairCMS: Cloud Media Sharing with Fair Copyright Protection", <B><I>IEEE Transactions on Computational Social Systems</I></B>, in press, 2024. </li>
- 
-<li id="paperdistance">Xingyu Liu, <B>Zhongyun Hua*</B>, Shuang Yi, Yushu Zhang, Yicong Zhou, "Bi-directional Block Encoding for Reversible Data Hiding over Encrypted Images", <B><I>ACM Transactions on Multimedia Computing, Communications, and Applications</I></B>, in press, 2023. </li>
-<li id="paperdistance">  Yushu Zhang, Nuo Chen, Shuren Qi*, Mingfu Xue, <B>Zhongyun Hua</B>, "Detection of Recolored Image by Texture Features in Chrominance Components", <B><I>ACM Transactions on Multimedia Computing, Communications and Applications</I></B>, vol. 19, no. 3, pp 1-23, 2023. <a href="https://dl.acm.org/doi/abs/10.1145/3571076">[doi]</a><a href="https://dl.acm.org/doi/pdf/10.1145/3571076" target="_blank">[pdf]</a></li>
-<li id="paperdistance">  Xuanqi Zhang, Qiangqiang Shen, Yongyong Chen∗, <B>Zhongyun Hua</B>, Jingyong Su, "Multi-View Ensemble Clustering via Low-Rank and Sparse Decomposition: from Matrix to Tensor", <B><I>ACM Transactions on Knowledge Discovery from Data</I></B>, vol. 17, no. 103, pp 1-19, 2023. <a href="https://dl.acm.org/doi/abs/10.1145/3589768">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Multi-View Ensemble Clustering via Low-Rank and Sparse Decomposition_from Matrix to Tensor.pdf" target="_blank">[pdf]</a></li>
-<li id="paperdistance">  Yongyong Chen, Lei Cheng, <B>Zhongyun Hua*</B>, Shuang Yi, "Laplacian Regularized Deep Low-Rank Subspace Clustering Network", <B><I> Applied Intelligence</I></B>, in press, 2023. <a href="https://link.springer.com/article/10.1007/s10489-023-04668-4">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Laplacian Regularized Deep Low-Rank Subspace Clustering Network.pdf" target="_blank">[pdf]</a></li>
-<li id="paperdistance">  Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yuanman Li, Yongyong Chen, Yicong Zhou, "AMS-Net: Adaptive Multi-Scale Network for Image Compressive Sensing", <B><I> IEEE Transactions on Multimedia</I></B>, in press, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9855869">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/AMS-Net_Adaptive_Multi-Scale_Network_for_Image_Compressive_Sensing.pdf">[pdf]</a></li>
-<li id="paperdistance">  <B>Zhongyun Hua*</B>, Kuiyuan Zhang, Yuanman Li, Yicong Zhou, "Visually secure image encryption using adaptive-thresholding sparsification and parallel compressive sensing", <B><I>Signal Processing</I></B>, vol. 183, article no. 107998, 2021. <a href="https://doi.org/10.1016/j.sigpro.2021.107998">[doi]</a></li>
-<li id="paperdistance"> <B>Zhongyun Hua</B>, Shuang Yi, Yicong Zhou, "Medical image encryption using high-speed scrambling and pixel adaptive diffusion", <B><I>Signal Processing</I></B>, vol. 144, pp. 134-144, 2018. [<font color="red">ESI 1% Highly Cited Paper</font>]
-		<a href="https://www.sciencedirect.com/science/article/pii/S0165168417303559" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Medical image encryption using high-speed scrambling and pixel adaptive diffusion.pdf" target="_blank">[pdf]</a>
-		<a href="..\wp-content\themes\homepage\BibTex\Medical image encryption using high-speed scrambling and pixel adaptive diffusion.txt" target="_blank">[BibTeX]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/MedicalEn_Hua2018SP.rar" target="_blank">[Code]</a></li>
-<li id="paperdistance"> <B>Zhongyun Hua</B>, Fan Jin, Binxuan Xu, Hejiao Huang, "2D Logistic-Sine-Coupling Map for Image Encryption", <B><I>Signal Processing</I></B>, vol. 149, pp. 148-161, 2018. [<font color="red">Most Cited in SIGPRO</font>] [<font color="red">Most downloaded in SIGPRO</font>] [<font color="red">ESI 1% Highly Cited Paper</font>]
-		<a href="https://www.sciencedirect.com/science/article/pii/S0165168418301087" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/2D Logistic-Sine-Coupling Map for Image Encryption.pdf" target="_blank">[pdf]</a>
-		<a href="..\wp-content\themes\homepage\BibTex\2D Logistic-Sine-Coupling Map for Image Encryption.txt" target="_blank">[BibTeX]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/LSCM-IEA_Hua2018SP.rar" target="_blank">[Code]</a></li>
-<li id="paperdistance">  Ruoyu Zhao, Yushu Zhang, Rushi Lan, <B>Zhongyun Hua</B>, Yong Xiang, "Heterogeneous and Customized Cost-Efficient Reversible Image Degradation for Green IoT", <B><I>IEEE Internet of Things Journal</I></B>,  vol. 10, no. 3, pp. 2630-2645, 1 Feb.1, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/9916250">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Heterogeneous_and_Customized_Cost-Efficient_Reversible_Image_Degradation_for_Green_IoT.pdf">[pdf]</a></li>
-<li id="paperdistance">  Yushu Zhang, Zhibin Fu, Shuren Qi, Mingfu Xue, <B>Zhongyun Hua</B>, Yong Xiang, "Localization of Inpainting Forgery With Feature Enhancement Network", <B><I> IEEE Transactions on Big Data</I></B>,  in press, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9964430">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Localization_of_Inpainting_Forgery_With_Feature_Enhancement_Network.pdf">[pdf]</a></li>
-<li id="paperdistance">  <B>Zhongyun Hua*</B>, Zhihua Zhu, Shuang Yi, Zheng Zhang, Hejiao Huang, "Cross-plane colour image encryption using a two-dimensional logistic tent modular map", <B><I>Information Sciences</I></B>, vol. 546, pp. 1063-1083, 2021. [<font color="red">ESI 1% Highly Cited Paper</font>]
-	    <a href="https://www.sciencedirect.com/science/article/pii/S0020025520309427" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Cross-plane colour image encryption using a two-dimensional logistic tent modular map.pdf" target="_blank">[pdf]</a>
-		<a href="..\wp-content\themes\homepage\BibTex\Cross-plane colour image encryption using a two-dimensional logistic tent modular map.txt" target="_blank">[BibTeX]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/Hua2021INS_LTMM-CIEA.rar" target="_blank">[Code]</a></li>
-<li id="paperdistance">   <B>Zhongyun Hua*</B>, Zhihua Zhu, Yongyong Chen, and Yuanman Li, "Color image encryption using orthogonal Latin squares and a new 2D chaotic system", <B><I>Nonlinear Dynamics</I></B>, vol. 104, pp. 4505-4522, 2021.  [<font color="red">ESI 1% Highly Cited Paper</font>]
-		<a href="https://link.springer.com/article/10.1007/s11071-021-06472-6">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/S-boxEncryption_2021ND.rar" target="_blank">[Code]</a></li>
-<li id="paperdistance">   <B>Zhongyun Hua</B>, Jiaxin Li, Yuanman Li, Yongyong Chen*, "Image Encryption Using Value-Differencing Transformation and Modified ZigZag Transformation", <B><I>Nonlinear Dynamics</I></B>, vol. 106, pp. 3583-3599, 2021. [<font color="red">ESI 1% Highly Cited Paper</font>] <a href="https://link.springer.com/article/10.1007/s11071-021-06941-y">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image Encryption Using Value-Differencing Transformation and Modified ZigZag Transformation.pdf" target="_blank">[pdf]</a></li>
-<li id="paperdistance">  <B>Zhongyun Hua*</B>,  Jiaxin Li, Yongyong Chen, Shuang Yi, "Design and application of an S-box using complete Latin square", <B><I>Nonlinear Dynamics</I></B>, vol. 104, pp. 807–825, 2021. 
-		<a href="https://doi.org/10.1007/s11071-021-06308-3">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/LSM-CIEA_2021ND.rar" target="_blank">[Code]</a></li>
-<li id="paperdistance">  Yongyong Chen, Shuqin Wang, Xiaolin Xiao, Youfa Liu*, <B>Zhongyun Hua*</B>, Yicong Zhou, "Self-paced Enhanced Low-rank Tensor Kernelized Multi-view Subspace Clustering", <B><I>IEEE Transactions on Multimedia</I></B>, vol. 24, pp. 4054-4066, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9546681">[doi]</a></li>
-<li id="paperdistance">   Yongyong Chen, Xiaolin Xiao, <B>Zhongyun Hua</B>, Yicong Zhou, "Adaptive Transition Probability Matrix Learning for Multi-view Spectral Clustering", <B><I>IEEE Transactions on Neural Networks and Learning Systems</I></B>, vol. 33, no. 9, pp. 4712-4726, Sept. 2022. 
-		<a href="https://ieeexplore.ieee.org/abstract/document/9366999">[doi]</a></li>
-<li id="paperdistance">   Yuchao Su, Jie Du, Yuanman Li, Xia Li, Rongqin Liang, <B>Zhongyun Hua</B>, Jiantao Zhou, "Trajectory Forecasting Based on Prior-Aware Directed Graph Convolutional Neural Network", <B><I> IEEE Transactions on Intelligent Transportation Systems</I></B>, vol. 23, no. 9, pp. 16773-16785, Sept. 2022. 
-		<a href="https://ieeexplore.ieee.org/abstract/document/9686621">[doi]</a></li>
-<li id="paperdistance">   Jie Zhao, Hejiao Huang*, Chonglin Gu, <B>Zhongyun Hua</B>, Xiaojun Zhang, "Blockchain-Assisted Conditional Anonymity Privacy-Preserving Public Auditing Scheme with Reward Mechanism", <B><I> IEEE Systems Journal</I></B>, vol. 16, no. 3, pp. 4477-4488, Sept. 2022. 
-		<a href="https://ieeexplore.ieee.org/abstract/document/9631167">[doi]</a></li>
-<li id="paperdistance">   BAO Han, <B>HUA ZhongYun</B>, LIU WenBo and BAO BoCheng, and Xi Zhang, "Discrete memristive neuron model and its interspike interval-encoded application in image encryption", <B><I>Science China Technological Sciences</I></B>, in press, 2021. 
-		<a href="https://doi.org/10.1109/TCSII.2021.3072393">[doi]</a></li>
-<li id="paperdistance">  <B>Zhongyun Hua</B>, Binxuan Xu, Fan Jin, Hejiao Huang, "Image Encryption Using Josephus Problem and Filtering Diffusion", <B><I>IEEE Access</I></B>, vol. 7, pp. 8660 - 8674, 2019. [IF: 3.557/2017, JCR: Q1]. 
-		<a href="https://ieeexplore.ieee.org/document/8598711" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image Encryption Using Josephus Problem and Filtering Diffusion.pdf" target="_blank">[pdf]</a>
-		<a href="..\wp-content\themes\homepage\BibTex\Image Encryption Using Josephus Problem and Filtering Diffusion.txt" target="_blank">[BibTeX]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/Hua2019IEEEA_IES-JPFD.rar" target="_blank">[Code]</a></li>
-<li id="paperdistance"> Shuang Yi, Yicong Zhou, <B>Zhongyun Hua</B>, "Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion", <B><I>Signal Processing: Image Communication</I></B>, vol. 64, pp. 78-88, 2018. 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/BibTex/Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion.txt" target="_blank">[BibTeX]</a></li>
-<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, "Design of image cipher using block-based scrambling and image filtering," <B><I>Information Sciences</I></B>, vol. 396, pp. 97-113, 2017. [IF: 4.832/2016, JCR: Q1] 
-		<a href="https://www.sciencedirect.com/science/article/pii/S0020025517305418" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Design of image cipher using block-based scrambling and image filtering.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Design of image cipher using block-based scrambling and image filtering.txt" target="_blank">[BibTeX]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/ImageEncryptionFiltering_Hua2017IS.rar" target="_blank">[Code]</a></li>
-<li id="paperdistance">   Yongyong Chen, Shuqin Wang, Chong Peng, <B>Zhongyun Hua*</B>, and Yicong Zhou, "Generalized Nonconvex Low-Rank Tensor Approximation for Multi-View Subspace Clustering", <B><I>IEEE Transactions on Image Processing</I></B>, vol. 30, pp. 4022-4035, 2021. 
-		<a href="https://doi.org/10.1109/TIP.2021.3068646">[doi]</a></li>
-<li id="paperdistance">  Xiaolin Xiao, Yuejiao Gong, <B>Zhongyun Hua*</B>, Weineng Chen, "On Reliable Multi-View Affinity Learning for Subspace Clustering", <B><I> IEEE Transactions on Multimedia</I></B>, in press, 2020. 
-		<a href="https://doi.org/10.1109/TMM.2020.3045259 target=">[doi]</a></li>
-
-
-<h4 id="Secure Cloud Computing:">Secure Cloud Computing:</h4>
-<li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “SimLESS: A Secure Deduplication System over
-Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information Forensics and Security</I></B>, 2024</li>
-<li id="paperdistance">  Weibo Wang, Yifeng Zheng, Songlei Wanga, <B>Zhongyun Hua</B>, Lei Xub, and Yansong Gao, “BopSkyline: Boosting Privacy-Preserving Skyline Query Service in the Cloud”,  <B><I>IEEE Computer & Security</I></B>, 2024</li>
-<li id="paperdistance">  <B>Zhongyun Hua</B>, Yan, Tong, Yifeng Zheng*, Yuhong Li, and Yushu Zhang, “PPGloVe: Privacy-Preserving GloVe for Training Word Vectors in the Dark”,  <B><I>IEEE Transactions on Information Forensics and Security</I></B>, 2024</li>
-<li id="paperdistance">  <B>Zhongyun Hua</B>, Yufei, Yao, Mingyang Song, Yifeng Zheng*, Yushu Zhang, and Cong Wang, “Blockchain-Assisted Secure Deduplication for Large-Scale Cloud Storage Service”,  <B><I>IEEE Transactions on Services Computing</I></B>, 2023</li>
-<li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “Enabling Transparent Deduplication and Auditing for Encrypted Data in Cloud”,  <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, 2023</li>
-<li id="paperdistance">  Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yuanman Li, Yushu Zhang, Yicong Zhou, “Uformer-ICS: A U-Shaped Transformer for Image Compressive Sensing Service”,  <B><I>IEEE Transactions on Services Computing</I></B>, 2023</li>
-<li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Hejiaog Huang, Xiaohua Jia, “LSDedup: Layered Secure Deduplication for Cloud Storage”, <B><I>IEEE Transactions on Computers</I></B>, 2023</li>
-<li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, Xiaohua Jia,  "FCDedup: A Two-Level Deduplication System for Encrypted Data in Fog Computing", <B><I> IEEE Transactions on Parallel and Distributed Systems</I></B>, in press, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10193829">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/FCDedup_A_Two-Level_Deduplication_System_for_Encrypted_Data_in_Fog_Computing.pdf" target="_blank">[pdf]</a></li>
-<li id="paperdistance">  <B>Zhongyun Hua</B>, Xingyu Liu, Yifeng Zheng, Shuang Yi, Yushu Zhang, "Reversible Data Hiding over Encrypted Images via Preprocessing-Free Matrix Secret Sharing", <B><I> IEEE Transactions on Circuits and Systems for Video Technology</I></B>, in press, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10193815">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Reversible_Data_Hiding_over_Encrypted_Images_via_Preprocessing-Free_Matrix_Secret_Sharing.pdf" target="_blank">[pdf]</a></li>
-<li id="paperdistance">  Yifeng Zheng, Shuangqing Xu, Songlei Wang, Yansong Gao, <B>Zhongyun Hua*</B>, "Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient Boosted Decision Tables", <B><I> IEEE Transactions on Services Computing</I></B>, in press, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10135127">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Privet_A_Privacy-Preserving_Vertical_Federated_Learning_Service_for_Gradient_Boosted_Decision_Tables.pdf" target="_blank">[pdf]</a></li>
-<li id="paperdistance">  Menglun Zhou, Yifeng Zheng, Songlei Wang, <B>Zhongyun Hua</B>, Hejiao Huang, Yansong Gao, Xiaohua Jia, "PPTA: A location privacy-preserving and flexible task assignment service for spatial crowdsourcing", <B><I> Computer Networks</I></B>, vol. 224, pp. 109600, 2023. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1389128623000452">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/PPTA_A location privacy-preserving and flexible task assignment service for spatial crowdsourcing.pdf" target="_blank">[pdf]</a></li>
-<li id="paperdistance">  <B>Zhongyun Hua</B>, Yanxiang Wang, Shuang Yi, Yifeng Zheng, Xingyu Liu, Yongyong Chen, Xinpeng Zhang, "Matrix-Based Secret Sharing for Reversible Data Hiding in Encrypted Images", <B><I> IEEE Transactions on Dependable and Secure Computing</I></B>, in press, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9933877">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Matrix-Based_Secret_Sharing_for_Reversible_Data_Hiding_in_Encrypted_Images.pdf" target="_blank">[pdf]</a></li>
-<li id="paperdistance">  <B>Zhongyun Hua</B>, Ziyi Wang, Yifeng Zheng, Yongyong Chen, Yuanman Li, "Enabling Large-Capacity Reversible Data Hiding over Encrypted JPEG Bitstreams", <B><I> IEEE Transactions on Circuits and Systems for Video Technology</I></B>, vol. 33, no. 3, pp. 1003–1018, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9895436">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Enabling_Large-Capacity_Reversible_Data_Hiding_Over_Encrypted_JPEG_Bitstreams.pdf" target="_blank">[pdf]</a></li>
-<li id="paperdistance">  <B>Zhongyun Hua</B>, Yanxiang Wang, Shuang Yi, Yicong Zhou, Xiaohua Jia, "Reversible Data Hiding in Encrypted Images Using Cipher-Feedback Secret Sharing", <B><I> IEEE Transactions on Circuits and Systems for Video Technology</I></B>, vol. 32, no. 8, pp.
-4968–4982, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9672191">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Reversible_Data_Hiding_in_Encrypted_Images_Using_Cipher-Feedback_Secret_Sharing.pdf" target="_blank">[pdf]</a></li>
-<li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Hejiao Huang, Xiaohua Jia, "Blockchain-Based Deduplication and Integrity Auditing over Encrypted Cloud Storage", <B><I> IEEE Transactions on Dependable and Secure Computing</I></B>, in press, 2022. <a href="https://ieeexplore.ieee.org/document/10018273">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Blockchain-Based_Deduplication_and_Integrity_Auditing_over_Encrypted_Cloud_Storage.pdf" target="_blank">[pdf]</a></li>
-<li id="paperdistance"> 李忠文, 丁烨, <B>花忠云</B>, 李君一, 廖清*, “结合三元组重要性的知识图谱补全模型”, <B><I>计算机科学</I></B>, 2020</li>
-
-</ol>
 
 <h3 id="Conference Papers">Conference Papers</h3>
 
@@ -335,6 +338,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
 <h1 id="-Academic Service Experience">📎 Academic Service Experience</h1>
 <ul>
+ <li><em>2024 - Now</em>, Associate Editor, IEEE Signal Processing Letters</li>
   <li><em>2022 - Now</em>, Associate Editor, International Journal of Bifurcation and Chaos</li>
   <li><em>2020 - Now</em>, Editorial Board, China Computer Science Review (A Chinese Journal)</li>
   <li><em>2021</em>, Special Issue Editor, "Cyber Security and AI" in Sensors</li>
@@ -360,7 +364,8 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
 <h1 id="-Research Experience">💻 Research Experience</h1>
 <ul>
-  <li><em>2018.03 - Now</em>, Associate Professor, School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen</li>
+ <li><em>2024.01 - Now</em>, Professor, School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen</li>
+  <li><em>2018.03 - 2023.12</em>, Associate Professor, School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen</li>
   <li><em>2016.11 - 2018.03</em>, Assistant Professor, School of Computer Science and Technology, Harbin Institute of Technology Shenzhen Graduate School</li>
   <li><em>2010.10 - 2011.04</em>, Research Intern, New Tech Department, Hewlett Packard</li>
 </ul>
