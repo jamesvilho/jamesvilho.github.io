@@ -277,10 +277,10 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 <h3 id="Conference Papers">Conference Papers</h3>
 
 <ol id="olstyle">
-<li id="paperdistance"> Linshan Hou, Ruili Feng, <B>Zhongyun Hua*</B>, Wei Luo, Leo Yu Zhang, Yiming Li*，"IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency", in Forty-first International Conference on Machine Learning, 2024. </li>
-<li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B>, "Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay", in IEEE/CVF Computer Vision and Pattern Recognition Conference, 2024.</li>
+<li id="paperdistance"> Linshan Hou, Ruili Feng, <B>Zhongyun Hua*</B>, Wei Luo, Leo Yu Zhang, Yiming Li*，"IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency", in Forty-first International Conference on Machine Learning (ICML), 2024. </li>
+<li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B>, "Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay", in IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024.</li>
 	
-<li id="paperdistance"> Qiuyu Duan, <B>Zhongyun Hua*</B>, Qing Liao, Yushu Zhang, LEO Yu Zhang, "Conditional Backdoor Attack via JPEG Compression", in Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024.</li>
+<li id="paperdistance"> Qiuyu Duan, <B>Zhongyun Hua*</B>, Qing Liao, Yushu Zhang, LEO Yu Zhang, "Conditional Backdoor Attack via JPEG Compression", in Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024.</li>
 
 <li id="paperdistance"> Zeming Hou, <B>Zhongyun Hua</B>,Kuiyuan Zhang, Yushu Zhang, "CDNet: Cluster Decision for Deepfake Detection Generalization" in 2023 IEEE International Conference on Image Processing (ICIP), 2023. <a href=" " target="_blank">[pdf]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/CDNet_Cluster_Decision_for_Deepfake_Detection_Generalization.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> Jinhao Cui, Heyan Chai, Yanbin Gong, Ye Ding, <B>Zhongyun Hua</B>,Cuiyun Gao, Qing Liao, "MocGCL: Molecular Graph Contrastive Learning via Negative Selection" in 2023 International Joint Conference on Neural Networks (IJCNN). <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.pdf" target="_blank">[pdf]</a>
