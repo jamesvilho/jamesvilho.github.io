@@ -338,6 +338,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 <span class='anchor' id='-ryjx'></span>
 
 <h1 id="-Honours and Recognitions">🏅 Honours and Recognitions</h1>
+<li>2023  Highly Cited Researcher <a href="https://www.webofscience.com/wos/author/record/F-1887-2016">6,849 researchers all over the world</a></li>
 <li>2022  Highly Cited Researcher <a href="https://www.webofscience.com/wos/author/record/F-1887-2016">6,938 researchers all over the world</a></li>
 <li>2022  Chinese Most Cited Researchers</li>
 <li>2021  Chinese Most Cited Researchers</li>
