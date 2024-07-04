@@ -35,6 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
+ <li><em>2024.07</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I </li>
   <li><em>2024.06</em>:  🎉🎉 A paper is accpeted by IEEE TCSVT; A paper is accpeted by ACM TOMM </li>
   <li><em>2024.05</em>:  🎉🎉 A paper is accpeted by ICML 2024; A paper is accpeted by IEEE TIFS </li>
   <li><em>2024.03</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSS; Apaper is accepted bgy IEEE TIFS </li>
@@ -179,6 +180,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
 
 <h4 id="Nonlinear Systems and Applications:">Nonlinear Systems and Applications:</h4>
+<li id="paperdistance"> Han Bao, Yuanhui Su, <B>Zhongyun Hua</B>, Mo Chen, Quan Xu, Bocheng Bao*, "Grid Homogeneous Coexisting Hyperchaos and Hardware Encryption for 2-D HNN-Like Map", <B><I> IEEE Transactions on Circuits and Systems I: Regular Papers </I></B>, 2024. </li>
 <li id="paperdistance"> Yinxing Zhang, <B>Zhongyun Hua*</B>, Han Bao, Hejiao Huang, "Multi-Valued Model for Generating Complex Chaos and Fractals", <B><I> IEEE Transactions on Circuits and Systems I: Regular Papers </I></B>, 2024. </li>
 <li id="paperdistance"> Zihua Wu, Yinxing Zhang, Han Bao, Rushi Lan, <B>Zhongyun Hua*</B>, "nD-CS: A Circularly Shifting Chaotic Map Generation Method", <B><I> Chaos, Solitons and Fractals </I></B>, vol. 181, 2024.  <a href="https://doi.org/10.1016/j.chaos.2024.114650">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/nD-CS- A circularly shifting chaotic map generation method.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance"> GU Yang, BAO Han*, YU XiHong, <B>HUA ZhongYun</B>, BAO BoCheng, XU Quan, "Hybrid tri-memristor hyperchaotic map and application in Wasserstein Generative Adversarial Nets", <B><I> Science China Technological Sciences </I></B>, 2024. <a href="http://dx.doi.org/10.1007/s11431-023-2613-9">[doi]</a></li>
