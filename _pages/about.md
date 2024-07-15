@@ -35,7 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
- <li><em>2024.07</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I </li>
+ <li><em>2024.07</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I </li>; A paper is accpeted by IEEE TII </li>
   <li><em>2024.06</em>:  🎉🎉 A paper is accpeted by IEEE TCSVT; A paper is accpeted by ACM TOMM </li>
   <li><em>2024.05</em>:  🎉🎉 A paper is accpeted by ICML 2024; A paper is accpeted by IEEE TIFS </li>
   <li><em>2024.03</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSS; Apaper is accepted bgy IEEE TIFS </li>
@@ -116,7 +116,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 <li id="paperdistance">  Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yuanman Li, Yushu Zhang, Yicong Zhou, “Uformer-ICS: A U-Shaped Transformer for Image Compressive Sensing Service”,  <B><I>IEEE Transactions on Services Computing</I></B>, 2023</li>
 <li id="paperdistance">  Jiahao Zhao, Yushu Zhang*, Jiajia Jiang,  <B>Zhongyun Hua</B>, Yong Xiang, “A secure dynamic cross-chain decentralized data consistency verification model”,  <B><I>Journal of King Saud University-Computer and Information Sciencesg</I></B>, vol. 36, no. 1, 2024</li>
  <li id="paperdistance">Xiangli Xiao, Yushu Zhang*, Leo Yu Zhang, <B>Zhongyun Hua</B>, Zhe Liu, Jiwu Huang, "FairCMS: Cloud Media Sharing with Fair Copyright Protection", <B><I>IEEE Transactions on Computational Social Systems</I></B>, in press, 2024. </li>
- 
+  <li id="paperdistance">祁树仁，张玉书，薛明富，花忠云， "面向多畸变稳健性的图像归因算法", <B><I>信息网络安全</I></B>, no. 4, pp. 30-28, 2023. </li>
 <li id="paperdistance">Xingyu Liu, <B>Zhongyun Hua*</B>, Shuang Yi, Yushu Zhang, Yicong Zhou, "Bi-directional Block Encoding for Reversible Data Hiding over Encrypted Images", <B><I>ACM Transactions on Multimedia Computing, Communications, and Applications</I></B>, vol. 20, no. 5, 2024. <a href="https://doi.org/10.1145/3638771">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Bi-directional_Block_Encoding_for_Reversible_Data_Hiding_over_Encrypted_Images.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Yushu Zhang, Nuo Chen, Shuren Qi*, Mingfu Xue, <B>Zhongyun Hua</B>, "Detection of Recolored Image by Texture Features in Chrominance Components", <B><I>ACM Transactions on Multimedia Computing, Communications and Applications</I></B>, vol. 19, no. 3, pp 1-23, 2023. <a href="https://dl.acm.org/doi/abs/10.1145/3571076">[doi]</a><a href="https://dl.acm.org/doi/pdf/10.1145/3571076" target="_blank">[pdf]</a></li>
 <li id="paperdistance">  Xuanqi Zhang, Qiangqiang Shen, Yongyong Chen*, <B>Zhongyun Hua</B>, Jingyong Su, "Multi-View Ensemble Clustering via Low-Rank and Sparse Decomposition: from Matrix to Tensor", <B><I>ACM Transactions on Knowledge Discovery from Data</I></B>, vol. 17, no. 103, pp 1-19, 2023. <a href="https://dl.acm.org/doi/abs/10.1145/3589768">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Multi-View Ensemble Clustering via Low-Rank and Sparse Decomposition_from Matrix to Tensor.pdf" target="_blank">[pdf]</a></li>
