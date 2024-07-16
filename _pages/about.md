@@ -181,6 +181,8 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
 
 <h4 id="Nonlinear Systems and Applications:">Nonlinear Systems and Applications:</h4>
+
+<li id="paperdistance"> Han Bao, Yuanhui Su, <B>Zhongyun Hua</B>, Quan Xu, Bocheng Bao*, "Two-Dimensional Threshold Hyperchaotic Map and Application in Timed One-Time Password", <B><I>IEEE Transactions on Industrial Informatics </I></B>, 2024. </li>
 <li id="paperdistance"> Han Bao, Yuanhui Su, <B>Zhongyun Hua</B>, Mo Chen, Quan Xu, Bocheng Bao*, "Grid Homogeneous Coexisting Hyperchaos and Hardware Encryption for 2-D HNN-Like Map", <B><I> IEEE Transactions on Circuits and Systems I: Regular Papers </I></B>, 2024. </li>
 <li id="paperdistance"> Yinxing Zhang, <B>Zhongyun Hua*</B>, Han Bao, Hejiao Huang, "Multi-Valued Model for Generating Complex Chaos and Fractals", <B><I> IEEE Transactions on Circuits and Systems I: Regular Papers </I></B>, vol. 71, no. 6, pp. 2783-2796, 2024. </li>
 <li id="paperdistance"> ChenLong Yi, ChunBiao Li*, YongXin Li, Ming Xia, <B>ZhongYun Hua</B>, "Modifying Lyapunov exponent of chaotic map by self-cascading", <B><I> Science China Technological Science </I></B>, in press, 2024. </li>
