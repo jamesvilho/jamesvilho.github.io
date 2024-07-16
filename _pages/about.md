@@ -35,7 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
- <li><em>2024.07</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I </li>; A paper is accpeted by IEEE TII </li>
+ <li><em>2024.07</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TII; A paper is accpeted by IEEE TII</li>
   <li><em>2024.06</em>:  🎉🎉 A paper is accpeted by IEEE TCSVT; A paper is accpeted by ACM TOMM </li>
   <li><em>2024.05</em>:  🎉🎉 A paper is accpeted by ICML 2024; A paper is accpeted by IEEE TIFS </li>
   <li><em>2024.03</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSS; Apaper is accepted bgy IEEE TIFS </li>
@@ -182,6 +182,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
 <h4 id="Nonlinear Systems and Applications:">Nonlinear Systems and Applications:</h4>
 
+<li id="paperdistance"><B>Zhongyun Hua</B>, Jinhui Yao, Yinxing Zhang, Han Bao, Shuang Yi, "Two-Dimensional Coupled Complex Chaotic Map", <B><I>IEEE Transactions on Industrial Informatics </I></B>, 2024. </li>
 <li id="paperdistance"> Han Bao, Yuanhui Su, <B>Zhongyun Hua</B>, Quan Xu, Bocheng Bao*, "Two-Dimensional Threshold Hyperchaotic Map and Application in Timed One-Time Password", <B><I>IEEE Transactions on Industrial Informatics </I></B>, 2024. </li>
 <li id="paperdistance"> Han Bao, Yuanhui Su, <B>Zhongyun Hua</B>, Mo Chen, Quan Xu, Bocheng Bao*, "Grid Homogeneous Coexisting Hyperchaos and Hardware Encryption for 2-D HNN-Like Map", <B><I> IEEE Transactions on Circuits and Systems I: Regular Papers </I></B>, 2024. </li>
 <li id="paperdistance"> Yinxing Zhang, <B>Zhongyun Hua*</B>, Han Bao, Hejiao Huang, "Multi-Valued Model for Generating Complex Chaos and Fractals", <B><I> IEEE Transactions on Circuits and Systems I: Regular Papers </I></B>, vol. 71, no. 6, pp. 2783-2796, 2024. </li>
