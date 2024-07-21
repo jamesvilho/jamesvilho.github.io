@@ -339,11 +339,16 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 <span class='anchor' id='-pr'></span>
 
 <h1 id="-Peer Review">➿ Peer Review</h1>
+<li>Reviewer, IEEE Transactions on Pattern Analysis and Machine Intelligence</li>
+<li>Reviewer, IEEE Transactions on Image Processing</li>
+<li>Reviewer, IEEE Transactions on Signal Processing</li>
+<li>Reviewer, IEEE Transactions on Knowledge and Data Engineering</li>
+<li>Reviewer, IEEE Transactions on Cybernetics</li>
+<li>Reviewer, IEEE Transactions on Systems, Man and Cybernetics: Systems</li>
 <li>Reviewer,  IEEE Transactions on Circuits and Systems for Video Technology</li>
 <li>Reviewer,  IEEE Transactions on Cybernetics</li>
 <li>Reviewer,  IEEE Transactions on Industrial Informatics</li>
 <li>Reviewer,  IEEE Transactions on Industrial Electronics</li>
-<li>Reviewer,  IEEE Transactions on Signal Processing</li>
 <li>Reviewer,  IEEE Transactions on Circuits and Systems II: Express Briefs, etc</li>
 <li>Reviewer,  IEEE Transactions on Circuits and Systems I: Regular Papers</li>
 
