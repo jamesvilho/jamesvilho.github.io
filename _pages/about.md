@@ -351,6 +351,14 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 <li>Reviewer,  IEEE Transactions on Circuits and Systems II: Express Briefs, etc</li>
 <li>Reviewer,  IEEE Transactions on Circuits and Systems I: Regular Papers</li>
 
+<h1>Program Committee Member</h1>
+<li>The 37th AAAI Conference on Artificial Intelligence (AAAI 2024)</li>
+<li>2024 IEEE International Conference on Multimedia and Expo (ICME 2024)</li>
+<li>2023 IEEE International Conference on Multimedia and Expo (ICME 2023)</li>
+<li>2022 IEEE International Conference on Multimedia and Expo (ICME 2022)</li>
+<li>The 31th International Conference on Neural Information Processing (ICONIP 2024)</li>
+
+
 <span class='anchor' id='-ryjx'></span>
 
 <h1 id="-Honours and Recognitions">🏅 Honours and Recognitions</h1>
