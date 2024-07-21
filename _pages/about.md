@@ -346,7 +346,6 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 <li>Reviewer, IEEE Transactions on Cybernetics</li>
 <li>Reviewer, IEEE Transactions on Systems, Man and Cybernetics: Systems</li>
 <li>Reviewer,  IEEE Transactions on Circuits and Systems for Video Technology</li>
-<li>Reviewer,  IEEE Transactions on Cybernetics</li>
 <li>Reviewer,  IEEE Transactions on Industrial Informatics</li>
 <li>Reviewer,  IEEE Transactions on Industrial Electronics</li>
 <li>Reviewer,  IEEE Transactions on Circuits and Systems II: Express Briefs, etc</li>
