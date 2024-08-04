@@ -35,7 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
- <li><em>2024.07</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TII; A paper is accpeted by IEEE TII； Two papers are accpeted by IEEE TII</li>
+ <li><em>2024.07</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TII; A paper is accpeted by IEEE TII； Two papers are accpeted by ACM MM</li>
   <li><em>2024.06</em>:  🎉🎉 A paper is accpeted by IEEE TCSVT; A paper is accpeted by ACM TOMM </li>
   <li><em>2024.05</em>:  🎉🎉 A paper is accpeted by ICML 2024; A paper is accpeted by IEEE TIFS </li>
   <li><em>2024.03</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSS; Apaper is accepted bgy IEEE TIFS </li>
