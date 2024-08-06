@@ -35,7 +35,8 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
- <li><em>2024.07</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TII; A paper is accpeted by IEEE TII； Two papers are accpeted by ACM MM</li>
+  <li><em>2024.08</em>:  🎉🎉 A paper is accpeted by ACM CCS</li>
+  <li><em>2024.07</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TII; A paper is accpeted by IEEE TII； Two papers are accpeted by ACM MM</li>
   <li><em>2024.06</em>:  🎉🎉 A paper is accpeted by IEEE TCSVT; A paper is accpeted by ACM TOMM </li>
   <li><em>2024.05</em>:  🎉🎉 A paper is accpeted by ICML 2024; A paper is accpeted by IEEE TIFS </li>
   <li><em>2024.03</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSS; Apaper is accepted bgy IEEE TIFS </li>
@@ -287,8 +288,11 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 <h3 id="Conference Papers">Conference Papers</h3>
 
 <ol id="olstyle">
-<li id="paperdistance"> Yuhang Zhou, Yushu Zhang, Leo Yu Zhang, <B>Zhongyun Hua*</B>，"DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group", in ACM Multimedia, 2024. </li>
-<li id="paperdistance"> Zixuan Yang, Yushu Zhang*, Tao Wang, <B>Zhongyun Hua</B>, Zhihua Xia, Jian Weng，"Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils", in ACM Multimedia, 2024. </li>
+<li id="paperdistance"> Shuangqing Xu, Yifeng Zheng, <B>Zhongyun Hua</B>，"Camel: Communication-Efficient and Maliciously Secure Federated
+  Learning in the Shuffle Model of Differential Privacy", in ACM Conference on Computer and Communications Security (ACM CCS), 2024. </li>
+<ol id="olstyle">
+<li id="paperdistance"> Yuhang Zhou, Yushu Zhang, Leo Yu Zhang, <B>Zhongyun Hua*</B>，"DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group", in The 32nd ACM International Conference on Multimedia (ACM MM), 2024. </li>
+<li id="paperdistance"> Zixuan Yang, Yushu Zhang*, Tao Wang, <B>Zhongyun Hua</B>, Zhihua Xia, Jian Weng，"Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils", in The 32nd ACM International Conference on Multimedia (ACM MM), 2024. </li>
 <li id="paperdistance"> Linshan Hou, Ruili Feng, <B>Zhongyun Hua*</B>, Wei Luo, Leo Yu Zhang, Yiming Li*，"IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency", in Forty-first International Conference on Machine Learning (ICML), 2024. </li>
 <li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B>, "Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay", in IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024.</li>
 	
