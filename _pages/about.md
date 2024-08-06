@@ -290,7 +290,6 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 <ol id="olstyle">
 <li id="paperdistance"> Shuangqing Xu, Yifeng Zheng, <B>Zhongyun Hua</B>，"Camel: Communication-Efficient and Maliciously Secure Federated
   Learning in the Shuffle Model of Differential Privacy", in ACM Conference on Computer and Communications Security (ACM CCS), 2024. </li>
-<ol id="olstyle">
 <li id="paperdistance"> Yuhang Zhou, Yushu Zhang, Leo Yu Zhang, <B>Zhongyun Hua*</B>，"DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group", in The 32nd ACM International Conference on Multimedia (ACM MM), 2024. </li>
 <li id="paperdistance"> Zixuan Yang, Yushu Zhang*, Tao Wang, <B>Zhongyun Hua</B>, Zhihua Xia, Jian Weng，"Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils", in The 32nd ACM International Conference on Multimedia (ACM MM), 2024. </li>
 <li id="paperdistance"> Linshan Hou, Ruili Feng, <B>Zhongyun Hua*</B>, Wei Luo, Leo Yu Zhang, Yiming Li*，"IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency", in Forty-first International Conference on Machine Learning (ICML), 2024. </li>
