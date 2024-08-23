@@ -110,7 +110,6 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
  <h4 id="Multimedia Security, Multimedia Forensics, and AI Security:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
  
- %<li id="paperdistance">Linshan Hou, <B>Zhongyun Hua*</B>, Yuhong Li, Yifeng Zheng, and Leo Yu Zhang, "Seeing is not Believing: An Identity Hider for Human Vision Privacy Protections", <B><I>IEEE Transactions on Biometrics, Behavior, and Identity Science</I></B>, in press, 2024. </li>
  
 <li id="paperdistance">Linshan Hou, <B>Zhongyun Hua*</B>, Yuhong Li, Yifeng Zheng, and Leo Yu Zhang, "M-to-N Backdoor Paradigm: A Multi-Trigger and Multi-Target Attack to Deep Learning Models", <B><I>IEEE Transactions on Circuits and Systems for Video Technology</I></B>, in press, 2024. </li>
  <li id="paperdistance">Yuanman Li, Lanhao Ye, Haokun Cao, Wei Wang, <B>Zhongyun Hua*</B>, "Cascaded Adaptive Graph Representation Learning for lmage Copy-Move Forgery Detection", <B><I>ACM Transactions on Multimedia Computing, Communications, and Applications</I></B>, in press, 2024. </li>
