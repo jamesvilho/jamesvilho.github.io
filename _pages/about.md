@@ -35,7 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-  <li><em>2024.08</em>:  🎉🎉 A paper is accpeted by ACM CCS;  A paper is accpeted by IEEE TSC;  Two papers are accpeted by IEEE TIE</li>
+  <li><em>2024.08</em>:  🎉🎉 A paper is accpeted by ACM CCS;  A paper is accpeted by IEEE TSC;  Two papers are accpeted by IEEE TIE； A paper is accepted by IEEE TBIOM </li>
   <li><em>2024.07</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TII; A paper is accpeted by IEEE TII；Two papers are accpeted by ACM MM</li>
   <li><em>2024.06</em>:  🎉🎉 A paper is accpeted by IEEE TCSVT; A paper is accpeted by ACM TOMM </li>
   <li><em>2024.05</em>:  🎉🎉 A paper is accpeted by ICML 2024; A paper is accpeted by IEEE TIFS </li>
@@ -109,6 +109,8 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 <li id="paperdistance"> 李忠文, 丁烨, <B>花忠云</B>, 李君一, 廖清*, “结合三元组重要性的知识图谱补全模型”, <B><I>计算机科学</I></B>, 2020</li>
 
  <h4 id="Multimedia Security, Multimedia Forensics, and AI Security:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
+ 
+ %<li id="paperdistance">Linshan Hou, <B>Zhongyun Hua*</B>, Yuhong Li, Yifeng Zheng, and Leo Yu Zhang, "Seeing is not Believing: An Identity Hider for Human Vision Privacy Protections", <B><I>IEEE Transactions on Biometrics, Behavior, and Identity Science</I></B>, in press, 2024. </li>
  
 <li id="paperdistance">Linshan Hou, <B>Zhongyun Hua*</B>, Yuhong Li, Yifeng Zheng, and Leo Yu Zhang, "M-to-N Backdoor Paradigm: A Multi-Trigger and Multi-Target Attack to Deep Learning Models", <B><I>IEEE Transactions on Circuits and Systems for Video Technology</I></B>, in press, 2024. </li>
  <li id="paperdistance">Yuanman Li, Lanhao Ye, Haokun Cao, Wei Wang, <B>Zhongyun Hua*</B>, "Cascaded Adaptive Graph Representation Learning for lmage Copy-Move Forgery Detection", <B><I>ACM Transactions on Multimedia Computing, Communications, and Applications</I></B>, in press, 2024. </li>
