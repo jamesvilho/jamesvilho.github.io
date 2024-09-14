@@ -190,7 +190,7 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 <h4 id="Nonlinear Systems and Applications:">Nonlinear Systems and Applications:</h4>
 
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Zihua Wu, Yinxing Zhang*, Han Bao, Yicong Zhou, "MTwo-Dimensional Cyclic Chaotic System for Noise-Reduced OFDM-DCSK Communication", <B><I> IEEE Transactions on Circuits and Systems I: Regular Papers </I></B>, in press, 2024. </li>
-<li id="paperdistance">Bocheng Bao, Haigang Tang, Han Bao*, <B>Zhongyun Hua</B>, Quan Xu, and Mo Chen, "<B>Zhongyun Hua</B>", <B><I>IEEE Transactions on Industrial Electronics </I></B>, 2024. </li>
+<li id="paperdistance">Bocheng Bao, Haigang Tang, Han Bao*, <B>Zhongyun Hua</B>, Quan Xu, and Mo Chen, <B><I>IEEE Transactions on Industrial Electronics </I></B>, 2024. </li>
 <li id="paperdistance">Han Bao, Yuanhui Su, <B>Zhongyun Hua</B>, Mo Chen, Senior, and Bocheng Bao*, "Two-Dimensional Bounded Chaotic System With Hardware Implementation", <B><I>IEEE Transactions on Industrial Electronics </I></B>, 2024. </li>
 <li id="paperdistance"><B>Zhongyun Hua</B>, Jinhui Yao, Yinxing Zhang, Han Bao, Shuang Yi*, "Two-Dimensional Coupled Complex Chaotic Map", <B><I>IEEE Transactions on Industrial Informatics </I></B>, 2024. </li>
 <li id="paperdistance"> Han Bao, Yuanhui Su, <B>Zhongyun Hua</B>, Quan Xu, Bocheng Bao*, "Two-Dimensional Threshold Hyperchaotic Map and Application in Timed One-Time Password", <B><I>IEEE Transactions on Industrial Informatics </I></B>, 2024. </li>
