@@ -91,7 +91,7 @@ My research interests include:
 <ol id="olstyle">
 
 <h4 id="Secure Cloud Computing:">Secure Cloud Computing:</h4>
-<li id="paperdistance">  Yifeng Zheng, Menglun Zhou, Songlei Wang, <B>Zhongyun Hua</B>, Jinghua Jiang, and Yansong Gao, “Privacy-Preserving Competitive Detour Tasking in Spatial
+<li id="paperdistance">  Yifeng Zheng, Menglun Zhou, Songlei Wang, <B>Zhongyun Hua*</B>, Jinghua Jiang, and Yansong Gao, “Privacy-Preserving Competitive Detour Tasking in Spatial
 Crowdsourcing”,  <B><I>IEEE Transactions on Services Computing</I></B>, accepted, 2024.</li>
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “SimLESS: A Secure Deduplication System over
 Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information Forensics and Security</I></B>, vol. 19, pp. 4700-4715, 2024. <a href="https://doi.org/10.1109/TIFS.2024.3382603">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/SimLESS_A_Secure_Deduplication_System_Over_Similar_Data_in_Cloud_Media_Sharing.pdf" target="_blank">[pdf]</a></li>
@@ -111,7 +111,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
  <h4 id="Multimedia Security, Multimedia Forensics, and AI Security:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
  
- <li id="paperdistance">Kuiyuan Zhang, Zeming Hou, <B>Zhongyun Hua*</B>, Yifeng Zheng, and Leo Yu Zhang, <B>Zhongyun Hua</B>, "Boosting Deepfake Detection Generalizability via
+ <li id="paperdistance">Kuiyuan Zhang, Zeming Hou, <B>Zhongyun Hua*</B>, Yifeng Zheng, and Leo Yu Zhang, "Boosting Deepfake Detection Generalizability via
 Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuits and Systems for Video Technology</I></B>, in press, 2024. </li>
 <li id="paperdistance">Tao Wang, Yushu Zhang*, Zixuan Yang, Xiangli Xiao, Hua Zhang, <B>Zhongyun Hua</B>, "MSeeing is not believing: An identity hider for human vision privacy protection", <B><I>IEEE Transactions on Biometrics, Behavior, and Identity Science</I></B>, in press, 2024. </li>
 <li id="paperdistance">Linshan Hou, <B>Zhongyun Hua*</B>, Yuhong Li, Yifeng Zheng, and Leo Yu Zhang, "M-to-N Backdoor Paradigm: A Multi-Trigger and Multi-Target Attack to Deep Learning Models", <B><I>IEEE Transactions on Circuits and Systems for Video Technology</I></B>, in press, 2024. </li>
@@ -189,7 +189,7 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 
 <h4 id="Nonlinear Systems and Applications:">Nonlinear Systems and Applications:</h4>
 
-<li id="paperdistance"> <B>Zhongyun Hua*</B>, Zihua Wu, Yinxing Zhang*, Han Bao, Yicong Zhou, "MTwo-Dimensional Cyclic Chaotic System for Noise-Reduced OFDM-DCSK Communication", <B><I> IEEE Transactions on Circuits and Systems I: Regular Papers </I></B>, in press, 2024. </li>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Zihua Wu, Yinxing Zhang*, Han Bao, Yicong Zhou, "MTwo-Dimensional Cyclic Chaotic System for Noise-Reduced OFDM-DCSK Communication", <B><I> IEEE Transactions on Circuits and Systems I: Regular Papers </I></B>, in press, 2024. </li>
 <li id="paperdistance">Bocheng Bao, Haigang Tang, Han Bao*, <B>Zhongyun Hua</B>, Quan Xu, and Mo Chen, "<B>Zhongyun Hua</B>", <B><I>IEEE Transactions on Industrial Electronics </I></B>, 2024. </li>
 <li id="paperdistance">Han Bao, Yuanhui Su, <B>Zhongyun Hua</B>, Mo Chen, Senior, and Bocheng Bao*, "Two-Dimensional Bounded Chaotic System With Hardware Implementation", <B><I>IEEE Transactions on Industrial Electronics </I></B>, 2024. </li>
 <li id="paperdistance"><B>Zhongyun Hua</B>, Jinhui Yao, Yinxing Zhang, Han Bao, Shuang Yi*, "Two-Dimensional Coupled Complex Chaotic Map", <B><I>IEEE Transactions on Industrial Informatics </I></B>, 2024. </li>
@@ -297,7 +297,7 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 <h3 id="Conference Papers">Conference Papers</h3>
 
 <ol id="olstyle">
-<li id="paperdistance"> Shuangqing Xu, Yifeng Zheng, <B>Zhongyun Hua</B>，"Camel: Communication-Efficient and Maliciously Secure Federated
+<li id="paperdistance"> Shuangqing Xu, Yifeng Zheng*, <B>Zhongyun Hua*</B>，"Camel: Communication-Efficient and Maliciously Secure Federated
   Learning in the Shuffle Model of Differential Privacy", in ACM Conference on Computer and Communications Security (ACM CCS), 2024. </li>
 <li id="paperdistance"> Yuhang Zhou, Yushu Zhang, Leo Yu Zhang, <B>Zhongyun Hua*</B>，"DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group", in The 32nd ACM International Conference on Multimedia (ACM MM), 2024. </li>
 <li id="paperdistance"> Zixuan Yang, Yushu Zhang*, Tao Wang, <B>Zhongyun Hua</B>, Zhihua Xia, Jian Weng，"Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils", in The 32nd ACM International Conference on Multimedia (ACM MM), 2024. </li>
