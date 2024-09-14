@@ -372,6 +372,7 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 <li>2023 IEEE International Conference on Multimedia and Expo (ICME 2023)</li>
 <li>2022 IEEE International Conference on Multimedia and Expo (ICME 2022)</li>
 <li>The 31th International Conference on Neural Information Processing (ICONIP 2024)</li>
+<li>The 20th International Conference on Mobility, Sensing and Networking (MSN 2024) </li>
 
 
 <span class='anchor' id='-ryjx'></span>
