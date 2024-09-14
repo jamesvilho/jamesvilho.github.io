@@ -35,6 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
+  <li><em>2024.09</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSVT </li>
   <li><em>2024.08</em>:  🎉🎉 A paper is accpeted by ACM CCS;  A paper is accpeted by IEEE TSC;  Two papers are accpeted by IEEE TIE； A paper is accepted by IEEE TBIOM </li>
   <li><em>2024.07</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TII; A paper is accpeted by IEEE TII；Two papers are accpeted by ACM MM</li>
   <li><em>2024.06</em>:  🎉🎉 A paper is accpeted by IEEE TCSVT; A paper is accpeted by ACM TOMM </li>
@@ -110,7 +111,9 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
  <h4 id="Multimedia Security, Multimedia Forensics, and AI Security:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
  
- 
+ <li id="paperdistance">Kuiyuan Zhang, Zeming Hou, <B>Zhongyun Hua*</B>, Yifeng Zheng, and Leo Yu Zhang, <B>Zhongyun Hua</B>, "Boosting Deepfake Detection Generalizability via
+Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuits and Systems for Video Technology</I></B>, in press, 2024. </li>
+<li id="paperdistance">Tao Wang, Yushu Zhang*, Zixuan Yang, Xiangli Xiao, Hua Zhang, <B>Zhongyun Hua</B>, "MSeeing is not believing: An identity hider for human vision privacy protection", <B><I>IEEE Transactions on Biometrics, Behavior, and Identity Science</I></B>, in press, 2024. </li>
 <li id="paperdistance">Linshan Hou, <B>Zhongyun Hua*</B>, Yuhong Li, Yifeng Zheng, and Leo Yu Zhang, "M-to-N Backdoor Paradigm: A Multi-Trigger and Multi-Target Attack to Deep Learning Models", <B><I>IEEE Transactions on Circuits and Systems for Video Technology</I></B>, in press, 2024. </li>
  <li id="paperdistance">Yuanman Li, Lanhao Ye, Haokun Cao, Wei Wang, <B>Zhongyun Hua*</B>, "Cascaded Adaptive Graph Representation Learning for lmage Copy-Move Forgery Detection", <B><I>ACM Transactions on Multimedia Computing, Communications, and Applications</I></B>, in press, 2024. </li>
  <li id="paperdistance">  <B>Zhongyun Hua*</B>, Yanxiang Wang, Shuang Yi, Yifeng Zheng, Xingyu Liu, Yongyong Chen, Xinpeng Zhang, "Matrix-Based Secret Sharing for Reversible Data Hiding in Encrypted Images", <B><I> IEEE Transactions on Dependable and Secure Computing</I></B>, vol. 20, no. 5, pp. 3669-3686, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/9933877">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Matrix-Based_Secret_Sharing_for_Reversible_Data_Hiding_in_Encrypted_Images.pdf" target="_blank">[pdf]</a></li>
@@ -185,9 +188,11 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
 
 <h4 id="Nonlinear Systems and Applications:">Nonlinear Systems and Applications:</h4>
+
+<li id="paperdistance"> <B>Zhongyun Hua*</B>, Zihua Wu, Yinxing Zhang*, Han Bao, Yicong Zhou, "MTwo-Dimensional Cyclic Chaotic System for Noise-Reduced OFDM-DCSK Communication", <B><I> IEEE Transactions on Circuits and Systems I: Regular Papers </I></B>, in press, 2024. </li>
 <li id="paperdistance">Bocheng Bao, Haigang Tang, Han Bao*, <B>Zhongyun Hua</B>, Quan Xu, and Mo Chen, "<B>Zhongyun Hua</B>", <B><I>IEEE Transactions on Industrial Electronics </I></B>, 2024. </li>
 <li id="paperdistance">Han Bao, Yuanhui Su, <B>Zhongyun Hua</B>, Mo Chen, Senior, and Bocheng Bao*, "Two-Dimensional Bounded Chaotic System With Hardware Implementation", <B><I>IEEE Transactions on Industrial Electronics </I></B>, 2024. </li>
-<li id="paperdistance"><B>Zhongyun Hua</B>, Jinhui Yao, Yinxing Zhang, Han Bao, Shuang Yi, "Two-Dimensional Coupled Complex Chaotic Map", <B><I>IEEE Transactions on Industrial Informatics </I></B>, 2024. </li>
+<li id="paperdistance"><B>Zhongyun Hua</B>, Jinhui Yao, Yinxing Zhang, Han Bao, Shuang Yi*, "Two-Dimensional Coupled Complex Chaotic Map", <B><I>IEEE Transactions on Industrial Informatics </I></B>, 2024. </li>
 <li id="paperdistance"> Han Bao, Yuanhui Su, <B>Zhongyun Hua</B>, Quan Xu, Bocheng Bao*, "Two-Dimensional Threshold Hyperchaotic Map and Application in Timed One-Time Password", <B><I>IEEE Transactions on Industrial Informatics </I></B>, 2024. </li>
 <li id="paperdistance"> Han Bao, Yuanhui Su, <B>Zhongyun Hua</B>, Mo Chen, Quan Xu, Bocheng Bao*, "Grid Homogeneous Coexisting Hyperchaos and Hardware Encryption for 2-D HNN-Like Map", <B><I> IEEE Transactions on Circuits and Systems I: Regular Papers </I></B>, 2024. </li>
 <li id="paperdistance"> Yinxing Zhang, <B>Zhongyun Hua*</B>, Han Bao, Hejiao Huang, "Multi-Valued Model for Generating Complex Chaos and Fractals", <B><I> IEEE Transactions on Circuits and Systems I: Regular Papers </I></B>, vol. 71, no. 6, pp. 2783-2796, 2024. </li>
