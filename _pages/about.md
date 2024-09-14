@@ -92,7 +92,7 @@ My research interests include:
 
 <h4 id="Secure Cloud Computing:">Secure Cloud Computing:</h4>
 
-<li id="paperdistance">  段秋宇, 候琳珊, 花忠云*, 廖清, 张玉书, 张瑜, “基于模型操作的单参数后门攻击”,  <B><I>网络与信息安全学报</I></B>, accepted, 2024.</li>
+
 <li id="paperdistance">  佟岩, 花忠云*, 廖清, 张玉书, “基于秘密共享的安全命名实体识别推理方法“,  <B><I>网络与信息安全学报</I></B>, accepted, 2024.</li>
 <li id="paperdistance">  Yifeng Zheng, Menglun Zhou, Songlei Wang, <B>Zhongyun Hua*</B>, Jinghua Jiang, and Yansong Gao, “Privacy-Preserving Competitive Detour Tasking in Spatial Crowdsourcing”,  <B><I>IEEE Transactions on Services Computing</I></B>, accepted, 2024.</li>
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “SimLESS: A Secure Deduplication System over
@@ -112,7 +112,8 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 <li id="paperdistance"> 李忠文, 丁烨, <B>花忠云</B>, 李君一, 廖清*, “结合三元组重要性的知识图谱补全模型”, <B><I>计算机科学</I></B>, 2020</li>
 
  <h4 id="Multimedia Security, Multimedia Forensics, and AI Security:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
- 
+
+ <li id="paperdistance">  段秋宇, 候琳珊, 花忠云*, 廖清, 张玉书, 张瑜, “基于模型操作的单参数后门攻击”,  <B><I>网络与信息安全学报</I></B>, accepted, 2024.</li>
  <li id="paperdistance">Kuiyuan Zhang, Zeming Hou, <B>Zhongyun Hua*</B>, Yifeng Zheng, and Leo Yu Zhang, "Boosting Deepfake Detection Generalizability via
 Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuits and Systems for Video Technology</I></B>, in press, 2024. </li>
 <li id="paperdistance">Tao Wang, Yushu Zhang*, Zixuan Yang, Xiangli Xiao, Hua Zhang, <B>Zhongyun Hua</B>, "MSeeing is not believing: An identity hider for human vision privacy protection", <B><I>IEEE Transactions on Biometrics, Behavior, and Identity Science</I></B>, in press, 2024. </li>
