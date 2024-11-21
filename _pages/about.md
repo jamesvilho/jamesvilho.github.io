@@ -35,6 +35,8 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
+  <li><em>2024.11</em>:  🎉🎉 I am recognized as a 'Highly Cited Researcher 2024'</li>
+  <li><em>2024.10</em>:  🎉🎉 A paper is  nominated for the Best Paper Award at ACM MM 2024 </li>
   <li><em>2024.09</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSVT; A paper is accpeted by ACM TOMM </li>
   <li><em>2024.08</em>:  🎉🎉 A paper is accpeted by ACM CCS;  A paper is accpeted by IEEE TSC;  Two papers are accpeted by IEEE TIE； A paper is accepted by IEEE TBIOM </li>
   <li><em>2024.07</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TII; A paper is accpeted by IEEE TII；Two papers are accpeted by ACM MM</li>
@@ -44,7 +46,7 @@ My research interests include:
   <li><em>2024.02</em>:  🎉🎉 A paper is accpeted by CSF; A paper is accpeted by CVPR 2024 </li>
   <li><em>2024.01</em>:  🎉🎉 A paper is accpeted by IEEE TIFS </li>
   <li><em>2023.12</em>:  🎉🎉 A paper is accpeted by AAAI 2024; A paper is accepted by ACM TOMM; A paper is accepted by IEEE TSC </li>
-  <li><em>2023.11</em>:  🎉🎉I was recognized as a 'Highly Cited Researcher 2023'</li>
+  <li><em>2023.11</em>:  🎉🎉 I am recognized as a 'Highly Cited Researcher 2023'</li>
   <li><em>2023.11</em>:  🎉🎉 A paper is accepted by IEEE TC; A paper is accepted by IEEE TSC; A paper is accepted by IEEE TDSC</li>
 </ul>
 
