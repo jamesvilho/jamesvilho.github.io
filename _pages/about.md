@@ -301,8 +301,10 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 
 
 <h3 id="Conference Papers">Conference Papers</h3>
-
 <ol id="olstyle">
+ <li id="paperdistance"> Kuiyuan Zhang, <B>hongyun Hua*</B>, Rushi Lan, Yifang Guo, Yushu Zhang, Guoai Xu，"Multi-View Collaborative Learning Network for Speech Deepfake Detection", in The Association for the Advancement of Artificial Intelligence, 2025. </li>
+ <li id="paperdistance"> Kuiyuan Zhang, <B>hongyun Hua*</B>, Rushi Lan, Yushu Zhang, Yifang Guo，"Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes", in The Association for the Advancement of Artificial Intelligence, 2025. </li>
+<li id="paperdistance"> Yifeng Zheng*, Tianchen Xiong, Huajie Ouyang, Songlei Wang, <B>Zhongyun Hua</B>, Yansong Gao，"SARA: A Sparsity-Aware Efficient Oblivious Aggregation Service for Federated Matrix Factorization", in International Conference on Web Information Systems Engineering, 2025. </li>
 <li id="paperdistance"> Shuangqing Xu, Yifeng Zheng*, <B>Zhongyun Hua*</B>，"Camel: Communication-Efficient and Maliciously Secure Federated
   Learning in the Shuffle Model of Differential Privacy", in ACM Conference on Computer and Communications Security (ACM CCS), 2024. </li>
 <li id="paperdistance"> Yuhang Zhou, Yushu Zhang, Leo Yu Zhang, <B>Zhongyun Hua*</B>，"DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group", in The 32nd ACM International Conference on Multimedia (ACM MM), 2024. </li>
