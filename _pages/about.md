@@ -35,7 +35,8 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-  <li><em>2024.11</em>:  🎉🎉 I am recognized as a 'Highly Cited Researcher 2024'</li>
+  <li><em>2024.12</em>:  🎉🎉 Two papers are accpeted by AAAI 2025; A paper is accepted by IEEEE TIFS </li>
+  <li><em>2024.11</em>:  🎉🎉 I am recognized as a 'Highly Cited Researcher 2024'; A paper is accted by IEEE TSC </li>
   <li><em>2024.10</em>:  🎉🎉 A paper is  nominated for the Best Paper Award at ACM MM 2024 </li>
   <li><em>2024.09</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSVT; A paper is accpeted by ACM TOMM </li>
   <li><em>2024.08</em>:  🎉🎉 A paper is accpeted by ACM CCS;  A paper is accpeted by IEEE TSC;  Two papers are accpeted by IEEE TIE； A paper is accepted by IEEE TBIOM </li>
@@ -115,6 +116,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
  <h4 id="Multimedia Security, Multimedia Forensics, and AI Security:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
  
+  <li id="paperdistance">[28]	Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yushu Zhang, Yifang Guo, and Tao Xiang, "Robust AI-Synthesized Speech Detection Using Feature Decomposition Learning and Synthesizer Feature Augmentation", <B><I>IEEE Transactions on Industrial Informatics</I></B>, in press, 2024. </li>
  <li id="paperdistance">Enji Liang, Kuiyuan Zhang, <B>Zhongyun Hua*</B>, and Xiaohua Jia, "Multi-Scale Feature Attention Fusion for Image Splicing Forgery Detection", <B><I>ACM Transactions on Multimedia Computing, Communications, and Applicationsy</I></B>, in press, 2024. </li>
  <li id="paperdistance">  段秋宇, 候琳珊, 花忠云*, 廖清, 张玉书, 张瑜, “基于模型操作的单参数后门攻击”,  <B><I>网络与信息安全学报</I></B>, accepted, 2024.</li>
  <li id="paperdistance">Kuiyuan Zhang, Zeming Hou, <B>Zhongyun Hua*</B>, Yifeng Zheng, and Leo Yu Zhang, "Boosting Deepfake Detection Generalizability via
@@ -302,8 +304,8 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 
 <h3 id="Conference Papers">Conference Papers</h3>
 <ol id="olstyle">
- <li id="paperdistance"> Kuiyuan Zhang, <B>hongyun Hua*</B>, Rushi Lan, Yifang Guo, Yushu Zhang, Guoai Xu，"Multi-View Collaborative Learning Network for Speech Deepfake Detection", in The Association for the Advancement of Artificial Intelligence, 2025. </li>
- <li id="paperdistance"> Kuiyuan Zhang, <B>hongyun Hua*</B>, Rushi Lan, Yushu Zhang, Yifang Guo，"Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes", in The Association for the Advancement of Artificial Intelligence, 2025. </li>
+ <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yifang Guo, Yushu Zhang, Guoai Xu，"Multi-View Collaborative Learning Network for Speech Deepfake Detection", in The Association for the Advancement of Artificial Intelligence, 2025. </li>
+ <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yushu Zhang, Yifang Guo，"Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes", in The Association for the Advancement of Artificial Intelligence, 2025. </li>
 <li id="paperdistance"> Yifeng Zheng*, Tianchen Xiong, Huajie Ouyang, Songlei Wang, <B>Zhongyun Hua</B>, Yansong Gao，"SARA: A Sparsity-Aware Efficient Oblivious Aggregation Service for Federated Matrix Factorization", in International Conference on Web Information Systems Engineering, 2025. </li>
 <li id="paperdistance"> Shuangqing Xu, Yifeng Zheng*, <B>Zhongyun Hua*</B>，"Camel: Communication-Efficient and Maliciously Secure Federated
   Learning in the Shuffle Model of Differential Privacy", in ACM Conference on Computer and Communications Security (ACM CCS), 2024. </li>
