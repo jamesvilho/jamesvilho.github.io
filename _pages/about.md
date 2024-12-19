@@ -94,7 +94,7 @@ My research interests include:
 
 <h4 id="Secure Cloud Computing:">Secure Cloud Computing:</h4>
 
-
+<li id="paperdistance">  Yifeng Zheng, Weibo Wang, Songlei Wang, <B>Zhongyun Hua*</B>, and Yansong Gao, “ObliuSky: Oblivious User-Defined Skyline Query Processing in the Cloud”,  <B><I>IEEE Transactions on Services Computing</I></B>, accepted, 2024.</li>
 <li id="paperdistance">  佟岩, 花忠云*, 廖清, 张玉书, “基于秘密共享的安全命名实体识别推理方法“,  <B><I>网络与信息安全学报</I></B>, accepted, 2024.</li>
 <li id="paperdistance">  Yifeng Zheng, Menglun Zhou, Songlei Wang, <B>Zhongyun Hua*</B>, Jinghua Jiang, and Yansong Gao, “Privacy-Preserving Competitive Detour Tasking in Spatial Crowdsourcing”,  <B><I>IEEE Transactions on Services Computing</I></B>, accepted, 2024.</li>
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “SimLESS: A Secure Deduplication System over
