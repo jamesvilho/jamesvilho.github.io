@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/006ca510-c907-43d2-8513-7e527f120301)---
 permalink: /
 title: ""
 excerpt: ""
@@ -18,15 +18,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a professor with the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen. My research interests include Multimedia Security, Multimedia Forensics, Secure Cloud Computing, AI Security, and Nonlinear Systems and Applications. If you have any interest in exploring potential academic collaborations or if you have inquiries related to my research, please feel free to contact me via email at <B>huazhongyunAThit.edu.cn</B> or <B>huazyumATgmail.com</B>. 
+I am currently a professor with the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen. My research interests include Secure Cloud Computing, AI Security, Multimedia Security, Multimedia Forensics, and Nonlinear Systems and Applications. If you have any interest in exploring potential academic collaborations or if you have inquiries related to my research, please feel free to contact me via email at <B>huazhongyunAThit.edu.cn</B> or <B>huazyumATgmail.com</B>. 
 
-I received the B.S. degree in software engineering from Chongqing University, Chongqing, China, in 2011, and the M.S. and Ph.D. degrees in software engineering from the University of Macau, Macau, China, in 2013 and 2016, respectively. My works have appeared in prestigious venues such as ICML, CVPR, IEEE TIFS, IEEE TDSC, IEEE TC, IEEE TPDS, IEEE TIP, and IEEE TSP. I have been recognized as a 'Highly Cited Researcher 2023' and 'Highly Cited Researcher 2022'. I have published about one hundred research papers. I am an associate editor of IEEE Signal Processing Letter amd International Journal of Bifurcation and Chaos. <a href='https://scholar.google.com/citations?user=Sl0BI_IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a><a href='https://scholar.google.com/citations?user=Sl0BI_IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=h-index"></a>。
+I received the B.S. degree in software engineering from Chongqing University, Chongqing, China, in 2011, and the M.S. and Ph.D. degrees in software engineering from the University of Macau, Macau, China, in 2013 and 2016, respectively. My works have appeared in prestigious venues such as ACM CCS, Usenix Security, ICML, CVPR, IEEE TIFS, IEEE TDSC, IEEE TC, IEEE TPDS, IEEE TIP, and IEEE TSP. I have been recognized as a 'Highly Cited Researcher' in 2022, 2023, and 2024. I have published more than 120 papers. I am an associate editor of IEEE Signal Processing Letter amd International Journal of Bifurcation and Chaos. <a href='https://scholar.google.com/citations?user=Sl0BI_IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a><a href='https://scholar.google.com/citations?user=Sl0BI_IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=h-index"></a>。
 
 
 My research interests include:
-- Multimedia Security, Multimedia Forensics
 - Secure Cloud Computing
 - AI Security
+- Multimedia Security, Multimedia Forensics
 - Nonlinear Systems and Applications
   
 
@@ -35,7 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-  <li><em>2024.12</em>:  🎉🎉 Two papers are accpeted by AAAI 2025; A paper is accepted by IEEEE TIFS </li>
+  <li><em>2024.12</em>:  🎉🎉 A paper is accpted on shepherd approval by Usenix Security 2025; Two papers are accpeted by AAAI 2025; A paper is accepted by IEEEE TIFS </li>
   <li><em>2024.11</em>:  🎉🎉 I am recognized as a 'Highly Cited Researcher 2024'; A paper is accted by IEEE TSC </li>
   <li><em>2024.10</em>:  🎉🎉 A paper is  nominated for the Best Paper Award at ACM MM 2024 </li>
   <li><em>2024.09</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSVT; A paper is accpeted by ACM TOMM </li>
@@ -93,24 +93,24 @@ My research interests include:
 
 <h4 id="Secure Cloud Computing:">Secure Cloud Computing:</h4>
 
+<li id="paperdistance"> Shuangqing Xu, Yifeng Zheng*, <B>Zhongyun Hua*</B>，"Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy", in <B><I>ACM Conference on Computer and Communications Security (ACM CCS)</I></B>, 2024. </li>
 
+<li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “SimLESS: A Secure Deduplication System over
+Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information Forensics and Security</I></B>, vol. 19, pp. 4700-4715, 2024. <a href="https://doi.org/10.1109/TIFS.2024.3382603">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/SimLESS_A_Secure_Deduplication_System_Over_Similar_Data_in_Cloud_Media_Sharing.pdf" target="_blank">[pdf]</a></li>
+<li id="paperdistance">  Weibo Wang, Yifeng Zheng*, Songlei Wanga, <B>Zhongyun Hua</B>, Lei Xub, and Yansong Gao, “BopSkyline: Boosting Privacy-Preserving Skyline Query Service in the Cloud”,  <B><I>IEEE Computer & Security</I></B>, vol. 14, 2024.<a href="https://doi.org/10.1016/j.cose.2024.103803">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/BopSkyline_Boosting_privacy-preserving_skyline_query_service_in_the_cloud.pdf" target="_blank">[pdf]</a></li>
+<li id="paperdistance">  <B>Zhongyun Hua</B>, Yan, Tong, Yifeng Zheng*, Yuhong Li, and Yushu Zhang, “PPGloVe: Privacy-Preserving GloVe for Training Word Vectors in the Dark”,  <B><I>IEEE Transactions on Information Forensics and Security</I></B>, vol. 19, pp. 3644-3658, 2024.<a href="https://doi.org/10.1109/TIFS.2024.3364080">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/PPGloVe_Privacy-Preserving_GloVe_for_Training_Word_Vectors_in_the_Dark.pdf" target="_blank">[pdf]</a></li>
+<li id="paperdistance">  <B>Zhongyun Hua</B>, Yufei, Yao, Mingyang Song, Yifeng Zheng*, Yushu Zhang, and Cong Wang, “Blockchain-Assisted Secure Deduplication for Large-Scale Cloud Storage Service”,  <B><I>IEEE Transactions on Services Computing</I></B>, vol. 17, no. 3, pp. 821-835, 2024.<a href="https://doi.org/10.1109/TSC.2024.3350086">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Blockchain-Assisted_Secure_Deduplication_for_Large-Scale_Cloud_Storage_Service.pdf" target="_blank">[pdf]</a></li>
 
 <li id="paperdistance">  Yifeng Zheng, Weibo Wang, Songlei Wang, <B>Zhongyun Hua*</B>, and Yansong Gao, “ObliuSky: Oblivious User-Defined Skyline Query Processing in the Cloud”,  <B><I>IEEE Transactions on Services Computing</I></B>, accepted, 2024.</li>
 
 <li id="paperdistance"> Yifeng Zheng*, Tianchen Xiong, Huajie Ouyang, Songlei Wang, <B>Zhongyun Hua</B>, Yansong Gao，"SARA: A Sparsity-Aware Efficient Oblivious Aggregation Service for Federated Matrix Factorization", in International Conference on Web Information Systems Engineering, 2025. </li>
-<li id="paperdistance"> Shuangqing Xu, Yifeng Zheng*, <B>Zhongyun Hua*</B>，"Camel: Communication-Efficient and Maliciously Secure Federated
-  Learning in the Shuffle Model of Differential Privacy", in ACM Conference on Computer and Communications Security (ACM CCS), 2024. </li>
 
 <li id="paperdistance"> Bo Fang, <B>Zhongyun Hua</B>, Hejiao Huang, "Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket," in 2019 14th International Conference on Computer Science & Education (ICCSE), 5-10, Toronto, Canada, 2019.08.19-2019.08-21.
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket.pdf" target="_blank">[pdf]</a>
 <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance">  佟岩, 花忠云*, 廖清, 张玉书, “基于秘密共享的安全命名实体识别推理方法“,  <B><I>网络与信息安全学报</I></B>, accepted, 2024.</li>
 <li id="paperdistance">  Yifeng Zheng, Menglun Zhou, Songlei Wang, <B>Zhongyun Hua*</B>, Jinghua Jiang, and Yansong Gao, “Privacy-Preserving Competitive Detour Tasking in Spatial Crowdsourcing”,  <B><I>IEEE Transactions on Services Computing</I></B>, accepted, 2024.</li>
-<li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “SimLESS: A Secure Deduplication System over
-Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information Forensics and Security</I></B>, vol. 19, pp. 4700-4715, 2024. <a href="https://doi.org/10.1109/TIFS.2024.3382603">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/SimLESS_A_Secure_Deduplication_System_Over_Similar_Data_in_Cloud_Media_Sharing.pdf" target="_blank">[pdf]</a></li>
-<li id="paperdistance">  Weibo Wang, Yifeng Zheng*, Songlei Wanga, <B>Zhongyun Hua</B>, Lei Xub, and Yansong Gao, “BopSkyline: Boosting Privacy-Preserving Skyline Query Service in the Cloud”,  <B><I>IEEE Computer & Security</I></B>, vol. 14, 2024.<a href="https://doi.org/10.1016/j.cose.2024.103803">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/BopSkyline_Boosting_privacy-preserving_skyline_query_service_in_the_cloud.pdf" target="_blank">[pdf]</a></li>
-<li id="paperdistance">  <B>Zhongyun Hua</B>, Yan, Tong, Yifeng Zheng*, Yuhong Li, and Yushu Zhang, “PPGloVe: Privacy-Preserving GloVe for Training Word Vectors in the Dark”,  <B><I>IEEE Transactions on Information Forensics and Security</I></B>, vol. 19, pp. 3644-3658, 2024.<a href="https://doi.org/10.1109/TIFS.2024.3364080">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/PPGloVe_Privacy-Preserving_GloVe_for_Training_Word_Vectors_in_the_Dark.pdf" target="_blank">[pdf]</a></li>
-<li id="paperdistance">  <B>Zhongyun Hua</B>, Yufei, Yao, Mingyang Song, Yifeng Zheng*, Yushu Zhang, and Cong Wang, “Blockchain-Assisted Secure Deduplication for Large-Scale Cloud Storage Service”,  <B><I>IEEE Transactions on Services Computing</I></B>, vol. 17, no. 3, pp. 821-835, 2024.<a href="https://doi.org/10.1109/TSC.2024.3350086">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Blockchain-Assisted_Secure_Deduplication_for_Large-Scale_Cloud_Storage_Service.pdf" target="_blank">[pdf]</a></li>
+
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “Enabling Transparent Deduplication and Auditing for Encrypted Data in Cloud”,  <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, 2023</li>
 
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Hejiaog Huang, Xiaohua Jia, “LSDedup: Layered Secure Deduplication for Cloud Storage”, <B><I>IEEE Transactions on Computers</I></B>, 2023</li>
@@ -137,7 +137,9 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
 
 
- <h4 id="Multimedia Security, Multimedia Forensics, and AI Security:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
+ <h4 id="AI Security, Multimedia Security, and Multimedia Forensics:">AI Security, Multimedia Security, and Multimedia Forensics:</h4>
+
+<li id="paperdistance"> Yushu Zhang, Yuanyuan Sun, Shuren Qi, Zhongyun Hua, Wenying Wen, Yuming Fang," Atkscopes: Multiresolution Adversarial Perturbation as a Unified Attack on Perceptual Hashing and Beyond", in The 34th USENIX Security Symposium (USENIX Security), Accept on shepherd approval, 2025.</li>
 
   <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yifang Guo, Yushu Zhang, Guoai Xu，"Multi-View Collaborative Learning Network for Speech Deepfake Detection", in The Association for the Advancement of Artificial Intelligence, 2025. </li>
  <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yushu Zhang, Yifang Guo，"Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes", in The Association for the Advancement of Artificial Intelligence, 2025. </li>
