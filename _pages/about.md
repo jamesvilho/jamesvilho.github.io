@@ -141,7 +141,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
  <h4 id="AI Security, Multimedia Security, and Multimedia Forensics:">AI Security, Multimedia Security, and Multimedia Forensics:</h4>
 
-  <li id="paperdistance"> Yushu Zhang, Yuanyuan Sun, Shuren Qi, Zhongyun Hua, Wenying Wen, Yuming Fang," Atkscopes: Multiresolution Adversarial Perturbation as a Unified Attack on Perceptual Hashing and Beyond", in The 34th USENIX Security Symposium (USENIX Security), Accept on shepherd approval, 2025. </li>
+
 
   <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yifang Guo, Yushu Zhang, Guoai Xu，"Multi-View Collaborative Learning Network for Speech Deepfake Detection", in The Association for the Advancement of Artificial Intelligence, 2025. </li>
  <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yushu Zhang, Yifang Guo，"Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes", in The Association for the Advancement of Artificial Intelligence, 2025. </li>
