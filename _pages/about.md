@@ -89,13 +89,21 @@ My research interests include:
 
 <h1 id="-Publications">📝 Publications</h1>
 
-<h3 id="Journal Papers">Journal Papers(*Corresponding author)</h3>
-
 <ol id="olstyle">
 
 <h4 id="Secure Cloud Computing:">Secure Cloud Computing:</h4>
 
+
+
 <li id="paperdistance">  Yifeng Zheng, Weibo Wang, Songlei Wang, <B>Zhongyun Hua*</B>, and Yansong Gao, “ObliuSky: Oblivious User-Defined Skyline Query Processing in the Cloud”,  <B><I>IEEE Transactions on Services Computing</I></B>, accepted, 2024.</li>
+
+<li id="paperdistance"> Yifeng Zheng*, Tianchen Xiong, Huajie Ouyang, Songlei Wang, <B>Zhongyun Hua</B>, Yansong Gao，"SARA: A Sparsity-Aware Efficient Oblivious Aggregation Service for Federated Matrix Factorization", in International Conference on Web Information Systems Engineering, 2025. </li>
+<li id="paperdistance"> Shuangqing Xu, Yifeng Zheng*, <B>Zhongyun Hua*</B>，"Camel: Communication-Efficient and Maliciously Secure Federated
+  Learning in the Shuffle Model of Differential Privacy", in ACM Conference on Computer and Communications Security (ACM CCS), 2024. </li>
+
+<li id="paperdistance"> Bo Fang, <B>Zhongyun Hua</B>, Hejiao Huang, "Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket," in 2019 14th International Conference on Computer Science & Education (ICCSE), 5-10, Toronto, Canada, 2019.08.19-2019.08-21.
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance">  佟岩, 花忠云*, 廖清, 张玉书, “基于秘密共享的安全命名实体识别推理方法“,  <B><I>网络与信息安全学报</I></B>, accepted, 2024.</li>
 <li id="paperdistance">  Yifeng Zheng, Menglun Zhou, Songlei Wang, <B>Zhongyun Hua*</B>, Jinghua Jiang, and Yansong Gao, “Privacy-Preserving Competitive Detour Tasking in Spatial Crowdsourcing”,  <B><I>IEEE Transactions on Services Computing</I></B>, accepted, 2024.</li>
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “SimLESS: A Secure Deduplication System over
@@ -115,6 +123,32 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 <li id="paperdistance"> 李忠文, 丁烨, <B>花忠云</B>, 李君一, 廖清*, “结合三元组重要性的知识图谱补全模型”, <B><I>计算机科学</I></B>, 2020</li>
 
  <h4 id="Multimedia Security, Multimedia Forensics, and AI Security:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
+
+  <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yifang Guo, Yushu Zhang, Guoai Xu，"Multi-View Collaborative Learning Network for Speech Deepfake Detection", in The Association for the Advancement of Artificial Intelligence, 2025. </li>
+ <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yushu Zhang, Yifang Guo，"Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes", in The Association for the Advancement of Artificial Intelligence, 2025. </li>
+
+ <li id="paperdistance"> Yuhang Zhou, Yushu Zhang, Leo Yu Zhang, <B>Zhongyun Hua*</B>，"DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group", in The 32nd ACM International Conference on Multimedia (ACM MM), 2024. </li>
+<li id="paperdistance"> Zixuan Yang, Yushu Zhang*, Tao Wang, <B>Zhongyun Hua</B>, Zhihua Xia, Jian Weng，"Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils", in The 32nd ACM International Conference on Multimedia (ACM MM), 2024. </li>
+<li id="paperdistance"> Linshan Hou, Ruili Feng, <B>Zhongyun Hua*</B>, Wei Luo, Leo Yu Zhang, Yiming Li*，"IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency", in Forty-first International Conference on Machine Learning (ICML), 2024. </li>
+<li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B>, "Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay", in IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024.</li>
+	
+<li id="paperdistance"> Qiuyu Duan, <B>Zhongyun Hua*</B>, Qing Liao, Yushu Zhang, LEO Yu Zhang, "Conditional Backdoor Attack via JPEG Compression", in Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024.</li>
+
+<li id="paperdistance"> Zeming Hou, <B>Zhongyun Hua</B>,Kuiyuan Zhang, Yushu Zhang, "CDNet: Cluster Decision for Deepfake Detection Generalization" in 2023 IEEE International Conference on Image Processing (ICIP), 2023. <a href=" " target="_blank">[pdf]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/CDNet_Cluster_Decision_for_Deepfake_Detection_Generalization.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> Jinhao Cui, Heyan Chai, Yanbin Gong, Ye Ding, <B>Zhongyun Hua</B>,Cuiyun Gao, Qing Liao, "MocGCL: Molecular Graph Contrastive Learning via Negative Selection" in 2023 International Joint Conference on Neural Networks (IJCNN). <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> Zhibin Zheng, <B>Zhongyun Hua</B>, Leo Yu Zhang, "Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers"  in The 29th International Conference on Neural Information Processing (ICONIP 2022), IIT Indore, India, November 22-26, 2022. 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> Lei Chen, Yongyong Chen, <B>Zhongyun Hua</B>, "Deep Contrastive Multi-view Subspace Clustering" in The 29th International Conference on Neural Information Processing (ICONIP 2022), IIT Indore, India, November 22-26, 2022. 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Deep Contrastive Multi-view Subspace Clustering.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Deep Contrastive Multi-view Subspace Clustering.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> Jiaxiang You, Yuanman Li, Jiantao Zhou, <B>Zhongyun Hua</B>, Weiwei Sun, Xia Li, "A Transformer based Approach for Image Manipulation Chain Detection" in The 29th ACM International Conference on Multimedia (ACMMM), Chengdu, China, October, 20-24 2021. 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/A Transformer based Approach for Image Manipulation Chain Detection.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/A Transformer based Approach for Image Manipulation Chain Detection.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> Shuang Yi, Juan Zhou, <B>Zhongyun Hua</B>, Yong Xiang, "Reversible data hiding method in encrypted images using secret sharing and Huffman coding," in 2021 11th International Conference on Information Science and Technology (ICIST), Sichuan, China, 2021.05.21-2021.05.23.
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Reversible data hiding method in encrypted images using secret sharing and Huffman coding.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Reversible data hiding method in encrypted images using secret sharing and Huffman coding.txt" target="_blank">[BibTeX]</a></li>
  
   <li id="paperdistance">Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yushu Zhang, Yifang Guo, and Tao Xiang, "Robust AI-Synthesized Speech Detection Using Feature Decomposition Learning and Synthesizer Feature Augmentation", <B><I>IEEE Transactions on Industrial Informatics</I></B>, in press, 2024. </li>
  <li id="paperdistance">Enji Liang, Kuiyuan Zhang, <B>Zhongyun Hua*</B>, and Xiaohua Jia, "Multi-Scale Feature Attention Fusion for Image Splicing Forgery Detection", <B><I>ACM Transactions on Multimedia Computing, Communications, and Applicationsy</I></B>, in press, 2024. </li>
@@ -299,41 +333,7 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 <li id="paperdistance">   Kang Rong, Han Bao, Houzhen Li, <B>Zhongyun Hua</B>, Bocheng Bao*, "Memristive Hénon map with hidden Neimark–Sacker bifurcations", <B><I> Nonlinear Dynamics</I></B>, vol. 108, pp. 4459-4470, 2022. 
 <a href="https://link.springer.com/article/10.1007/s11071-022-07380-z">[doi]</a></li>
 
-</ol>
 
-
-<h3 id="Conference Papers">Conference Papers</h3>
-<ol id="olstyle">
- <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yifang Guo, Yushu Zhang, Guoai Xu，"Multi-View Collaborative Learning Network for Speech Deepfake Detection", in The Association for the Advancement of Artificial Intelligence, 2025. </li>
- <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yushu Zhang, Yifang Guo，"Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes", in The Association for the Advancement of Artificial Intelligence, 2025. </li>
-<li id="paperdistance"> Yifeng Zheng*, Tianchen Xiong, Huajie Ouyang, Songlei Wang, <B>Zhongyun Hua</B>, Yansong Gao，"SARA: A Sparsity-Aware Efficient Oblivious Aggregation Service for Federated Matrix Factorization", in International Conference on Web Information Systems Engineering, 2025. </li>
-<li id="paperdistance"> Shuangqing Xu, Yifeng Zheng*, <B>Zhongyun Hua*</B>，"Camel: Communication-Efficient and Maliciously Secure Federated
-  Learning in the Shuffle Model of Differential Privacy", in ACM Conference on Computer and Communications Security (ACM CCS), 2024. </li>
-<li id="paperdistance"> Yuhang Zhou, Yushu Zhang, Leo Yu Zhang, <B>Zhongyun Hua*</B>，"DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group", in The 32nd ACM International Conference on Multimedia (ACM MM), 2024. </li>
-<li id="paperdistance"> Zixuan Yang, Yushu Zhang*, Tao Wang, <B>Zhongyun Hua</B>, Zhihua Xia, Jian Weng，"Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils", in The 32nd ACM International Conference on Multimedia (ACM MM), 2024. </li>
-<li id="paperdistance"> Linshan Hou, Ruili Feng, <B>Zhongyun Hua*</B>, Wei Luo, Leo Yu Zhang, Yiming Li*，"IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency", in Forty-first International Conference on Machine Learning (ICML), 2024. </li>
-<li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B>, "Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay", in IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024.</li>
-	
-<li id="paperdistance"> Qiuyu Duan, <B>Zhongyun Hua*</B>, Qing Liao, Yushu Zhang, LEO Yu Zhang, "Conditional Backdoor Attack via JPEG Compression", in Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024.</li>
-
-<li id="paperdistance"> Zeming Hou, <B>Zhongyun Hua</B>,Kuiyuan Zhang, Yushu Zhang, "CDNet: Cluster Decision for Deepfake Detection Generalization" in 2023 IEEE International Conference on Image Processing (ICIP), 2023. <a href=" " target="_blank">[pdf]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/CDNet_Cluster_Decision_for_Deepfake_Detection_Generalization.txt" target="_blank">[BibTeX]</a></li>
-<li id="paperdistance"> Jinhao Cui, Heyan Chai, Yanbin Gong, Ye Ding, <B>Zhongyun Hua</B>,Cuiyun Gao, Qing Liao, "MocGCL: Molecular Graph Contrastive Learning via Negative Selection" in 2023 International Joint Conference on Neural Networks (IJCNN). <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.txt" target="_blank">[BibTeX]</a></li>
-<li id="paperdistance"> Zhibin Zheng, <B>Zhongyun Hua</B>, Leo Yu Zhang, "Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers"  in The 29th International Conference on Neural Information Processing (ICONIP 2022), IIT Indore, India, November 22-26, 2022. 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers.txt" target="_blank">[BibTeX]</a></li>
-<li id="paperdistance"> Lei Chen, Yongyong Chen, <B>Zhongyun Hua</B>, "Deep Contrastive Multi-view Subspace Clustering" in The 29th International Conference on Neural Information Processing (ICONIP 2022), IIT Indore, India, November 22-26, 2022. 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Deep Contrastive Multi-view Subspace Clustering.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Deep Contrastive Multi-view Subspace Clustering.txt" target="_blank">[BibTeX]</a></li>
-<li id="paperdistance"> Jiaxiang You, Yuanman Li, Jiantao Zhou, <B>Zhongyun Hua</B>, Weiwei Sun, Xia Li, "A Transformer based Approach for Image Manipulation Chain Detection" in The 29th ACM International Conference on Multimedia (ACMMM), Chengdu, China, October, 20-24 2021. 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/A Transformer based Approach for Image Manipulation Chain Detection.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/A Transformer based Approach for Image Manipulation Chain Detection.txt" target="_blank">[BibTeX]</a></li>
-<li id="paperdistance"> Shuang Yi, Juan Zhou, <B>Zhongyun Hua</B>, Yong Xiang, "Reversible data hiding method in encrypted images using secret sharing and Huffman coding," in 2021 11th International Conference on Information Science and Technology (ICIST), Sichuan, China, 2021.05.21-2021.05.23.
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Reversible data hiding method in encrypted images using secret sharing and Huffman coding.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Reversible data hiding method in encrypted images using secret sharing and Huffman coding.txt" target="_blank">[BibTeX]</a></li>
-<li id="paperdistance"> Bo Fang, <B>Zhongyun Hua</B>, Hejiao Huang, "Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket," in 2019 14th International Conference on Computer Science & Education (ICCSE), 5-10, Toronto, Canada, 2019.08.19-2019.08-21.
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> Hang Cai, <B>Zhongyun Hua</B>, Hejiao Huang, "A Novel Differential-Chaos-Shift-Keying Secure Communication Scheme" in 2018 IEEE International Conference on Systems, Man and Cybernetics (SMC 2018), 2018, pp. 1794-1798, Miyazaki, Japan, 2018.10.7-2018.10.10. 
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/A Novel Differential-Chaos-Shift-Keying Secure Communication Scheme.pdf" target="_blank">[pdf]</a>
 <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/A Novel Differential-Chaos-Shift-Keying Secure Communication Scheme.txt" target="_blank">[BibTeX]</a></li>
@@ -355,7 +355,9 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, C. L. Philip Chen, “A new series-wound framework for generating 1D chaotic maps,” in 2013 IEEE Digital Signal Processing and Signal Processing Education Meeting (DSP/SPE), 118–123 (2013). （EI）  
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/A new series-wound framework for generating 1D chaotic maps.pdf" target="_blank">[pdf]</a>
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/A new series-wound framework for generating 1D chaotic maps.txt" target="_blank">[BibTeX]</a></li>
+
 </ol>
+
 
 				
 <span class='anchor' id='-pr'></span>
