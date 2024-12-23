@@ -162,7 +162,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 <li id="paperdistance"> Lei Chen, Yongyong Chen, <B>Zhongyun Hua</B>, "Deep Contrastive Multi-view Subspace Clustering" in The 29th International Conference on Neural Information Processing (ICONIP 2022), IIT Indore, India, November 22-26, 2022. 
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Deep Contrastive Multi-view Subspace Clustering.pdf" target="_blank">[pdf]</a>
 <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Deep Contrastive Multi-view Subspace Clustering.txt" target="_blank">[BibTeX]</a></li>
-<li id="paperdistance"> Jiaxiang You, Yuanman Li, Jiantao Zhou, <B>Zhongyun Hua</B>, Weiwei Sun, Xia Li, "A Transformer based Approach for Image Manipulation Chain Detection" in The 29th ACM International Conference on Multimedia (ACMMM), Chengdu, China, October, 20-24 2021. 
+<li id="paperdistance"> Jiaxiang You, Yuanman Li, Jiantao Zhou, <B>Zhongyun Hua</B>, Weiwei Sun, Xia Li, "A Transformer based Approach for Image Manipulation Chain Detection" in <B><I>The 29th ACM International Conference on Multimedia (ACMMM)</I></B>, Chengdu, China, October, 20-24 2021. 
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/A Transformer based Approach for Image Manipulation Chain Detection.pdf" target="_blank">[pdf]</a>
 <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/A Transformer based Approach for Image Manipulation Chain Detection.txt" target="_blank">[BibTeX]</a></li>
 
