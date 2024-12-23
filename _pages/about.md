@@ -378,6 +378,7 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 <h1 id="-Peer Review">➿ Peer Review</h1>
 <li>Reviewer, IEEE Transactions on Information Forensics and Security </li>
 <li>Reviewer, IEEE Transactions on Pattern Analysis and Machine Intelligence</li>
+<li>Reviewer, IEEE Transactions on Dependable and Secure Computing </li>
 <li>Reviewer, IEEE Transactions on Image Processing</li>
 <li>Reviewer, IEEE Transactions on Signal Processing</li>
 <li>Reviewer, IEEE Transactions on Knowledge and Data Engineering</li>
