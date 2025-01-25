@@ -93,9 +93,9 @@ My research interests include:
 
 <h4 id="Secure Cloud Computing:">Secure Cloud Computing:</h4>
 
-<li id="paperdistance"> Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, Guoai Xu, Xingliang Yuan，"Assuring Certified Database Utility in Privacy-Preserving Database Fingerprinting", in <B><I>The 34th USENIX Security Symposium (USENIX Security)</I></B>, 2025. </li>
+<li id="paperdistance"> Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, Guoai Xu, Xingliang Yuan，"Assuring Certified Database Utility in Privacy-Preserving Database Fingerprinting", <B><I>Proc. of 34th USENIX Security Symposium (USENIX Security)</I></B>, 2025. </li>
 
-<li id="paperdistance"> Shuangqing Xu, Yifeng Zheng*, <B>Zhongyun Hua*</B>，"Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy", in <B><I>ACM Conference on Computer and Communications Security (ACM CCS)</I></B>, 2024. </li>
+<li id="paperdistance"> Shuangqing Xu, Yifeng Zheng*, <B>Zhongyun Hua*</B>，"Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy", <B><I>Proc. of ACM Conference on Computer and Communications Security (ACM CCS)</I></B>, 2024. </li>
 
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “SimLESS: A Secure Deduplication System over
 Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information Forensics and Security</I></B>, vol. 19, pp. 4700-4715, 2024. <a href="https://doi.org/10.1109/TIFS.2024.3382603">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/SimLESS_A_Secure_Deduplication_System_Over_Similar_Data_in_Cloud_Media_Sharing.pdf" target="_blank">[pdf]</a></li>
@@ -143,19 +143,19 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
  <h4 id="AI Security, Multimedia Security, and Multimedia Forensics:">AI Security, Multimedia Security, and Multimedia Forensics:</h4>
 
-  <li id="paperdistance"> Yushu Zhang, Yuanyuan Sun, Shuren Qi, <B>Zhongyun Hua</B>, Wenying Wen, Yuming Fang，"Multi-View Collaborative Learning Network for Speech Deepfake Detection", in <B><I>The 34th USENIX Security Symposium (USENIX Security)</I></B>, 2025. </li>
+  <li id="paperdistance"> Yushu Zhang, Yuanyuan Sun, Shuren Qi, <B>Zhongyun Hua</B>, Wenying Wen, Yuming Fang，"Atkscopes: Multiresolution Adversarial Perturbation as a Unified Attack on Perceptual Hashing and Beyond", <B><I>Proc. of 34th USENIX Security Symposium (USENIX Security)</I></B>, 2025. </li>
 
     <li id="paperdistance"> Ruoyu Zhao, Yushu Zhang, Rushi Lan, Shuang Yi, <B>Zhongyun Hua</B>, and Jian Weng，"All Roads Lead to Rome: Achieving 3D Object Encryption through 2D Image Encryption Methods", <B><I>IEEE Transactions on Image Processing</I></B>, 2025. </li>
 
-  <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yifang Guo, Yushu Zhang, Guoai Xu，"Multi-View Collaborative Learning Network for Speech Deepfake Detection", in <B><I>Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2025. </li>
- <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yushu Zhang, Yifang Guo，"Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes", in <B><I>Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2025. </li>
+  <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yifang Guo, Yushu Zhang, Guoai Xu，"Multi-View Collaborative Learning Network for Speech Deepfake Detection", <B><I>Proc. of Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2025. </li>
+ <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yushu Zhang, Yifang Guo，"Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes", <B><I>Proc. of Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2025. </li>
 
- <li id="paperdistance"> Yuhang Zhou, Yushu Zhang, Leo Yu Zhang, <B>Zhongyun Hua*</B>，"DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group", in <B><I>The 32nd ACM International Conference on Multimedia (ACM MM)</I></B>, 2024. </li>
-<li id="paperdistance"> Zixuan Yang, Yushu Zhang*, Tao Wang, <B>Zhongyun Hua</B>, Zhihua Xia, Jian Weng，"Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils", in <B><I>The 32nd ACM International Conference on Multimedia (ACM MM)</I></B>, 2024. </li>
-<li id="paperdistance"> Linshan Hou, Ruili Feng, <B>Zhongyun Hua*</B>, Wei Luo, Leo Yu Zhang, Yiming Li*，"IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency", in <B><I>Forty-first International Conference on Machine Learning (ICML)</I></B>, 2024. </li>
-<li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B>, "Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay", in <B><I>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)</I></B>, 2024.</li>
+ <li id="paperdistance"> Yuhang Zhou, Yushu Zhang, Leo Yu Zhang, <B>Zhongyun Hua*</B>，"DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group", <B><I>Proc. of 32nd ACM International Conference on Multimedia (ACM MM)</I></B>, 2024. </li>
+<li id="paperdistance"> Zixuan Yang, Yushu Zhang*, Tao Wang, <B>Zhongyun Hua</B>, Zhihua Xia, Jian Weng，"Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils", <B><I>Proc. of 32nd ACM International Conference on Multimedia (ACM MM)</I></B>, 2024. </li>
+<li id="paperdistance"> Linshan Hou, Ruili Feng, <B>Zhongyun Hua*</B>, Wei Luo, Leo Yu Zhang, Yiming Li*，"IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency", <B><I>Proc. of Forty-first International Conference on Machine Learning (ICML)</I></B>, 2024. </li>
+<li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B>, "Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay", <B><I>Proc. of IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)</I></B>, 2024.</li>
 	
-<li id="paperdistance"> Qiuyu Duan, <B>Zhongyun Hua*</B>, Qing Liao, Yushu Zhang, LEO Yu Zhang, "Conditional Backdoor Attack via JPEG Compression", in <B><I>Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2024.</li>
+<li id="paperdistance"> Qiuyu Duan, <B>Zhongyun Hua*</B>, Qing Liao, Yushu Zhang, LEO Yu Zhang, "Conditional Backdoor Attack via JPEG Compression", <B><I>Proc. of Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2024.</li>
 
 <li id="paperdistance"> Zeming Hou, <B>Zhongyun Hua</B>,Kuiyuan Zhang, Yushu Zhang, "CDNet: Cluster Decision for Deepfake Detection Generalization" in 2023 IEEE International Conference on Image Processing (ICIP), 2023. <a href=" " target="_blank">[pdf]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/CDNet_Cluster_Decision_for_Deepfake_Detection_Generalization.txt" target="_blank">[BibTeX]</a></li>
 <li id="paperdistance"> Jinhao Cui, Heyan Chai, Yanbin Gong, Ye Ding, <B>Zhongyun Hua</B>,Cuiyun Gao, Qing Liao, "MocGCL: Molecular Graph Contrastive Learning via Negative Selection" in 2023 International Joint Conference on Neural Networks (IJCNN). <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/MocGCL_Molecular_Graph_Contrastive_Learning_via_Negative_Selection.pdf" target="_blank">[pdf]</a>
