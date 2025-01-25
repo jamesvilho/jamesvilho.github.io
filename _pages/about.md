@@ -35,7 +35,8 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-  <li><em>2024.12</em>:  🎉🎉 A paper is accepted on shepherd approval by Usenix Security 2025; Two papers are accpeted by AAAI 2025; A paper is accepted by IEEEE TIFS </li>
+<li><em>2025.01</em>:  🎉🎉 A paper is accepted by IEEE TIP; Two papers are accpeted by USENIX Security 2025 </li>
+  <li><em>2024.12</em>:  🎉🎉 Two papers are accpeted by AAAI 2025; A paper is accepted by IEEEE TIFS </li>
   <li><em>2024.11</em>:  🎉🎉 I am recognized as a 'Highly Cited Researcher 2024'; A paper is accted by IEEE TSC </li>
   <li><em>2024.10</em>:  🎉🎉 A paper is  nominated for the Best Paper Award at ACM MM 2024 </li>
   <li><em>2024.09</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSVT; A paper is accpeted by ACM TOMM </li>
