@@ -93,6 +93,8 @@ My research interests include:
 
 <h4 id="Secure Cloud Computing:">Secure Cloud Computing:</h4>
 
+<li id="paperdistance"> Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, Guoai Xu, Xingliang Yuan，"Assuring Certified Database Utility in Privacy-Preserving Database Fingerprinting", in <B><I>The 34th USENIX Security Symposium (USENIX Security)</I></B>, 2025. </li>
+
 <li id="paperdistance"> Shuangqing Xu, Yifeng Zheng*, <B>Zhongyun Hua*</B>，"Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy", in <B><I>ACM Conference on Computer and Communications Security (ACM CCS)</I></B>, 2024. </li>
 
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “SimLESS: A Secure Deduplication System over
@@ -141,7 +143,9 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
  <h4 id="AI Security, Multimedia Security, and Multimedia Forensics:">AI Security, Multimedia Security, and Multimedia Forensics:</h4>
 
+  <li id="paperdistance"> Yushu Zhang, Yuanyuan Sun, Shuren Qi, <B>Zhongyun Hua</B>, Wenying Wen, Yuming Fang，"Multi-View Collaborative Learning Network for Speech Deepfake Detection", in <B><I>The 34th USENIX Security Symposium (USENIX Security)</I></B>, 2025. </li>
 
+    <li id="paperdistance"> Ruoyu Zhao, Yushu Zhang, Rushi Lan, Shuang Yi, <B>Zhongyun Hua</B>, and Jian Weng，"All Roads Lead to Rome: Achieving 3D Object Encryption through 2D Image Encryption Methods", <B><I>IEEE Transactions on Image Processing</I></B>, 2025. </li>
 
   <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yifang Guo, Yushu Zhang, Guoai Xu，"Multi-View Collaborative Learning Network for Speech Deepfake Detection", in <B><I>Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2025. </li>
  <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yushu Zhang, Yifang Guo，"Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes", in <B><I>Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2025. </li>
