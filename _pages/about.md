@@ -244,7 +244,18 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 		<a href="https://doi.org/10.1109/TIP.2021.3068646">[doi]</a></li>
 <li id="paperdistance">  Xiaolin Xiao, Yuejiao Gong, <B>Zhongyun Hua*</B>, Weineng Chen, "On Reliable Multi-View Affinity Learning for Subspace Clustering", <B><I> IEEE Transactions on Multimedia</I></B>, vol. 23, pp. 4555-4566, 2021. 
 		<a href="https://doi.org/10.1109/TMM.2020.3045259 target=">[doi]</a></li>
-
+<li id="paperdistance"> Binxuan Xu, <B>Zhongyun Hua</B>, Hejiao Huang, "A novel image encryption scheme using Josephus permutation and image filtering" in 9th International Symposium on Cyberspace Safety and Security (CSS 2017), 2017, pp. 307-319. 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/A novel image encryption scheme using Josephus permutation and image filtering.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/A novel image encryption scheme using Josephus permutation and image filtering.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Binghang Zhou, Yicong Zhou, " Image content-based encryption algorithm using high-dimensional chaotic system," in 2015 International Symposium on Nonlinear Theory and its Applications (NOLTA2015), 2015, pp. 554-557. 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image content-based encryption algorithm using high-dimensional chaotic system.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Image content-based encryption algorithm using high-dimensional chaotic system.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Yiran Wang, Yicong Zhou, “Image cipher using a new interactive two-dimensional chaotic map,” in 2015 IEEE International Conference on Systems, Man and Cybernetics (SMC), 2015, pp. 1804-1808. （EI） 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image cipher using a new interactive two-dimensional chaotic map.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Image cipher using a new interactive two-dimensional chaotic map.txt" target="_blank">[BibTeX]</a></li>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, Chi-Man Pun, C. L. Philip Chen, “Image encryption using 2D Logistic-Sine chaotic map,” in 2014 IEEE International Conference on Systems, Man and Cybernetics (SMC), 2014, pp. 3229-3234. （EI） 
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image encryption using 2D Logistic-Sine chaotic map.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Image encryption using 2D Logistic-Sine chaotic map.txt" target="_blank">[BibTeX]</a></li>
 
 
 
@@ -357,18 +368,7 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 <li id="paperdistance"> Hang Cai, <B>Zhongyun Hua</B>, Hejiao Huang, "A Novel Differential-Chaos-Shift-Keying Secure Communication Scheme" in 2018 IEEE International Conference on Systems, Man and Cybernetics (SMC 2018), 2018, pp. 1794-1798, Miyazaki, Japan, 2018.10.7-2018.10.10. 
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/A Novel Differential-Chaos-Shift-Keying Secure Communication Scheme.pdf" target="_blank">[pdf]</a>
 <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/A Novel Differential-Chaos-Shift-Keying Secure Communication Scheme.txt" target="_blank">[BibTeX]</a></li>
-<li id="paperdistance"> Binxuan Xu, <B>Zhongyun Hua</B>, Hejiao Huang, "A novel image encryption scheme using Josephus permutation and image filtering" in 9th International Symposium on Cyberspace Safety and Security (CSS 2017), 2017, pp. 307-319. 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/A novel image encryption scheme using Josephus permutation and image filtering.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/A novel image encryption scheme using Josephus permutation and image filtering.txt" target="_blank">[BibTeX]</a></li>
-<li id="paperdistance"> <B>Zhongyun Hua</B>, Binghang Zhou, Yicong Zhou, " Image content-based encryption algorithm using high-dimensional chaotic system," in 2015 International Symposium on Nonlinear Theory and its Applications (NOLTA2015), 2015, pp. 554-557. 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image content-based encryption algorithm using high-dimensional chaotic system.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Image content-based encryption algorithm using high-dimensional chaotic system.txt" target="_blank">[BibTeX]</a></li>
-<li id="paperdistance"> <B>Zhongyun Hua</B>, Yiran Wang, Yicong Zhou, “Image cipher using a new interactive two-dimensional chaotic map,” in 2015 IEEE International Conference on Systems, Man and Cybernetics (SMC), 2015, pp. 1804-1808. （EI） 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image cipher using a new interactive two-dimensional chaotic map.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Image cipher using a new interactive two-dimensional chaotic map.txt" target="_blank">[BibTeX]</a></li>
-<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, Chi-Man Pun, C. L. Philip Chen, “Image encryption using 2D Logistic-Sine chaotic map,” in 2014 IEEE International Conference on Systems, Man and Cybernetics (SMC), 2014, pp. 3229-3234. （EI） 
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image encryption using 2D Logistic-Sine chaotic map.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Image encryption using 2D Logistic-Sine chaotic map.txt" target="_blank">[BibTeX]</a></li>
+
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, Chi-Man Pun, C. L. Philip Chen, “A new 1D parameter-control chaotic framework,” in Mobile Devices and Multimedia: Enabling Technologies, Algorithms, and Applications 2014. Proc. SPIE 9030, 2014, pp. 90300M-1–90300M-10.（EI） 
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/A new 1D parameter-control chaotic framework.pdf" target="_blank">[pdf]</a>
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/A new 1D parameter-control chaotic framework.txt" target="_blank">[BibTeX]</a></li>
