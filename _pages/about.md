@@ -232,6 +232,11 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image Encryption Using Josephus Problem and Filtering Diffusion.pdf" target="_blank">[pdf]</a>
 		<a href="..\wp-content\themes\homepage\BibTex\Image Encryption Using Josephus Problem and Filtering Diffusion.txt" target="_blank">[BibTeX]</a>
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/Hua2019IEEEA_IES-JPFD.rar" target="_blank">[Code]</a></li>
+  <li id="paperdistance">  <B>Zhongyun Hua*</B>, Yicong Zhou, Hejiao Huang, "Cosine-transform-based chaotic system for image encryption", <B><I>Information Sciences</I></B>, vol. 480, pp. 403 - 419, 2019. [<font color="red">Most Cited in INS</font>] [<font color="red">Most downloaded in INS</font>] [<font color="red">ESI 1% Highly Cited Paper</font>] 
+	    <a href="https://www.sciencedirect.com/science/article/pii/S0020025518309927" target="_blank">[doi]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Cosine-transform-based chaotic system for image encryption.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Cosine-transform-based chaotic system for image encryption.txt" target="_blank">[BibTeX]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/Hua2019IS_LSC-IES.rar" target="_blank">[Code]</a></li>
 <li id="paperdistance"> Shuang Yi, Yicong Zhou, <B>Zhongyun Hua</B>, "Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion", <B><I>Signal Processing: Image Communication</I></B>, vol. 64, pp. 78-88, 2018. 
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion.pdf" target="_blank">[pdf]</a>
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/BibTex/Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion.txt" target="_blank">[BibTeX]</a></li>
@@ -247,6 +252,16 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 <li id="paperdistance"> Binxuan Xu, <B>Zhongyun Hua</B>, Hejiao Huang, "A novel image encryption scheme using Josephus permutation and image filtering" in 9th International Symposium on Cyberspace Safety and Security (CSS 2017), 2017, pp. 307-319. 
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/A novel image encryption scheme using Josephus permutation and image filtering.pdf" target="_blank">[pdf]</a>
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/A novel image encryption scheme using Josephus permutation and image filtering.txt" target="_blank">[BibTeX]</a></li>
+  <li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, "Image encryption using 2D Logistic-adjusted-Sine map," <B><I>Information Sciences</I></B>, vol. 339, pp. 237–253, 2016. [<font color="red"> [Most Cited in INS</font>] [<font color="red"> ESI 1% Highly Cited Paper</font>]
+		<a href="https://www.sciencedirect.com/science/article/pii/S0020025516000281" target="_blank">[doi]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image encryption using 2D Logistic-adjusted-Sine map.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Image encryption using 2D Logistic-adjusted-Sine map.txt" target="_blank">[BibTeX]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/2DLASMEncryption_Hua2016IS.rar" target="_blank">[Code]</a></li>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, Chi-Man Pun, C. L. Philip Chen, "2D Sine Logistic modulation map for image encryption," <B><I>Information Sciences</I></B>, vol. 297, pp. 80–94, 2015. [<font color="red"> [Most Cited in INS</font>] [<font color="red"> ESI 1% Highly Cited Paper</font>]
+		<a href="https://www.sciencedirect.com/science/article/pii/S0020025514010883" target="_blank">[doi]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/2D Sine Logistic modulation map for image encryption.pdf" target="_blank">[pdf]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/2D Sine Logistic modulation map for image encryption.txt" target="_blank">[BibTeX]</a>
+		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/2DSLMMEncryption_Hua2015IS.rar" target="_blank">[Code]</a></li>
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Binghang Zhou, Yicong Zhou, " Image content-based encryption algorithm using high-dimensional chaotic system," in 2015 International Symposium on Nonlinear Theory and its Applications (NOLTA2015), 2015, pp. 554-557. 
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image content-based encryption algorithm using high-dimensional chaotic system.pdf" target="_blank">[pdf]</a>
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Image content-based encryption algorithm using high-dimensional chaotic system.txt" target="_blank">[BibTeX]</a></li>
@@ -308,11 +323,7 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 		<a href="https://ieeexplore.ieee.org/document/8353838" target="_blank">[doi]</a>
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Sine Chaotification Model for Enhancing Chaos and Its Hardware Implementation.pdf" target="_blank">[pdf]</a>
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Sine Chaotification Model for Enhancing Chaos and Its Hardware Implementation.txt" target="_blank">[BibTeX]</a> </li>  
-<li id="paperdistance">  <B>Zhongyun Hua*</B>, Yicong Zhou, Hejiao Huang, "Cosine-transform-based chaotic system for image encryption", <B><I>Information Sciences</I></B>, vol. 480, pp. 403 - 419, 2019. [<font color="red">Most Cited in INS</font>] [<font color="red">Most downloaded in INS</font>] [<font color="red">ESI 1% Highly Cited Paper</font>] 
-	    <a href="https://www.sciencedirect.com/science/article/pii/S0020025518309927" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Cosine-transform-based chaotic system for image encryption.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Cosine-transform-based chaotic system for image encryption.txt" target="_blank">[BibTeX]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/Hua2019IS_LSC-IES.rar" target="_blank">[Code]</a></li>
+
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Binghang Zhou, Yicong Zhou, "Sine-Transform-Based Chaotic System with FPGA Implementation", <B><I>IEEE Transactions on Industrial Electronics</I></B>, vol. 65, no. 3, pp. 2557 - 2566, 2018. [<font color="red">ESI 1% Highly Cited Paper</font>] (2019.11 - 2020.1)
 		<a href="https://ieeexplore.ieee.org/document/8003386" target="_blank">[doi]</a>
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Sine-Transform-Based Chaotic System with FPGA Implementation.pdf" target="_blank">[pdf]</a>
@@ -338,16 +349,7 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Cascade chaotic system with applications.pdf" target="_blank">[pdf]</a>
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Cascade chaotic system with applications.txt" target="_blank">[BibTeX]</a>
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/TL_DEA_Zhou2015IETC.rar" target="_blank">[Code]</a></li>
-<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, "Image encryption using 2D Logistic-adjusted-Sine map," <B><I>Information Sciences</I></B>, vol. 339, pp. 237–253, 2016. [<font color="red"> [Most Cited in INS</font>] [<font color="red"> ESI 1% Highly Cited Paper</font>]
-		<a href="https://www.sciencedirect.com/science/article/pii/S0020025516000281" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Image encryption using 2D Logistic-adjusted-Sine map.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Image encryption using 2D Logistic-adjusted-Sine map.txt" target="_blank">[BibTeX]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/2DLASMEncryption_Hua2016IS.rar" target="_blank">[Code]</a></li>
-<li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, Chi-Man Pun, C. L. Philip Chen, "2D Sine Logistic modulation map for image encryption," <B><I>Information Sciences</I></B>, vol. 297, pp. 80–94, 2015. [<font color="red"> [Most Cited in INS</font>] [<font color="red"> ESI 1% Highly Cited Paper</font>]
-		<a href="https://www.sciencedirect.com/science/article/pii/S0020025514010883" target="_blank">[doi]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/2D Sine Logistic modulation map for image encryption.pdf" target="_blank">[pdf]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/2D Sine Logistic modulation map for image encryption.txt" target="_blank">[BibTeX]</a>
-		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/Code/2DSLMMEncryption_Hua2015IS.rar" target="_blank">[Code]</a></li>
+
 <li id="paperdistance">   Han Bao, <B>Zhongyun Hua*</B>, Houzhen Li, Mo Chen, Bocheng Bao, "Discrete Memristor Hyperchaotic Maps", <B><I>IEEE Transactions on Circuits and Systems I: Regular Papers</I></B>, vol. 68, no. 11, pp. 4534-4544, Nov. 2021. 
 <a href="https://doi.org/10.1109/TCSI.2021.3082895">[doi]</a></li>
 <li id="paperdistance">    Han Bao, Houzhen Li, <B>Zhongyun Hua</B>, Quan Xu, Bo-Cheng Bao*, "Sine-Transform-Based Memristive Hyperchaotic Model with Hardware Implementation", <B><I>IEEE Transactions on Industrial Informatics</I></B>, vol. 19, no. 3, pp. 2792-2801, March 2023. 
