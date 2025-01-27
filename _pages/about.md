@@ -425,9 +425,9 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 <B><I style="margin-left: 20px;">IEEE Transactions on Industrial Informatics</I></B>, vol. 68, no. 10, pp. 9931-9940, 2021. <br>
 <B><I style="margin-left: 20px;">IEEE Transactions on Industrial Informatics</I></B>, vol. 65, no. 3, pp. 2557-2566, 2018. (2019.11 - 2020.1) <br>
 <B><I style="margin-left: 20px;">IEEE Transactions on Signal Processing</I></B>, vol. 68, pp. 1937-1949, 2020. (2021.11-2022.1) <br>
-<B><I style="margin-left: 20px;">IEEE transactions on cybernetics</I></B>, vol. 45, no. 9, pp. 2001-2012, 2014. <br>
-<B><I style="margin-left: 20px;">IEEE transactions on Industrial Electronics</I></B>, vol. 66, no. 2, pp. 1273-1284, 2018. <br>
-<B><I style="margin-left: 20px;">IEEE transactions on Industrial Electronics</I></B>, vol. 65, no. 3, pp. 2557-2566, 2017. <br>
+<B><I style="margin-left: 20px;">IEEE Transactions on cybernetics</I></B>, vol. 45, no. 9, pp. 2001-2012, 2014. <br>
+<B><I style="margin-left: 20px;">IEEE Transactions on Industrial Electronics</I></B>, vol. 66, no. 2, pp. 1273-1284, 2018. <br>
+<B><I style="margin-left: 20px;">IEEE Transactions on Industrial Electronics</I></B>, vol. 65, no. 3, pp. 2557-2566, 2017. <br>
 <B><I style="margin-left: 20px;">Nonlinear Dynamics</I></B>, vol. 104, no. 4, 4505-4522, 2021. <br>
 <B><I style="margin-left: 20px;">Information Sciences</I></B>, vol. 546, pp. 1063-1083, 2021. <br>
 <B><I style="margin-left: 20px;">Information Sciences</I></B>, vol. 480, pp. 403-419, 2019. <br>
