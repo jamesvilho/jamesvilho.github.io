@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a professor with the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen. My research interests include Secure Cloud Computing, AI Security, Multimedia Security, Multimedia Forensics, and Nonlinear Systems and Applications. If you have any interest in exploring potential academic collaborations or if you have inquiries related to my research, please feel free to contact me via email at <B>huazhongyunAThit.edu.cn</B> or <B>huazyumATgmail.com</B>. 
+I am currently a professor with the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen. My research interests include Applied Cryptography, Multimedia Security, Multimedia Forensics, AI Security, and Nonlinear Systems and Applications. If you have any interest in exploring potential academic collaborations or if you have inquiries related to my research, please feel free to contact me via email at <B>huazhongyunAThit.edu.cn</B> or <B>huazyumATgmail.com</B>. 
 
 I received the B.S. degree in software engineering from Chongqing University, Chongqing, China, in 2011, and the M.S. and Ph.D. degrees in software engineering from the University of Macau, Macau, China, in 2013 and 2016, respectively. My works have appeared in prestigious venues such as <font color="blue"><B>ACM CCS</B></font>, <font color="blue"><B>Usenix Security</B></font>, ICML, CVPR, AAAI, ACM MM, IEEE TIFS, IEEE TDSC, IEEE TC, IEEE TPDS, IEEE TIP, and IEEE TSP. I have been recognized as a <font color="blue"><B>'Highly Cited Researcher' in 2022, 2023, and 2024</B></font>. I have published more than 120 papers. I am an associate editor of IEEE Signal Processing Letter amd International Journal of Bifurcation and Chaos. <a href='https://scholar.google.com/citations?user=Sl0BI_IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a><a href='https://scholar.google.com/citations?user=Sl0BI_IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=h-index"></a>。
 
@@ -92,9 +92,9 @@ My research interests include:
 
 <ol id="olstyle">
 
-<h4 id="Secure Cloud Computing:">Secure Cloud Computing:</h4>
+<h4 id="Applied Cryptography:">Applied Cryptography:</h4>
 
-<li id="paperdistance"> Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, Guoai Xu, Xingliang Yuan，"Assuring Certified Database Utility in Privacy-Preserving Database Fingerprinting", <B><I>Proc. of 34th USENIX Security Symposium (USENIX Security)</I></B>, 2025. </li>
+<li id="paperdistance"> Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, Guoai Xu, Xingliang Yuan，"Assuring Certified Database Utility in Privacy-Preserving Database Fingerprinting", <B><I>Proc. of 34th USENIX Security Symposium (USENIX Security)</I></B>, accepted, 2025. </li>
 
 <li id="paperdistance"> Shuangqing Xu, Yifeng Zheng*, <B>Zhongyun Hua*</B>，"Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy", <B><I>Proc. of ACM Conference on Computer and Communications Security (ACM CCS)</I></B>, 2024. </li>
 
@@ -142,16 +142,17 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
 
 
- <h4 id="AI Security, Multimedia Security, and Multimedia Forensics:">AI Security, Multimedia Security, and Multimedia Forensics:</h4>
+ <h4 id="Multimedia Security, Multimedia Forensics, and AI Security:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
 
-  <li id="paperdistance"> Yushu Zhang, Yuanyuan Sun, Shuren Qi, <B>Zhongyun Hua</B>, Wenying Wen, and Yuming Fang，"Atkscopes: Multiresolution Adversarial Perturbation as a Unified Attack on Perceptual Hashing and Beyond", <B><I>Proc. of 34th USENIX Security Symposium (USENIX Security)</I></B>, 2025. </li>
+  <li id="paperdistance"> Yushu Zhang, Yuanyuan Sun, Shuren Qi, <B>Zhongyun Hua</B>, Wenying Wen, and Yuming Fang，"Atkscopes: Multiresolution Adversarial Perturbation as a Unified Attack on Perceptual Hashing and Beyond", <B><I>Proc. of 34th USENIX Security Symposium (USENIX Security)</I></B>, accepted, 2025. </li>
 
-  <li id="paperdistance"> Ruoyu Zhao, Yushu Zhang, Rushi Lan, Shuang Yi, <B>Zhongyun Hua</B>, and Jian Weng, "All Roads Lead to Rome: Achieving 3D Object Encryption through 2D Image Encryption Methods", <B><I>IEEE Transactions on Image Processing</I></B>, in press, 2025. </li>
+    <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yushu Zhang, Yifang Guo, and Tao Xiango，"Robust AI-Synthesized Speech Detection Using Feature Decomposition Learning and Synthesizer Feature Augmentation", <B><I>IEEE Transactions on Information Forensics and Security</I></B>, vol. 20, pp. 871-885, 2025. </li>
+
 
   <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yifang Guo, Yushu Zhang, Guoai Xu，"Multi-View Collaborative Learning Network for Speech Deepfake Detection", <B><I>Proc. of Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2025. </li>
  <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yushu Zhang, Yifang Guo，"Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes", <B><I>Proc. of Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2025. </li>
 
-  <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yushu Zhang, Yifang Guo, and Tao Xiango，"Robust AI-Synthesized Speech Detection Using Feature Decomposition Learning and Synthesizer Feature Augmentation", <B><I>IEEE Transactions on Information Forensics and Security</I></B>, 2025. </li>
+  <li id="paperdistance"> Ruoyu Zhao, Yushu Zhang, Rushi Lan, Shuang Yi, <B>Zhongyun Hua</B>, and Jian Weng, "All Roads Lead to Rome: Achieving 3D Object Encryption through 2D Image Encryption Methods", <B><I>IEEE Transactions on Image Processing</I></B>, accepted, 2025. </li>
 
  <li id="paperdistance"> Yuhang Zhou, Yushu Zhang, Leo Yu Zhang, <B>Zhongyun Hua*</B>，"DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group", <B><I>Proc. of 32nd ACM International Conference on Multimedia (ACM MM)</I></B>, 2024. </li>
 <li id="paperdistance"> Zixuan Yang, Yushu Zhang*, Tao Wang, <B>Zhongyun Hua</B>, Zhihua Xia, Jian Weng，"Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils", <B><I>Proc. of 32nd ACM International Conference on Multimedia (ACM MM)</I></B>, 2024. </li>
