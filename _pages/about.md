@@ -393,11 +393,12 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 <li>Reviewer, IEEE Transactions on Knowledge and Data Engineering</li>
 <li>Reviewer, IEEE Transactions on Cybernetics</li>
 <li>Reviewer, IEEE Transactions on Systems, Man and Cybernetics: Systems</li>
-<li>Reviewer,  IEEE Transactions on Circuits and Systems for Video Technology</li>
-<li>Reviewer,  IEEE Transactions on Industrial Informatics</li>
-<li>Reviewer,  IEEE Transactions on Industrial Electronics</li>
-<li>Reviewer,  IEEE Transactions on Circuits and Systems II: Express Briefs, etc</li>
-<li>Reviewer,  IEEE Transactions on Circuits and Systems I: Regular Papers</li>
+<li>Reviewer, IEEE Transactions on Circuits and Systems for Video Technology</li>
+<li>Reviewer, IEEE Transactions on Industrial Informatics</li>
+<li>Reviewer, IEEE Transactions on Industrial Electronics</li>
+<li>Reviewer, IEEE Transactions on Circuits and Systems II: Express Briefs</li>
+<li>Reviewer, IEEE Transactions on Circuits and Systems I: Regular Papers</li>
+<li>Reviewer, ACM Transactions on Multimedia Computing, Communications, and Applications, etc</li>
 
 <h1>Program Committee Member</h1>
 <li>The 37th AAAI Conference on Artificial Intelligence (AAAI 2024)</li>
