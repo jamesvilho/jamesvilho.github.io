@@ -25,8 +25,8 @@ I received the B.S. degree in software engineering from Chongqing University, Ch
 
 My research interests include:
 - Secure Cloud Computing
-- AI Security
 - Multimedia Security, Multimedia Forensics
+- AI Security
 - Nonlinear Systems and Applications
   
 
