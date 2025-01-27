@@ -96,7 +96,7 @@ My research interests include:
 
 <li id="paperdistance"> Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, Guoai Xu, Xingliang Yuan，"Assuring Certified Database Utility in Privacy-Preserving Database Fingerprinting", <B><I>Proc. of 34th USENIX Security Symposium (USENIX Security)</I></B>, accepted, 2025. </li>
 
-<li id="paperdistance"> Shuangqing Xu, Yifeng Zheng*, <B>Zhongyun Hua*</B>，"Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy", <B><I>Proc. of ACM Conference on Computer and Communications Security (ACM CCS)</I></B>, 2024. </li>
+<li id="paperdistance"> Shuangqing Xu, Yifeng Zheng*, <B>Zhongyun Hua*</B>，"Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy", <B><I>Proc. of ACM Conference on Computer and Communications Security (ACM CCS)</I></B>, pp. 243-257, 2024. </li>
 
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “SimLESS: A Secure Deduplication System over
 Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information Forensics and Security</I></B>, vol. 19, pp. 4700-4715, 2024. <a href="https://doi.org/10.1109/TIFS.2024.3382603">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/SimLESS_A_Secure_Deduplication_System_Over_Similar_Data_in_Cloud_Media_Sharing.pdf" target="_blank">[pdf]</a></li>
