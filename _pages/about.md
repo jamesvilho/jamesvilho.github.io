@@ -150,6 +150,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
 
   <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yifang Guo, Yushu Zhang, Guoai Xu，"Multi-View Collaborative Learning Network for Speech Deepfake Detection", <B><I>Proc. of Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2025. </li>
+  
  <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Rushi Lan, Yushu Zhang, Yifang Guo，"Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes", <B><I>Proc. of Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2025. </li>
 
   <li id="paperdistance"> Ruoyu Zhao, Yushu Zhang, Rushi Lan, Shuang Yi, <B>Zhongyun Hua</B>, and Jian Weng, "All Roads Lead to Rome: Achieving 3D Object Encryption through 2D Image Encryption Methods", <B><I>IEEE Transactions on Image Processing</I></B>, accepted, 2025. </li>
