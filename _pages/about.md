@@ -157,7 +157,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
  <li id="paperdistance"> Yuhang Zhou, Yushu Zhang, Leo Yu Zhang, <B>Zhongyun Hua*</B>，"DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group", <B><I>Proc. of 32nd ACM International Conference on Multimedia (ACM MM)</I></B>, 2024. </li>
 <li id="paperdistance"> Zixuan Yang, Yushu Zhang*, Tao Wang, <B>Zhongyun Hua</B>, Zhihua Xia, Jian Weng，"Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils", <B><I>Proc. of 32nd ACM International Conference on Multimedia (ACM MM)</I></B>, 2024. </li>
 <li id="paperdistance"> Linshan Hou, Ruili Feng, <B>Zhongyun Hua*</B>, Wei Luo, Leo Yu Zhang, Yiming Li*，"IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency", <B><I>Proc. of Forty-first International Conference on Machine Learning (ICML)</I></B>, 2024. </li>
-<li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B>, "Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay", <B><I>Proc. of IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)</I></B>, 2024.</li>
+<li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B>, "Defense without Forgetting: Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay", <B><I>Proc. of IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)</I></B>, 2024.</li>
 	
 <li id="paperdistance"> Qiuyu Duan, <B>Zhongyun Hua*</B>, Qing Liao, Yushu Zhang, LEO Yu Zhang, "Conditional Backdoor Attack via JPEG Compression", <B><I>Proc. of Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2024.</li>
 
