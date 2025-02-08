@@ -174,8 +174,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/A Transformer based Approach for Image Manipulation Chain Detection.pdf" target="_blank">[pdf]</a>
 <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/A Transformer based Approach for Image Manipulation Chain Detection.txt" target="_blank">[BibTeX]</a></li>
 
-
-  <li id="paperdistance">Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yushu Zhang, Yifang Guo, and Tao Xiang, "Robust AI-Synthesized Speech Detection Using Feature Decomposition Learning and Synthesizer Feature Augmentation", <B><I>IEEE Transactions on Industrial Informatics</I></B>, in press, 2024. </li>
+  
  <li id="paperdistance">Enji Liang, Kuiyuan Zhang, <B>Zhongyun Hua*</B>, and Xiaohua Jia, "Multi-Scale Feature Attention Fusion for Image Splicing Forgery Detection", <B><I>ACM Transactions on Multimedia Computing, Communications, and Applicationsy</I></B>, in press, 2024. </li>
  <li id="paperdistance">  段秋宇, 候琳珊, 花忠云*, 廖清, 张玉书, 张瑜, “基于模型操作的单参数后门攻击”,  <B><I>网络与信息安全学报</I></B>, accepted, 2024.</li>
  <li id="paperdistance">Kuiyuan Zhang, Zeming Hou, <B>Zhongyun Hua*</B>, Yifeng Zheng, and Leo Yu Zhang, "Boosting Deepfake Detection Generalizability via
