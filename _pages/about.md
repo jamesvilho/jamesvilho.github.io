@@ -35,7 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-  <li><em>2025.01</em>:  🎉🎉 A paper is accepted by IEEE TIFS </li>
+  <li><em>2025.02</em>:  🎉🎉 A paper is accepted by IEEE TIFS </li>
   <li><em>2025.01</em>:  🎉🎉 A paper is accepted by IEEE TIP; Two papers are accpeted by USENIX Security 2025 </li>
   <li><em>2024.12</em>:  🎉🎉 Two papers are accpeted by AAAI 2025; A paper is accepted by IEEEE TIFS </li>
   <li><em>2024.11</em>:  🎉🎉 I am recognized as a 'Highly Cited Researcher 2024'; A paper is accted by IEEE TSC </li>
