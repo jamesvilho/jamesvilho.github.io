@@ -145,6 +145,10 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
  <h4 id="Multimedia Security, Multimedia Forensics, and AI Security:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
 
+  <li id="paperdistance"> Xiangli Xiao, Yushu Zhang, <B>Zhongyun Hua</B>, Zhihua Xia, and Jian Wengg，"Preview Helps Selection: Previewable Image Watermarking with Client-Side Embedding", <B><I> IEEE Transactions on Dependable and Secure Computing</I></B>, accepted, 2025. </li>
+
+  
+
   <li id="paperdistance"> Yushu Zhang, Yuanyuan Sun, Shuren Qi, <B>Zhongyun Hua</B>, Wenying Wen, and Yuming Fang，"Atkscopes: Multiresolution Adversarial Perturbation as a Unified Attack on Perceptual Hashing and Beyond", <B><I>Proc. of 34th USENIX Security Symposium (USENIX Security)</I></B>, accepted, 2025. </li>
 
   <li id="paperdistance"> Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yushu Zhang, Yifang Guo, and Tao Xiang，"Robust AI-Synthesized Speech Detection Using Feature Decomposition Learning and Synthesizer Feature Augmentation", <B><I>IEEE Transactions on Information Forensics and Security</I></B>, vol. 20, pp. 871-885, 2025.</li>
