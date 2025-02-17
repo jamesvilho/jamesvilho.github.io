@@ -35,7 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-  <li><em>2025.02</em>:  🎉🎉 A paper is accepted by IEEE TIFS; A paper is accepted by IEEE TDSC </li>
+  <li><em>2025.02</em>:  🎉🎉 A paper is accepted by IEEE TIFS; A paper is accepted by IEEE TDSC; A paper is accepted by IEEE TMM </li>
   <li><em>2025.01</em>:  🎉🎉 A paper is accepted by IEEE TIP; Two papers are accpeted by USENIX Security 2025 </li>
   <li><em>2024.12</em>:  🎉🎉 Two papers are accpeted by AAAI 2025; A paper is accepted by IEEEE TIFS </li>
   <li><em>2024.11</em>:  🎉🎉 I am recognized as a 'Highly Cited Researcher 2024'; A paper is accted by IEEE TSC </li>
@@ -144,6 +144,8 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
 
  <h4 id="Multimedia Security, Multimedia Forensics, and AI Security:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
+
+   <li id="paperdistance"> Enji Liang, Kuiyuan Zhang, <B>Zhongyun Hua*</B>, and Xiaohua Jia,，"BASNet: Boundary Assisted Network for Image Splicing Forgery Detection", <B><I> IEEE Transactions on Multimedia</I></B>, accepted, 2025. </li>
 
   <li id="paperdistance"> Xiangli Xiao, Yushu Zhang, <B>Zhongyun Hua</B>, Zhihua Xia, and Jian Weng，"Preview Helps Selection: Previewable Image Watermarking with Client-Side Embedding", <B><I> IEEE Transactions on Dependable and Secure Computing</I></B>, accepted, 2025. </li>
 
