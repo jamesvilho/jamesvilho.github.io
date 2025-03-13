@@ -25,7 +25,7 @@ I received the B.S. degree in software engineering from Chongqing University, Ch
 
 My research interests include:
 - Applied Cryptography：Information security, data privacy, privacy-preserving machine learning, secure cloud computing, etc
-- Multimedia Security, Multimedia Forensics
+- Multimedia Security
 - Trustworthy AI
 - Nonlinear Systems and Applications
   
@@ -146,7 +146,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
 
 
- <h4 id="Multimedia Security, Multimedia Forensics, and AI Security:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
+ <h4 id="Multimedia Security and Trustworthy AI:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
 
    <li id="paperdistance"> Enji Liang, Kuiyuan Zhang, <B>Zhongyun Hua*</B>, and Xiaohua Jia,，"BASNet: Boundary Assisted Network for Image Splicing Forgery Detection", <B><I> IEEE Transactions on Multimedia</I></B>, accepted, 2025. </li>
 
