@@ -149,11 +149,11 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
  <h4 id="Multimedia Security and Trustworthy AI:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
 
-<li id="paperdistance"> Enji Liang, Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yuanman Li, and Xiaohua Jia,，"TransCMFD: An adaptive transformer for copy-move forgery detection", <B><I> Neurocomputing</I></B>, accepted, 2025. </li>
+<li id="paperdistance"> Enji Liang, Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yuanman Li, and Xiaohua Jia, "TransCMFD: An adaptive transformer for copy-move forgery detection", <B><I> Neurocomputing</I></B>, accepted, 2025. </li>
     
   <li id="paperdistance"> Yushu Zhang , Zixuan Yang , Tao Wang , <B>Zhongyun Hua</B>, and Jian Weng, "Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations", <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, accepted, 2025. </li>
 
-   <li id="paperdistance"> Enji Liang, Kuiyuan Zhang, <B>Zhongyun Hua*</B>, and Xiaohua Jia,，"BASNet: Boundary Assisted Network for Image Splicing Forgery Detection", <B><I> IEEE Transactions on Multimedia</I></B>, accepted, 2025. </li>
+   <li id="paperdistance"> Enji Liang, Kuiyuan Zhang, <B>Zhongyun Hua*</B>, and Xiaohua Jia, "BASNet: Boundary Assisted Network for Image Splicing Forgery Detection", <B><I> IEEE Transactions on Multimedia</I></B>, accepted, 2025. </li>
 
   <li id="paperdistance"> Xiangli Xiao, Yushu Zhang, <B>Zhongyun Hua</B>, Zhihua Xia, and Jian Weng，"Preview Helps Selection: Previewable Image Watermarking with Client-Side Embedding", <B><I> IEEE Transactions on Dependable and Secure Computing</I></B>, accepted, 2025. </li>
 
