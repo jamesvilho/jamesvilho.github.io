@@ -59,7 +59,8 @@ My research interests include:
 
 <h1 id="-Academic Service Experience">📎 Academic Service Experience</h1>
 <ul>
- <li><em>2024 - Now</em>, Associate Editor, IEEE Signal Processing Letters</li>
+  <li><em>2025 - Now</em>, Associate Editor, IEEE Transactions on Dependable and Secure Computing</li>
+  <li><em>2024 - Now</em>, Associate Editor, IEEE Signal Processing Letters</li>
   <li><em>2022 - Now</em>, Associate Editor, International Journal of Bifurcation and Chaos</li>
   <li><em>2020 - Now</em>, Editorial Board, China Computer Science Review (A Chinese Journal)</li>
   <li><em>2021</em>, Special Issue Editor, "Cyber Security and AI" in Sensors</li>
