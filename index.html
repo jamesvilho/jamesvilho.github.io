@@ -75,47 +75,42 @@ His paper <b>Autonomous Driving Planning based on Large Language Model: Collabor
 </body>
 
 	
-    <tr onmouseout="r2r_stop()" onmouseover="r2r_start()">
+    <tr onmouseout="internerf_stop()" onmouseover="internerf_start()">
       <td style="padding:16px;width:20%;vertical-align:middle">
         <div class="one">
-          <div class="two" id='r2r_image'><video  width=100% muted autoplay loop>
-          <source src="images/r2r.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-          </video></div>
-          <img src='images/r2r.jpg' width=100%>
+          <div class="two" id=''>
+					  <img src='llmdrive.png' width=100%>
+					</div>
+          <img src='llmdrive.png' width=100%>
         </div>
         <script type="text/javascript">
-          function r2r_start() {
-            document.getElementById('r2r_image').style.opacity = "1";
+          function internerf_start() {
+            document.getElementById('internerf_image').style.opacity = "1";
           }
 
-          function r2r_stop() {
-            document.getElementById('r2r_image').style.opacity = "0";
+          function internerf_stop() {
+            document.getElementById('internerf_image').style.opacity = "0";
           }
-          r2r_stop()
+          internerf_stop()
         </script>
       </td>
       <td style="padding:8px;width:80%;vertical-align:middle">
-        <a href="https://relight-to-reconstruct.github.io/">
-          <span class="papertitle">Generative Multiview Relighting for
-3D Reconstruction under Extreme Illumination Variation</span>
+        <a href="https://arxiv.org/abs/2406.11737">
+          <span class="papertitle">InterNeRF: Scaling Radiance Fields via Parameter Interpolation</span>
         </a>
         <br>
-        <a href="https://hadizayer.github.io/">Hadi Alzayer</a>,
-        <a href="https://henzler.github.io/">Philipp Henzler</a>,
-				<strong>Jonathan T. Barron</strong>, 
-        <a href="https://jbhuang0604.github.io/">Jia-Bin Huang</a>,
-        <a href="https://pratulsrinivasan.github.io/">Pratul P. Srinivasan</a>, 
-        <a href="https://dorverbin.github.io/">Dor Verbin</a>
+		<a href="https://clintonjwang.github.io/">Clinton Wang</a>,
+		<a href="https://phogzone.com/">Peter Hedman</a>,
+		<a href="https://people.csail.mit.edu/polina/">Polina Golland</a>,
+		<strong>Jonathan T. Barron</strong>,
+		<a href="http://www.stronglyconvex.com/about.html">Daniel Duckworth</a>
         <br>
-        <em>CVPR</em>, 2025 &nbsp <font color=#FF8080><strong>(Highlight)</strong></font>
+        <em>CVPR Neural Rendering Intelligence</em>, 2024
         <br>
-        <a href="https://relight-to-reconstruct.github.io/">project page</a>
-        /
-        <a href="https://arxiv.org/abs/2412.15211">arXiv</a>
+        <a href="https://arxiv.org/abs/2406.11737">arXiv</a>
         <p></p>
         <p>
-				Images taken under extreme illumination variation can be made consistent with diffusion, and this enables high-quality 3D reconstruction.
+        Parameter interpolation enables high-quality large-scale scene reconstruction and out-of-core training and rendering.
         </p>
       </td>
     </tr>
