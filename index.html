@@ -75,44 +75,48 @@ His paper <b>Autonomous Driving Planning based on Large Language Model: Collabor
 </body>
 
 	
-    <tr onmouseout="internerf_stop()" onmouseover="internerf_start()">
-      <td style="padding:16px;width:20%;vertical-align:middle">
-        <div class="one">
-          <div class="two" id=''>
-					  <img src='llmdrive.png' width=100%>
-					</div>
-          <img src='llmdrive.png' width=100%>
+<table style="width:100%; margin-top: 40px;">
+  <tr onmouseover="internerf_start()" onmouseout="internerf_stop()">
+    <!-- Left: Image -->
+    <td style="width:25%; vertical-align:middle; padding:10px;">
+      <div class="one">
+        <div class="two" id='internerf_image'>
+          <img src="llmdrive.png" alt="InterNeRF Illustration" style="width:100%;">
         </div>
-        <script type="text/javascript">
-          function internerf_start() {
-            document.getElementById('internerf_image').style.opacity = "1";
-          }
+      </div>
+    </td>
 
-          function internerf_stop() {
-            document.getElementById('internerf_image').style.opacity = "0";
-          }
-          internerf_stop()
-        </script>
-      </td>
-      <td style="padding:8px;width:80%;vertical-align:middle">
-        <a href="https://arxiv.org/abs/2406.11737">
-          <span class="papertitle">InterNeRF: Scaling Radiance Fields via Parameter Interpolation</span>
-        </a>
-        <br>
-		<a href="https://clintonjwang.github.io/">Clinton Wang</a>,
-		<a href="https://phogzone.com/">Peter Hedman</a>,
-		<a href="https://people.csail.mit.edu/polina/">Polina Golland</a>,
-		<strong>Jonathan T. Barron</strong>,
-		<a href="http://www.stronglyconvex.com/about.html">Daniel Duckworth</a>
-        <br>
-        <em>CVPR Neural Rendering Intelligence</em>, 2024
-        <br>
-        <a href="https://arxiv.org/abs/2406.11737">arXiv</a>
-        <p></p>
-        <p>
+    <!-- Right: Text -->
+    <td style="width:75%; vertical-align:middle; padding:10px;">
+      <a href="https://arxiv.org/abs/2406.11737">
+        <span class="papertitle">InterNeRF: Scaling Radiance Fields via Parameter Interpolation</span>
+      </a>
+      <br>
+      <a href="https://clintonjwang.github.io/">Clinton Wang</a>,
+      <a href="https://phogzone.com/">Peter Hedman</a>,
+      <a href="https://people.csail.mit.edu/polina/">Polina Golland</a>,
+      <strong>Jonathan T. Barron</strong>,
+      <a href="http://www.stronglyconvex.com/about.html">Daniel Duckworth</a>
+      <br>
+      <em>CVPR Neural Rendering Intelligence</em>, 2024
+      <br>
+      <a href="https://arxiv.org/abs/2406.11737">arXiv</a>
+      <p>
         Parameter interpolation enables high-quality large-scale scene reconstruction and out-of-core training and rendering.
-        </p>
-      </td>
-    </tr>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+  function internerf_start() {
+    document.getElementById('internerf_image').style.opacity = "1";
+  }
+  function internerf_stop() {
+    document.getElementById('internerf_image').style.opacity = "0";
+  }
+  internerf_stop();
+</script>
+
 	
 </html>
