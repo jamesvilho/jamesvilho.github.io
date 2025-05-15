@@ -35,6 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
+ <li><em>2025.05</em>:  🎉🎉 A paper is accepted by IEEE TC </li>
  <li><em>2025.04</em>:  🎉🎉 A paper is accepted by IEEE TDSC </li>
   <li><em>2025.03</em>:  🎉🎉 A paper is accepted by IEEE TSC; I was invited to serve as an Associate Editor of IEEE Transactions on Dependable and Secure Computing (TDSC) </li>
   <li><em>2025.02</em>:  🎉🎉 A paper is accepted by IEEE TIFS; A paper is accepted by IEEE TDSC; A paper is accepted by IEEE TMM </li>
@@ -98,7 +99,9 @@ My research interests include:
 
 <h4 id="Applied Cryptography:">Applied Cryptography:</h4>
 
-<li id="paperdistance"> Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, Guoai Xu, Xingliang Yuan，"Assuring Certified Database Utility in Privacy-Preserving Database Fingerprinting", <B><I>Proc. of 34th USENIX Security Symposium (USENIX Security)</I></B>, accepted, 2025. </li>
+<li id="paperdistance"> Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Qing Liao, and Xiaohua Jia，"Enabling Verifiable Search and Integrity Auditing in Encrypted Decentralized Storage Using One Proof", <B><I>IEEE Transactions on Computers</I></B>, accepted, 2025. </li>
+
+<li id="paperdistance"> Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, Guoai Xu, and Xingliang Yuan，"Assuring Certified Database Utility in Privacy-Preserving Database Fingerprinting", <B><I>Proc. of 34th USENIX Security Symposium (USENIX Security)</I></B>, accepted, 2025. </li>
 
 <li id="paperdistance"> Shuangqing Xu, Yifeng Zheng*, <B>Zhongyun Hua*</B>，"Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy", <B><I>Proc. of ACM Conference on Computer and Communications Security (ACM CCS)</I></B>, pp. 243-257, 2024. </li>
 
