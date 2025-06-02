@@ -152,6 +152,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
 
  <h4 id="Multimedia Security and Trustworthy AI:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
+ <li id="paperdistance"> Linshan Hou, <B>Zhongyun Hua*</B>, Wei Luo, Leo Yu Zhang, "FixGuard: Repairing Backdoored Models via Class-wise Trigger Recovery and Unlearning", <B><I> IEEE Signal Processing Letters</I></B>, accepted, 2025. </li>
 
 <li id="paperdistance"> Enji Liang, Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yuanman Li, and Xiaohua Jia, "TransCMFD: An adaptive transformer for copy-move forgery detection", <B><I> Neurocomputing</I></B>, accepted, 2025. </li>
     
