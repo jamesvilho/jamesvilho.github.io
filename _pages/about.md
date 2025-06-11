@@ -35,6 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
+ <li><em>2025.06</em>:  🎉🎉 A paper is accepted by IEEE TIFS </li>
  <li><em>2025.05</em>:  🎉🎉 A paper is accepted by IEEE TC </li>
  <li><em>2025.04</em>:  🎉🎉 A paper is accepted by IEEE TDSC </li>
   <li><em>2025.03</em>:  🎉🎉 A paper is accepted by IEEE TSC; I was invited to serve as an Associate Editor of IEEE Transactions on Dependable and Secure Computing (TDSC) </li>
@@ -152,6 +153,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
 
  <h4 id="Multimedia Security and Trustworthy AI:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
+  <li id="paperdistance"> Linshan Hou, Wei Luo, <B>Zhongyun Hua*</B>, Songhua Chen, Leo Yu Zhang, and Yiming Li*, "FLARE: Towards Universal Dataset Purification against Backdoor Attacks", <B><I>IEEE Transactions on Information Forensics and Security</I></B>, accepted, 2025. </li>
  <li id="paperdistance"> Linshan Hou, <B>Zhongyun Hua*</B>, Wei Luo, Leo Yu Zhang, "FixGuard: Repairing Backdoored Models via Class-wise Trigger Recovery and Unlearning", <B><I> IEEE Signal Processing Letters</I></B>, accepted, 2025. </li>
 
 <li id="paperdistance"> Enji Liang, Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yuanman Li, and Xiaohua Jia, "TransCMFD: An adaptive transformer for copy-move forgery detection", <B><I> Neurocomputing</I></B>, accepted, 2025. </li>
