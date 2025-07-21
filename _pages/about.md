@@ -35,6 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
+<li><em>2025.07</em>:  🎉🎉 A paper is accepted by IEEE TDSC </li>
  <li><em>2025.06</em>:  🎉🎉 A paper is accepted by IEEE TIFS </li>
  <li><em>2025.05</em>:  🎉🎉 A paper is accepted by IEEE TC </li>
  <li><em>2025.04</em>:  🎉🎉 A paper is accepted by IEEE TDSC </li>
@@ -100,6 +101,8 @@ My research interests include:
 
 <h4 id="Applied Cryptography:">Applied Cryptography:</h4>
 
+<li id="paperdistance"> <B>Zhongyun Hua*</B>, Zizheng Wang, Mingyang Song, Yifeng Zheng, Guangxia Xu, and Xiaohua Jia，"Enabling Secure Auditing and Deduplication in Multi-Replica Cloud Storage", <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, accepted, 2025. </li>
+
 <li id="paperdistance"> Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Qing Liao, and Xiaohua Jia，"Enabling Verifiable Search and Integrity Auditing in Encrypted Decentralized Storage Using One Proof", <B><I>IEEE Transactions on Computers</I></B>, accepted, 2025. </li>
 
 <li id="paperdistance"> Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, Guoai Xu, and Xingliang Yuan，"Assuring Certified Database Utility in Privacy-Preserving Database Fingerprinting", <B><I>Proc. of 34th USENIX Security Symposium (USENIX Security)</I></B>, accepted, 2025. </li>
@@ -153,6 +156,9 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
 
  <h4 id="Multimedia Security and Trustworthy AI:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
+
+  <li id="paperdistance"> Enji Liang, Kuiyuan Zhang, <B>Zhongyun Hua*</B>, and Xiaohua Jia, "Dual-Branch Noise-Guided Network for Image Splicing Forgery Detection", <B><I> IEEE Signal Processing Letters</I></B>, accepted, 2025. </li>
+
   <li id="paperdistance"> Linshan Hou, Wei Luo, <B>Zhongyun Hua*</B>, Songhua Chen, Leo Yu Zhang, and Yiming Li*, "FLARE: Towards Universal Dataset Purification against Backdoor Attacks", <B><I>IEEE Transactions on Information Forensics and Security</I></B>, accepted, 2025. </li>
  <li id="paperdistance"> Linshan Hou, <B>Zhongyun Hua*</B>, Wei Luo, Leo Yu Zhang, "FixGuard: Repairing Backdoored Models via Class-wise Trigger Recovery and Unlearning", <B><I> IEEE Signal Processing Letters</I></B>, accepted, 2025. </li>
 
