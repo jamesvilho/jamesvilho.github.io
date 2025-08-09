@@ -35,6 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
+	<li><em>2025.08</em>:  🎉🎉 A paper is accepted by ACM CCS </li>
 <li><em>2025.07</em>:  🎉🎉 A paper is accepted by IEEE TDSC </li>
  <li><em>2025.06</em>:  🎉🎉 A paper is accepted by IEEE TIFS </li>
  <li><em>2025.05</em>:  🎉🎉 A paper is accepted by IEEE TC </li>
