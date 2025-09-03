@@ -87,15 +87,11 @@ analytics:
 author:
   name: "Vilho James"
   avatar: "jamesf.jpg"
-  bio: "Ph.D. Student in Information & Communication Engineering at Harbin Institute of Technology"
-  location: "Shenzhen, PRC"
+  bio: "Ph.D. Student in Information & Communication Engineering at Harbin Institute of Technology, Shenzhen"
+  location: "Shenzhen, Guangdong"
   email: "james943@163.com"
   twitter: "iipinge_vilho"
-  googlescholar: ""
-  researchgate: ""
-  github: ""
-  linkedin: ""
-  other_profiles: {}
+ 
 
 # ---------------------------------------------
 # Include / Exclude
