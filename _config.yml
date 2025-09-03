@@ -1,32 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Vilho James Iipinge</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 700px;
-      margin: 50px auto;
-      line-height: 1.6;
-    }
-    h1 { margin-bottom: 0; }
-    .contact a { margin-right: 15px; }
-  </style>
-</head>
-<body>
-  <h1>Vilho James Iipinge</h1>
-  <p><strong>Affiliation:</strong> Harbin Institute of Technology</p>
-  <p><strong>Location:</strong> Shenzhen, Guangdong</p>
+---
+layout: single
+title: "Vilho James Iipinge"
+author_profile: false
+---
 
-  <div class="contact">
-    <p>
-      📧 <a href="mailto:james943@163.com">Email</a> |
-      💻 <a href="https://github.com/jamesvilho">GitHub</a> |
-      📖 <a href="https://scholar.google.com/citations?user=XXXXX">Google Scholar</a>
-    </p>
-  </div>
-</body>
-</html>
+# Vilho James Iipinge  
 
+**Affiliation:** Harbin Institute of Technology  
+**Location:** Shenzhen, Guangdong, China  
 
+📧 [Email](mailto:james943@163.com) |  
+💻 [GitHub](https://github.com/jamesvilho) |  
+📖 [Google Scholar](https://scholar.google.com/citations?user=XXXXX)
