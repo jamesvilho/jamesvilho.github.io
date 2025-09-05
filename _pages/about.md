@@ -35,5 +35,5 @@ I earned my MEng in Software Engineering from [Nankai University](https://csen.n
 
 # Selected Awards
 * Chinese Government Scholarship MOFCOM (2021-2023)
-* Namibian/Malaysia Government Scholarship (2013-2017)
+* Namibian Government Scholarship (2013-2017)
 
