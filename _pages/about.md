@@ -12,7 +12,7 @@ I am a Ph.D. student since 2023 in the [Guangdong Provincial Key Laboratory of S
 My research focuses on the intersection of machine learning and robotics, with a particular focus on sensor fusion data, deep representation learning, generative models and sensori-motor control in the context of autonomous systems.
 <!-- Currently, I am exploring open-world 3D scene understanding algorithms that leverage the power of 2D foundation models. -->
 
-I earned my MEng in Software Engineering from [Nankai University](https://csen.nankai.edu.cn/), in 2023, where I was advised by Prof. [Mengting Hu](https://hmt2014.github.io/homepage/). Before that, I received my Master’s and Bachelor’s degrees from UPSI Malaysia in 2019 and 2017, respectively, where I was fortunate to work with Prof. [Aws Alaa Zaidan](https://ieeexplore.ieee.org/author/37547420400/). 
+I earned my MEng in Software Engineering from [Nankai University](https://csen.nankai.edu.cn/), in 2023, where I was advised by Prof. [Mengting Hu](https://hmt2014.github.io/homepage/).
 
 
 
