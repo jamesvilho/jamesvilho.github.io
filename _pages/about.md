@@ -35,7 +35,8 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-	<li><em>2025.08</em>:  🎉🎉 A paper is accepted by ACM CCS; A paper is acceptd by IEEE TMC </li>
+<li><em>2025.09</em>:  🎉🎉 A paper is accepted by IEEE TDSC </li>
+<li><em>2025.08</em>:  🎉🎉 A paper is accepted by ACM CCS; A paper is acceptd by IEEE TMC </li>
 <li><em>2025.07</em>:  🎉🎉 A paper is accepted by IEEE TDSC </li>
  <li><em>2025.06</em>:  🎉🎉 A paper is accepted by IEEE TIFS </li>
  <li><em>2025.05</em>:  🎉🎉 A paper is accepted by IEEE TC </li>
@@ -101,6 +102,7 @@ My research interests include:
 <ol id="olstyle">
 
 <h4 id="Applied Cryptography:">Applied Cryptography:</h4>
+<li id="paperdistance"> <B>Zhongyun Hua</B>, Jianhui Zou, Yifeng Zheng*, Zhili Zhou, Fei Peng, and Qing Liao, "Large-Capacity Reversible Data Hiding over Encrypted Images via Pixel Correlation Recovery", <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, accepted, 2025. </li>
 
 <li id="paperdistance"> Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Rushu Lan, Qing Liao, and Guangxia Xu，"Enabling Reliable and Anonymous Data Collection for Fog-Assisted Mobile Crowdsensing With Malicious User Detection", <B><I>IEEE Transactions on Mobile Computing</I></B>, accepted, 2025. </li>
 
