@@ -103,7 +103,7 @@ My research interests include:
 
 <h4 id="Applied Cryptography:">Applied Cryptography:</h4>
 
-<li id="paperdistance"> Longji Li, Yifeng Zheng*, Songlei Wang, <B>Zhongyun Hua</B>, Lei Xu, and Yansong Gao, "Privacy-Assured Analytics on Decentralized Graphs: The Case of Graph Learning", <B><I>>Proc. of 24th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)</I></B>, accepted, 2025. </li>
+<li id="paperdistance"> Longji Li, Yifeng Zheng*, Songlei Wang, <B>Zhongyun Hua</B>, Lei Xu, and Yansong Gao, "Privacy-Assured Analytics on Decentralized Graphs: The Case of Graph Learning", <B><I>Proc. of 24th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)</I></B>, accepted, 2025. </li>
 
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Jianhui Zou, Yifeng Zheng*, Zhili Zhou, Fei Peng, and Qing Liao, "Large-Capacity Reversible Data Hiding over Encrypted Images via Pixel Correlation Recovery", <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, accepted, 2025. </li>
 
