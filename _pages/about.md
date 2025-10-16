@@ -35,6 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
+<li><em>2025.10</em>:  🎉🎉 Our paper was awarded the ACM CCS 2025 Distinguished Paper Award </li>
 <li><em>2025.09</em>:  🎉🎉 A paper is accepted by IEEE TDSC </li>
 <li><em>2025.08</em>:  🎉🎉 A paper is accepted by ACM CCS; A paper is acceptd by IEEE TMC </li>
 <li><em>2025.07</em>:  🎉🎉 A paper is accepted by IEEE TDSC </li>
@@ -46,7 +47,7 @@ My research interests include:
   <li><em>2025.01</em>:  🎉🎉 A paper is accepted by IEEE TIP; Two papers are accpeted by USENIX Security 2025 </li>
   <li><em>2024.12</em>:  🎉🎉 Two papers are accpeted by AAAI 2025; A paper is accepted by IEEEE TIFS </li>
   <li><em>2024.11</em>:  🎉🎉 I am recognized as a 'Highly Cited Researcher 2024'; A paper is accted by IEEE TSC </li>
-  <li><em>2024.10</em>:  🎉🎉 A paper is  nominated for the Best Paper Award at ACM MM 2024 </li>
+  <li><em>2024.10</em>:  🎉🎉 A paper is nominated for the Best Paper Award at ACM MM 2024 </li>
   <li><em>2024.09</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSVT; A paper is accpeted by ACM TOMM </li>
   <li><em>2024.08</em>:  🎉🎉 A paper is accpeted by ACM CCS;  A paper is accpeted by IEEE TSC;  Two papers are accpeted by IEEE TIE； A paper is accepted by IEEE TBIOM </li>
   <li><em>2024.07</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TII; A paper is accpeted by IEEE TII；Two papers are accpeted by ACM MM</li>
@@ -109,7 +110,7 @@ My research interests include:
 
 <li id="paperdistance"> Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Rushu Lan, Qing Liao, and Guangxia Xu，"Enabling Reliable and Anonymous Data Collection for Fog-Assisted Mobile Crowdsensing With Malicious User Detection", <B><I>IEEE Transactions on Mobile Computing</I></B>, accepted, 2025. </li>
 
-<li id="paperdistance"> Shuangqing Xu, Yifeng Zheng*, and <B>Zhongyun Hua*</B>，"Harnessing Sparsification in Federated Learning: A Secure, Efficient, and Differentially Private Realization", <B><I>Proc. of ACM Conference on Computer and Communications Security (ACM CCS)</I></B>, accepted, 2025. </li>
+<li id="paperdistance"> Shuangqing Xu, Yifeng Zheng*, and <B>Zhongyun Hua*</B>，"Harnessing Sparsification in Federated Learning: A Secure, Efficient, and Differentially Private Realization", <B><I>Proc. of ACM Conference on Computer and Communications Security (ACM CCS)</I></B>, accepted, 2025. <B>[Distinguished Paper Award]</B></li>
 
 <li id="paperdistance"> <B>Zhongyun Hua*</B>, Zizheng Wang, Mingyang Song, Yifeng Zheng, Guangxia Xu, and Xiaohua Jia，"Enabling Secure Auditing and Deduplication in Multi-Replica Cloud Storage", <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, accepted, 2025. </li>
 
