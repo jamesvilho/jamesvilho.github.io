@@ -17,14 +17,10 @@ def get_personal_data():
                      I studied B.Sc. Informatics: Games Engineering at the <a href="https://www.tum.de/en/" target="_blank">Technical University of Munich</a>. Following that I worked for 1 year as a software developer at <a href="https://www.ferchau.com/de/de" target="_blank">FERCHAU</a>  as graphics developer. Afterwards I did a M.Sc. in Computer Science at the <a href="https://uni-tuebingen.de/en/" target="_blank">University of Tübingen</a>. I started my PhD at the Autonomous Vision Group in April 2022.
                 </p>
                 <p>
-                    <a href="assets/pdf/CV_Bernhard_Jaeger.pdf" target="_blank" style="margin-right: 15px"><i class="fa fa-address-card fa-lg"></i> CV</a>
                     <a href="mailto:{email}" style="margin-right: 15px"><i class="far fa-envelope-open fa-lg"></i> Mail</a>
                     <a href="https://twitter.com/{twitter}" target="_blank" style="margin-right: 15px"><i class="fab fa-twitter fa-lg"></i> Twitter</a>
-                    <a href="https://bsky.app/profile/{bluesky}" target="_blank" style="margin-right: 15px"><i class="fab fa-twitter fa-lg"></i> Bluesky</a>
-                    <a href="https://scholar.google.de/citations?user=JpceFvgAAAAJ&hl=en" target="_blank" style="margin-right: 15px"><i class="fa-solid fa-book"></i> Scholar</a>
                     <a href="https://github.com/{github}" target="_blank" style="margin-right: 15px"><i class="fab fa-github fa-lg"></i> Github</a>
-                    <a href="https://www.linkedin.com/in/{linkedin}" target="_blank" style="margin-right: 15px"><i class="fab fa-linkedin fa-lg"></i> LinkedIn</a>
-                    <a href="https://www.youtube.com/{youtube}" target="_blank" style="margin-right: 15px"><i class="fab fa-youtube fa-lg"></i> YouTube</a>
+
                 </p>
     """
     footer = """
