@@ -55,7 +55,7 @@ def get_author_dict():
         'Simon Gerstenecker': 'https://www.linkedin.com/in/simon-gerstenecker/',
         }
 
-def generate_person_html(persons, connection=", ", make_bold=True, make_bold_name='Bernhard Jaeger', add_links=True):
+def generate_person_html(persons, connection=", ", make_bold=True, make_bold_name='Vilho James', add_links=True):
     links = get_author_dict() if add_links else {}
     s = ""
     for p in persons:
