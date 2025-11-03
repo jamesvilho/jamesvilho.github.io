@@ -1,13 +1,11 @@
 from pybtex.database.input import bibtex
 
 def get_personal_data():
-    name = ["Bernhard", "Jaeger"]
-    email = "bernhard.jaeger@uni-tuebingen.de"
-    twitter = "bern_jaeger"
-    bluesky = "bernhard-jaeger.bsky.social"
-    github = "Kait0"
-    linkedin = "bernhard-jaeger-289b65160"
-    youtube = "@bernhard_jaeger"
+    name = ["James", "Vilho"]
+    email = "james943@163.com"
+    twitter = "iipinge_vilho"
+    github = "jamesvilho"
+    
     bio_text = f"""
                 <p>I am a PhD student at the University of Tübingen, where I am part of the <a href="https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/home/" target="_blank">Autonomous Vision Group </a> led by <a href="https://www.cvlibs.net/" target="_blank"> Prof. Andreas Geiger</a>. My research is supported by the <a href="https://imprs.is.mpg.de/" target="_blank"> International Max Plank Research School for Intelligent Systems</a>.
                 <p>
