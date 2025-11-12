@@ -35,14 +35,15 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-<li><em>2025.10</em>:  🎉🎉 Our paper was awarded the ACM CCS 2025 Distinguished Paper Award </li>
+<li><em>2025.11</em>:  🎉🎉 A paper is accepted by IEEE TII; A paper is accepted by AAAI 2026; I am recognized as a 'Highly Cited Researcher 2024' </li>
+<li><em>2025.10</em>:  🎉🎉 Our paper is awarded the ACM CCS 2025 Distinguished Paper Award </li>
 <li><em>2025.09</em>:  🎉🎉 A paper is accepted by IEEE TDSC </li>
 <li><em>2025.08</em>:  🎉🎉 A paper is accepted by ACM CCS; A paper is acceptd by IEEE TMC </li>
 <li><em>2025.07</em>:  🎉🎉 A paper is accepted by IEEE TDSC </li>
  <li><em>2025.06</em>:  🎉🎉 A paper is accepted by IEEE TIFS </li>
  <li><em>2025.05</em>:  🎉🎉 A paper is accepted by IEEE TC </li>
  <li><em>2025.04</em>:  🎉🎉 A paper is accepted by IEEE TDSC </li>
-  <li><em>2025.03</em>:  🎉🎉 A paper is accepted by IEEE TSC; I was invited to serve as an Associate Editor of IEEE Transactions on Dependable and Secure Computing (TDSC) </li>
+  <li><em>2025.03</em>:  🎉🎉 A paper is accepted by IEEE TSC; I am invited to serve as an Associate Editor of IEEE Transactions on Dependable and Secure Computing (TDSC) </li>
   <li><em>2025.02</em>:  🎉🎉 A paper is accepted by IEEE TIFS; A paper is accepted by IEEE TDSC; A paper is accepted by IEEE TMM </li>
   <li><em>2025.01</em>:  🎉🎉 A paper is accepted by IEEE TIP; Two papers are accpeted by USENIX Security 2025 </li>
   <li><em>2024.12</em>:  🎉🎉 Two papers are accpeted by AAAI 2025; A paper is accepted by IEEEE TIFS </li>
