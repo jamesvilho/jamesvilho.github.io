@@ -169,7 +169,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
  <h4 id="Multimedia Security and Trustworthy AI:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
 
-  <li id="paperdistance"> Yuhang Zhou, Yanxiang Zhao, <B>Zhongyun Hua*</B>, Zhipu Liu, Zhaoquan Gu, Qing Liao, Leo Yu Zhang，"Debiased Dual-Invariant Defense for Adversarially Robust Person Re-Identification",   <B><I>Proc. of Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2025. </li>
+  <li id="paperdistance"> Yuhang Zhou, Yanxiang Zhao, <B>Zhongyun Hua*</B>, Zhipu Liu, Zhaoquan Gu, Qing Liao, Leo Yu Zhang，"Debiased Dual-Invariant Defense for Adversarially Robust Person Re-Identification",   <B><I>Proc. of Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2026. </li>
   
   <li id="paperdistance"> Enji Liang, Kuiyuan Zhang, <B>Zhongyun Hua*</B>, and Xiaohua Jia, "Dual-Branch Noise-Guided Network for Image Splicing Forgery Detection", <B><I> IEEE Signal Processing Letters</I></B>, accepted, 2025. </li>
 
