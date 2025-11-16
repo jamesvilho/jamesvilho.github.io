@@ -169,6 +169,8 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
  <h4 id="Multimedia Security and Trustworthy AI:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
 
+  <li id="paperdistance"> Yuhang Zhou, Yanxiang Zhao, <B>Zhongyun Hua*</B>, Zhipu Liu, Zhaoquan Gu, Qing Liao, Leo Yu Zhang，"Debiased Dual-Invariant Defense for Adversarially Robust Person Re-Identification",   <B><I>Proc. of Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2025. </li>
+  
   <li id="paperdistance"> Enji Liang, Kuiyuan Zhang, <B>Zhongyun Hua*</B>, and Xiaohua Jia, "Dual-Branch Noise-Guided Network for Image Splicing Forgery Detection", <B><I> IEEE Signal Processing Letters</I></B>, accepted, 2025. </li>
 
   <li id="paperdistance"> Linshan Hou, Wei Luo, <B>Zhongyun Hua*</B>, Songhua Chen, Leo Yu Zhang, and Yiming Li*, "FLARE: Towards Universal Dataset Purification against Backdoor Attacks", <B><I>IEEE Transactions on Information Forensics and Security</I></B>, accepted, 2025. </li>
@@ -317,7 +319,7 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 
 
 <h4 id="Nonlinear Systems and Applications:">Nonlinear Systems and Applications:</h4>
-
+<li id="paperdistance"> Yinxing Zhang, <B>Zhongyun Hua*</B>, Han Bao, Member, and Hejiao Huang, "1D Complex-Variable Chaotic Model With Hardware Implementation", <B><I> Industrial Informatics </I></B>, in press, 2025. </li>
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Zihua Wu, Yinxing Zhang*, Han Bao, Yicong Zhou, "MTwo-Dimensional Cyclic Chaotic System for Noise-Reduced OFDM-DCSK Communication", <B><I> IEEE Transactions on Circuits and Systems I: Regular Papers </I></B>, in press, 2024. </li>
 <li id="paperdistance">Bocheng Bao, Haigang Tang, Han Bao*, <B>Zhongyun Hua</B>, Quan Xu, and Mo Chen, <B><I>IEEE Transactions on Industrial Electronics </I></B>, 2024. </li>
 <li id="paperdistance">Han Bao, Yuanhui Su, <B>Zhongyun Hua</B>, Mo Chen, Senior, and Bocheng Bao*, "Two-Dimensional Bounded Chaotic System With Hardware Implementation", <B><I>IEEE Transactions on Industrial Electronics </I></B>, 2024. </li>
