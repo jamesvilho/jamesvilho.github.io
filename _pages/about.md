@@ -109,7 +109,7 @@ My research interests include:
 
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Jianhui Zou, Yifeng Zheng*, Zhili Zhou, Fei Peng, and Qing Liao, "Large-Capacity Reversible Data Hiding over Encrypted Images via Pixel Correlation Recovery", <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, accepted, 2025. </li>
 
-<li id="paperdistance"> Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Rushu Lan, Qing Liao, and Guangxia Xu，"Enabling Reliable and Anonymous Data Collection for Fog-Assisted Mobile Crowdsensing With Malicious User Detection", <B><I>IEEE Transactions on Mobile Computing</I></B>, accepted, 2025. </li>
+<li id="paperdistance"> Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Rushu Lan, Qing Liao, and Guoai Xu，"Enabling Reliable and Anonymous Data Collection for Fog-Assisted Mobile Crowdsensing With Malicious User Detection", <B><I>IEEE Transactions on Mobile Computing</I></B>, accepted, 2025. </li>
 
 <li id="paperdistance"> Shuangqing Xu, Yifeng Zheng*, and <B>Zhongyun Hua*</B>，"Harnessing Sparsification in Federated Learning: A Secure, Efficient, and Differentially Private Realization", <B><I>Proc. of ACM Conference on Computer and Communications Security (ACM CCS)</I></B>, accepted, 2025. <B>[Distinguished Paper Award]</B></li>
 
