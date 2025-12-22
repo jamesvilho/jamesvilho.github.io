@@ -172,7 +172,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
  <h4 id="Multimedia Security and Trustworthy AI:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
 
-   <li id="paperdistance"> Xiangli Xiao, Yushu Zhang*, Ruoyu Zhao, Zhongyun Hua, Wenying Wen, and Yuming Fang，"A Dual-Protection Method for 3D Object Security and Copyright: Watermark Embedding During Decryption",   <B><I>IEEE Transactions on Dependable and Secure Computing, accepted, 2025. </li>
+   <li id="paperdistance"> Xiangli Xiao, Yushu Zhang*, Ruoyu Zhao, Zhongyun Hua, Wenying Wen, and Yuming Fang，"A Dual-Protection Method for 3D Object Security and Copyright: Watermark Embedding During Decryption",   <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, accepted, 2025. </li>
 
   <li id="paperdistance"> Yuhang Zhou, Yanxiang Zhao, <B>Zhongyun Hua*</B>, Zhipu Liu, Zhaoquan Gu, Qing Liao, Leo Yu Zhang，"Debiased Dual-Invariant Defense for Adversarially Robust Person Re-Identification",   <B><I>Proc. of Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2026. </li>
   
