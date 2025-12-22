@@ -35,6 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
+<li><em>2025.12</em>:  🎉🎉 Two paper are accepted by IEEE TDSC </li>
 <li><em>2025.11</em>:  🎉🎉 A paper is accepted by IEEE TII; A paper is accepted by AAAI 2026; I am recognized as a 'Highly Cited Researcher 2025' </li>
 <li><em>2025.10</em>:  🎉🎉 Our paper is awarded the ACM CCS 2025 Distinguished Paper Award </li>
 <li><em>2025.09</em>:  🎉🎉 A paper is accepted by IEEE TDSC </li>
@@ -105,6 +106,8 @@ My research interests include:
 
 <h4 id="Applied Cryptography:">Applied Cryptography:</h4>
 
+<li id="paperdistance"> Xinrui Liu, <B>Zhongyun Hua*</B>, Mingyang Song, Yifeng Zheng, Guoai Xu, and Xiaohua Jia,, "PVF-FD: Free-Rider Detection in Privacy-Preserving Vertical Federated Learning ", <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, accepted, 2025. </li>
+
 <li id="paperdistance"> Longji Li, Yifeng Zheng*, Songlei Wang, <B>Zhongyun Hua</B>, Lei Xu, and Yansong Gao, "Privacy-Assured Analytics on Decentralized Graphs: The Case of Graph Learning", <B><I>Proc. of 24th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)</I></B>, accepted, 2025. </li>
 
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Jianhui Zou, Yifeng Zheng*, Zhili Zhou, Fei Peng, and Qing Liao, "Large-Capacity Reversible Data Hiding over Encrypted Images via Pixel Correlation Recovery", <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, accepted, 2025. </li>
@@ -169,11 +172,14 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
  <h4 id="Multimedia Security and Trustworthy AI:">Multimedia Security, Multimedia Forensics, and AI Security:</h4>
 
+   <li id="paperdistance"> Xiangli Xiao, Yushu Zhang*, Ruoyu Zhao, Zhongyun Hua, Wenying Wen, and Yuming Fang，"A Dual-Protection Method for 3D Object Security and Copyright: Watermark Embedding During Decryption",   <B><I>IEEE Transactions on Dependable and Secure Computing, accepted, 2025. </li>
+
   <li id="paperdistance"> Yuhang Zhou, Yanxiang Zhao, <B>Zhongyun Hua*</B>, Zhipu Liu, Zhaoquan Gu, Qing Liao, Leo Yu Zhang，"Debiased Dual-Invariant Defense for Adversarially Robust Person Re-Identification",   <B><I>Proc. of Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI)</I></B>, 2026. </li>
   
   <li id="paperdistance"> Enji Liang, Kuiyuan Zhang, <B>Zhongyun Hua*</B>, and Xiaohua Jia, "Dual-Branch Noise-Guided Network for Image Splicing Forgery Detection", <B><I> IEEE Signal Processing Letters</I></B>, accepted, 2025. </li>
 
   <li id="paperdistance"> Linshan Hou, Wei Luo, <B>Zhongyun Hua*</B>, Songhua Chen, Leo Yu Zhang, and Yiming Li*, "FLARE: Towards Universal Dataset Purification against Backdoor Attacks", <B><I>IEEE Transactions on Information Forensics and Security</I></B>, accepted, 2025. </li>
+  
  <li id="paperdistance"> Linshan Hou, <B>Zhongyun Hua*</B>, Wei Luo, Leo Yu Zhang, "FixGuard: Repairing Backdoored Models via Class-wise Trigger Recovery and Unlearning", <B><I> IEEE Signal Processing Letters</I></B>, accepted, 2025. </li>
 
 <li id="paperdistance"> Enji Liang, Kuiyuan Zhang, <B>Zhongyun Hua*</B>, Yuanman Li, and Xiaohua Jia, "TransCMFD: An adaptive transformer for copy-move forgery detection", <B><I> Neurocomputing</I></B>, accepted, 2025. </li>
