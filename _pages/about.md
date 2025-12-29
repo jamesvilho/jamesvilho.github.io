@@ -40,7 +40,7 @@ My research lies at the intersection of machine learning and autonomous systems,
 <h1 id="-Educations">🎓 Educations</h1>
 <ul>
   <li><em>2023.09 - Present</em>, <a href="https://www.hitsz.edu.cn/"><img class="svg" src="/images/hit.png" width="23pt" /></a> Ph.D., School of Electronics and Information Engineering , Harbin Institte of Technology</li>
-  <li><em>2021.09 - 2023.06</em>, <a href="https://www.nankai.edu.cn/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> M.E., College of Software, Nankai University</li>
+  <li><em>2021.09 - 2023.06</em>, <a href="https://www.nankai.edu.cn/"><img class="svg" src="/images/nankai.png" width="23pt" /></a> M.E., College of Software, Nankai University</li>
   <li><em>2017.09 - 2019.06</em>, <a href="https://www.upsi.edu.my/"><img class="svg" src="/images/CQU_logo.png" width="23pt" /></a> M.S., Faculty of Computing, Universiti Pendidikan Sultan Idris</li>
   <li><em>2013.09 - 2017.06</em>, <a href="https://www.upsi.edu.my/"><img class="svg" src="/images/CQU_logo.png" width="23pt" /></a> B.S., Faculty of Computing, Universiti Pendidikan Sultan Idris</li>
 </ul>
