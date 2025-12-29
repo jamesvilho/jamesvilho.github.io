@@ -26,6 +26,7 @@ My research lies at the intersection of machine learning and autonomous systems,
 
 
  
+<span class='anchor' id='-lwzl'></span>
 
 <h1 id="-news">🔥 News</h1>
 <ul>
@@ -35,8 +36,7 @@ My research lies at the intersection of machine learning and autonomous systems,
 </ul>
 
 
-
-
+<span class='anchor' id='-xl'></span>
 <h1 id="-Educations">🎓 Educations</h1>
 <ul>
   <li><em>2023.09 - Present</em>, <a href="https://www.hitsz.edu.cn/"><img class="svg" src="/images/hit.png" width="23pt" /></a> Ph.D., School of Electronics and Information Engineering, Harbin Institute of Technology</li>
@@ -59,10 +59,6 @@ My research lies at the intersection of machine learning and autonomous systems,
     <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Reversible_Data_Hiding_in_Encrypted_Images_Using_Cipher-Feedback_Secret_Sharing.pdf" target="_blank">[pdf]</a>
   </li>
 </ol>
-
-
-
-
 
 
 
