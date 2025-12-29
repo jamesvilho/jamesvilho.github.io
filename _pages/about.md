@@ -26,7 +26,6 @@ My research lies at the intersection of machine learning and autonomous systems,
 
 
  
-<span class='anchor' id='-lwzl'></span>
 
 <h1 id="-news">🔥 News</h1>
 <ul>
@@ -35,10 +34,8 @@ My research lies at the intersection of machine learning and autonomous systems,
 
 </ul>
 
-<span class='anchor' id='-ase'></span>
 
 
-<span class='anchor' id='-xl'></span>
 
 <h1 id="-Educations">🎓 Educations</h1>
 <ul>
@@ -50,7 +47,6 @@ My research lies at the intersection of machine learning and autonomous systems,
 
 
 
-<span class='anchor' id='-xshy'></span>
 
 <h1 id="-Publications">📝 Publications</h1>
 
@@ -58,7 +54,7 @@ My research lies at the intersection of machine learning and autonomous systems,
 
 <h4 id="End-to-end:">End-to-end Autonomous Driving:</h4>
 
-<
+
 
 
 <li id="paperdistance"> <B>Vilho James*</B>, Tianhao Liang, Cong Guo and Tingting Zhang, "Autonomous Driving Planning Based on Large Language Model: Collaborative Driving", <B><I> IEEE Vehicular Technology Conference (VTC)</I></B> 2025. <a href="https://ieeexplore.ieee.org/abstract/document/11174944">[doi]</a><a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Reversible_Data_Hiding_in_Encrypted_Images_Using_Cipher-Feedback_Secret_Sharing.pdf" target="_blank">[pdf]</a></li>
