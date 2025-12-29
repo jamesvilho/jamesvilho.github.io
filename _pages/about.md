@@ -46,18 +46,18 @@ My research lies at the intersection of machine learning and autonomous systems,
 </ul>
 
 
-
-
 <h1 id="-Publications">📝 Publications</h1>
 
 <ol id="olstyle" style="list-style: none; padding-left: 0;">
   <li id="paperdistance">
-    <b>Vilho James*</b>, Tianhao Liang, Cong Guo and Tingting Zhang, 
-    "Autonomous Driving Planning Based on Large Language Model: Collaborative Driving", 
-    <b><i>IEEE Vehicular Technology Conference (VTC)</i></b> 2025. 
+    <b>Vilho James*</b>, Tianhao Liang, Cong Guo and Tingting Zhang,
+    "Autonomous Driving Planning Based on Large Language Model: Collaborative Driving",
+    <b><i>IEEE Vehicular Technology Conference (VTC)</i></b> 2025.
     <a href="https://ieeexplore.ieee.org/abstract/document/11174944">[doi]</a>
+    <!-- <a href="">[pdf]</a> -->
   </li>
 </ol>
+
 
 
 
