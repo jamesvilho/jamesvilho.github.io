@@ -56,7 +56,6 @@ My research lies at the intersection of machine learning and autonomous systems,
     "Autonomous Driving Planning Based on Large Language Model: Collaborative Driving", 
     <b><i>IEEE Vehicular Technology Conference (VTC)</i></b> 2025. 
     <a href="https://ieeexplore.ieee.org/abstract/document/11174944">[doi]</a>
-    {%<a href="">[pdf]</a>%}
   </li>
 </ol>
 
