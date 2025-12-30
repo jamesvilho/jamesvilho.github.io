@@ -1,9 +1,0 @@
-@article{Hua2020IEEETSP,
-  title={Two-Dimensional Modular Chaotification System for Improving Chaos Complexity},
-  author={Hua, Zhongyun and Zhang, Yinxing and Zhou, Yicong},
-  journal={IEEE Transactions on Signal Processing},
-  volume={68},
-  pages={1937--1949},
-  year={2020},
-  publisher={IEEE}
-}
