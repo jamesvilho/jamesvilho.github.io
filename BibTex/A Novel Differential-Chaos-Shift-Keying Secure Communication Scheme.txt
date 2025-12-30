@@ -1,8 +1,0 @@
-@inproceedings{cai2018novel,
-  title={A novel differential-chaos-shift-keying secure communication scheme},
-  author={Cai, Hang and Hua, Zhongyun and Huang, Hejiao},
-  booktitle={2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
-  pages={1794--1798},
-  year={2018},
-  organization={IEEE}
-}
