@@ -1,7 +1,0 @@
-@inproceedings{you2021transformer,
-  title={A transformer based approach for image manipulation chain detection},
-  author={You, Jiaxiang and Li, Yuanman and Zhou, Jiantao and Hua, Zhongyun and Sun, Weiwei and Li, Xia},
-  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
-  pages={3510--3517},
-  year={2021}
-}
