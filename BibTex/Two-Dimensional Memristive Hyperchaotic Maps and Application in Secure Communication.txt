@@ -1,7 +1,0 @@
-@article{Li2020IEEETIE,
-  title={Two-dimensional memristive hyperchaotic maps and application in secure communication},
-  author={Li, Houzhen and Hua, Zhongyun and Bao, Han and Zhu, Lei and Chen, Mo and Bao, Bocheng},
-  journal={IEEE Transactions on Industrial Electronics},
-  year={to be published, 2020},
-  publisher={IEEE}
-}
