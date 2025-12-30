@@ -1,8 +1,0 @@
-@inproceedings{Hua2014IEEEICSMC,
-  title        = {Image encryption using 2D Logistic-Sine chaotic map},
-  author       = {Hua, Zhongyun and Zhou, Yicong and Pun, Chi-Man and Chen, CL Philip},
-  booktitle    = {2014 IEEE International Conference on Systems, Man and Cybernetics (SMC)},
-  pages        = {3229--3234},
-  year         = {2014},
-  organization = {IEEE}
-}
