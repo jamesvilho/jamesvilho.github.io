@@ -1,8 +1,0 @@
-@inproceedings{Hua_2015IEEEICSMS,
-  title        = {Image cipher using a new interactive two-dimensional chaotic map},
-  author       = {Hua, Zhongyun and Wang, Yiran and Zhou, Yicong},
-  booktitle    = {2015 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
-  pages        = {1804--1808},
-  year         = {2015},
-  organization = {IEEE}
-}
