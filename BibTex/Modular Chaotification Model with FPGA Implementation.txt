@@ -1,6 +1,0 @@
-@article{Hua2021SCTS,
-  title={Modular Chaotification Model with FPGA Implementation},
-  author={Hua, Zhongyun and Zhou, Binghang and Zhang, Yinxing and Zhou, Yicong},
-  journal={Science China Technological Sciences},
-  year={to be published, 2020},
-}
