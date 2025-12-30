@@ -1,8 +1,0 @@
-@article{Hua2021INS,
-  title={Cross-plane colour image encryption using a two-dimensional logistic tent modular map},
-  author={Hua, Zhongyun and Zhu, Zhihua and Yi, Shuang and Zhang, Zheng and Huang, Hejiao},
-  journal={Information Sciences},
-  volume={546},
-  pages={1063--1083},
-  publisher={Elsevier}
-}
