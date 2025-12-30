@@ -1,8 +1,0 @@
-@inproceedings{fang2019locality,
-  title={Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket},
-  author={Fang, Bo and Hua, Zhongyun and Huang, Hejiao},
-  booktitle={2019 14th International Conference on Computer Science \& Education (ICCSE)},
-  pages={5--10},
-  year={2019},
-  organization={IEEE}
-}
