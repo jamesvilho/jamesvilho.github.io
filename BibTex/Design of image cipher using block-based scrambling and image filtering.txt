@@ -1,9 +1,0 @@
-@article{Hua2017IS,
-title     = {Design of image cipher using block-based scrambling and image filtering},
-author    = {Hua, Zhongyun and Zhou, Yicong},
-journal   = {Information Sciences},
-volume    = {396},
-pages     = {97--113},
-year      = {2017},
-publisher = {Elsevier}
-}
