@@ -1,7 +1,0 @@
-@article{Bao2020IEEETII,
-  title={Initials-Boosted Coexisting Chaos in a 2D Sine Map and Its Hardware Implementation},
-  author={Bao, Han and Hua, Zhongyun and Wang, Ning and Zhu, Lei and Chen, Mo and Bao, Bo-Cheng},
-  journal={IEEE Transactions on Industrial Informatics},
-  year={to be published, 2020},
-  publisher={IEEE}
-}
