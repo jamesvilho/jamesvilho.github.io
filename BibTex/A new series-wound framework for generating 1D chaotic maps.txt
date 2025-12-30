@@ -1,8 +1,0 @@
-@inproceedings{Hua_2013IEEEDSPSPEM,
-  title        = {A new series-wound framework for generating 1D chaotic maps},
-  author       = {Hua, Zhongyun and Zhou, Yicong and Chen, CL Philip},
-  booktitle    = {2013 IEEE Digital Signal Processing and Signal Processing Education Meeting (DSP/SPE)},
-  pages        = {118--123},
-  year         = {2013},
-  organization = {IEEE}
-}
