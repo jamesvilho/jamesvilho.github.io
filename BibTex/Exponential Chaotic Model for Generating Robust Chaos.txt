@@ -1,7 +1,0 @@
-@article{Hua2020IEEETSMCS,
-  title={Exponential chaotic model for generating robust chaos},
-  author={Hua, Zhongyun and Zhou, Yicong},
-  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems},
-  year={to be published, 2020},
-  publisher={IEEE}
-}
