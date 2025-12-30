@@ -1,9 +1,0 @@
-@article{Yi2018SPIC,
-title     = {Reversible data hiding in encrypted images using adaptive block-level prediction-error expansion},
-author    = {Yi, Shuang and Zhou, Yicong and Hua, Zhongyun},
-journal   = {Signal Processing: Image Communication},
-volume    = {64},
-pages     = {78--88},
-year      = {2018},
-publisher = {Elsevier}
-}
