@@ -1,9 +1,0 @@
-@article{Hua2019IS,
-  title={Cosine-transform-based chaotic system for image encryption},
-  author={Hua, Zhongyun and Zhou, Yicong and Huang, Hejiao},
-  journal={Information Sciences},
-  volume={480},
-  pages={403--419},
-  year={2019},
-  publisher={Elsevier}
-}
