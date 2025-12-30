@@ -1,7 +1,0 @@
-@inproceedings{Hua_2015NOLTA,
-  title     = {Image content-based encryption algorithm using high-dimensional chaotic system},
-  author    = {Hua, Zhongyun and Zhou, Binghang and Zhou, Yicong},
-  booktitle = {2015 International Symposium on Nonlinear Theory and its Applications (NOLTA2015)},
-  pages     = {554--557},
-  year      = {2015}
-}
