@@ -22,7 +22,7 @@ I am a Ph.D. student (since 2023) in Information and Communication Engineering a
 Guangdong Provincial Key Laboratory of Space-Aerial Networking & Intelligent Sensing,
 [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/). I am supervised by [Prof. Tingting Zhang](https://homepage.hit.edu.cn/zhangtingting). Before that, I received my M.Eng. in Software Engineering from [Nankai University](https://www.nankai.edu.cn/) in 2023, advised by [Prof. Mengting Hu](https://hmt2014.github.io/homepage/).
 
-My research lies at the intersection of machine learning and autonomous systems, with a focus on sensor fusion, deep representation learning, generative models and sensori-motor control in the context of autonomous driving systems.
+My research lies at the intersection of machine learning and autonomous systems, with a focus on sensor fusion, deep representation learning, generative models and sensori-motor control in the context of autonomous driving systems/robots. Currently, I am exploring the Vision-Language-Action (VLA) models and closed-loop simulation in this domain.
 
 
  
