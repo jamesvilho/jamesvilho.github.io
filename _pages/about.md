@@ -60,7 +60,7 @@ My research lies at the intersection of machine learning and autonomous systems,
 
 **Vilho James***, <span style="color:#7a8288;">Tianhao Liang, Cong Guo, Tingting Zhang</span>
 
-LLMDriver addresses the limitations of single-agent systems, such as blind spots and lack of negotiation in complex scenarios like lane merging or roundabouts in autonomous driving.
+LLMDriver addresses the limitations of single-agent systems, lack of negotiation in complex scenarios in autonomous driving.
 
 [IEEE VTC, 2025](https://events.vtsociety.org/vtc2025-spring/) \| 
 [<img src='images/paper.png' style='width:auto; height:21px; vertical-align:-30%; margin-right:0px;'>](https://ieeexplore.ieee.org/abstract/document/11174944)
