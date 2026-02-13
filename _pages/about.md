@@ -48,7 +48,6 @@ My research lies at the intersection of machine learning and autonomous systems,
 
 <h1 id="-Publications">📝 Publications</h1>
 
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <img src='images/llmdriver.png' alt="sym" width="100%">
@@ -62,8 +61,15 @@ My research lies at the intersection of machine learning and autonomous systems,
 
 LLMDriver addresses the limitations of single-agent systems, lack of negotiation in complex scenarios in autonomous driving.
 
-[IEEE VTC, 2025](https://events.vtsociety.org/vtc2025-spring/) \| [<img src='images/paper.png' style='width:auto; height:21px; vertical-align:-30%; margin-right:0px;'>](https://ieeexplore.ieee.org/abstract/document/11174944) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://github.com/) 
+[IEEE VTC, 2025](https://events.vtsociety.org/vtc2025-spring/) |
 
+<a href="https://ieeexplore.ieee.org/abstract/document/11174944">
+  <img src="images/paper.png" style="height:21px; vertical-align:-30%;">
+</a> |
+
+<a href="https://github.com/">
+  <img src="images/project.png" style="height:21px; vertical-align:-30%;">
+</a> 
 
   </div>
 </div>
