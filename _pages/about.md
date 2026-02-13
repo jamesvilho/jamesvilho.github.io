@@ -61,15 +61,10 @@ My research lies at the intersection of machine learning and autonomous systems,
 
 LLMDriver addresses the limitations of single-agent systems, lack of negotiation in complex scenarios in autonomous driving.
 
-[IEEE VTC, 2025](https://events.vtsociety.org/vtc2025-spring/) |
-
-<a href="https://ieeexplore.ieee.org/abstract/document/11174944">
-  <img src="images/paper.png" style="height:21px; vertical-align:-30%;">
-</a> |
-
-<a href="https://github.com/">
-  <img src="images/project.png" style="height:21px; vertical-align:-30%;">
-</a> 
+<div class="pub-links">
+  <a class="pub-btn" href="https://ieeexplore.ieee.org/abstract/document/11174944" target="_blank">📄 Paper</a>
+  <a class="pub-btn" href="https://github.com/" target="_blank">🌐 Project</a>
+</div>
 
   </div>
 </div>
