@@ -57,7 +57,7 @@ LLMDriver addresses the limitations of single-agent systems and lack of negotiat
 
 <br>
 
-Arxiv 2025 |
+ 2025 IEEE VTC |
 <a href="https://ieeexplore.ieee.org/abstract/document/11174944">Paper</a> |
 <a href="https://github.com/">Project</a>
 
