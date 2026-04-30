@@ -118,3 +118,17 @@ h1:before, .anchor:before {
   display: block;
   margin: auto;
 }
+
+.publication {
+  margin-bottom: 25px;
+  line-height: 1.6;
+}
+
+.publication b {
+  font-size: 17px;
+}
+
+.publication a {
+  text-decoration: none;
+  margin-right: 6px;
+}
