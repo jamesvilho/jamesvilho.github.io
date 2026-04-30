@@ -47,27 +47,21 @@ My research lies at the intersection of machine learning and autonomous systems,
 
 <h1 id="-Publications">📝 Publications</h1>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='images/llmdriver.png' alt="sym" width="100%">
-  </div>
+<div class="publication">
 
-  <div class='paper-box-text' markdown="1">
+<b>Autonomous Driving Planning Based on Large Language Model: Collaborative Driving</b><br>
 
-**Autonomous Driving Planning Based on Large Language Model: Collaborative Driving**
+<b>Vilho James*</b>, Tianhao Liang, Cong Guo, Tingting Zhang
 
-**Vilho James***, <span style="color:#7a8288;">Tianhao Liang, Cong Guo, Tingting Zhang</span>
+<p>
+LLMDriver introduces collaborative reasoning for autonomous driving planning using large language models.
+</p>
 
-LLMDriver addresses the limitations of single-agent systems, lack of negotiation in complex scenarios in autonomous driving.
+Arxiv, 2025 |
+<a href="https://ieeexplore.ieee.org/abstract/document/11174944">Paper</a> |
+<a href="https://github.com/">Project</a>
 
-<div class="pub-links">
-  <a class="pub-btn" href="https://ieeexplore.ieee.org/abstract/document/11174944" target="_blank">📄 Paper</a>
-  <a class="pub-btn" href="https://github.com/" target="_blank">🌐 Project</a>
 </div>
-
-  </div>
-</div>
-
 
 
 
