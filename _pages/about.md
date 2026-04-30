@@ -44,7 +44,7 @@ My research lies at the intersection of machine learning and autonomous systems,
   <li><em>2013.09 - 2017.06</em>, <a href="https://www.upsi.edu.my/"><img class="svg" src="/images/upsi.png" width="23pt" /></a> B.S., Faculty of Computing, Universiti Pendidikan Sultan Idris</li>
 </ul>
 
-<h1 id="publications">🎓 Publications</h1>
+<h1 id="publication">🎓 Publications</h1>
 
 <div class="publication">
 
