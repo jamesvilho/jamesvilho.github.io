@@ -19,11 +19,12 @@ Previously, I received my M.Eng. in Software Engineering from
 [Nankai University](https://www.nankai.edu.cn/) in 2023, advised by  
 [Prof. Mengting Hu](https://hmt2014.github.io/homepage/).
 
-My research lies at the intersection of machine learning and autonomous systems, 
-with a focus on sensor fusion, deep representation learning, generative models, 
+My research lies at the intersection of machine learning and autonomous systems,  
+with a focus on sensor fusion, deep representation learning, generative models,  
 and sensorimotor control for autonomous driving and robotics.  
 
-Currently, I am exploring **Vision-Language-Action (VLA) models** and **closed-loop simulation**.
+Currently, I am exploring **Vision-Language-Action (VLA) models** and  
+**closed-loop simulation**.
 
 ---
 
