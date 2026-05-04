@@ -10,21 +10,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Information and Communication Engineering at the  
-[Guangdong Provincial Key Laboratory of Space-Aerial Networking & Intelligent Sensing](https://sanis-hitsz.github.io/) and  
-[Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/), advised by  
-[Prof. Tingting Zhang](https://homepage.hit.edu.cn/zhangtingting).
+I am a Ph.D. student in Information and Communication Engineering at the [Guangdong Provincial Key Laboratory of Space-Aerial Networking & Intelligent Sensing](https://sanis-hitsz.github.io/) and  
+[Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/), advised by [Prof. Tingting Zhang](https://homepage.hit.edu.cn/zhangtingting).
 
-Previously, I received my M.Eng. in Software Engineering from  
-[Nankai University](https://www.nankai.edu.cn/) in 2023, advised by  
-[Prof. Mengting Hu](https://hmt2014.github.io/homepage/).
-
-My research lies at the intersection of machine learning and autonomous systems,  
-with a focus on sensor fusion, deep representation learning, generative models,  
-and sensorimotor control for autonomous driving and robotics.  
-
-Currently, I am exploring **Vision-Language-Action (VLA) models** and  
-**closed-loop simulation**.
+Previously, I received my M.Eng. in Software Engineering from  [Nankai University](https://www.nankai.edu.cn/) in 2023, advised by  [Prof. Mengting Hu](https://hmt2014.github.io/homepage/).
+My research lies at the intersection of machine learning and autonomous systems, with a focus on sensor fusion, deep representation learning, generative models,  and sensorimotor control for autonomous driving and robotics.  
+Currently, I am exploring **Vision-Language-Action (VLA) models** and  **closed-loop simulation**.
 
 ---
 
