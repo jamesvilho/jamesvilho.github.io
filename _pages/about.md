@@ -10,8 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Information and Communication Engineering at the [Guangdong Provincial Key Laboratory of Space-Aerial Networking & Intelligent Sensing](https://sanis-hitsz.github.io/) and  
-[Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/), advised by [Prof. Tingting Zhang](https://homepage.hit.edu.cn/zhangtingting).
+I am a Ph.D. student in Information and Communication Engineering at the [Guangdong Provincial Key Laboratory of Space-Aerial Networking & Intelligent Sensing](https://sanis-hitsz.github.io/) and [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/), advised by [Prof. Tingting Zhang](https://homepage.hit.edu.cn/zhangtingting).
 
 Previously, I received my M.Eng. in Software Engineering from  [Nankai University](https://www.nankai.edu.cn/) in 2023, advised by  [Prof. Mengting Hu](https://hmt2014.github.io/homepage/).
 My research lies at the intersection of machine learning and autonomous systems, with a focus on sensor fusion, deep representation learning, generative models,  and sensorimotor control for autonomous driving and robotics.  
@@ -30,7 +29,7 @@ Currently, I am exploring **Vision-Language-Action (VLA) models** and  **closed-
 - *2023.09 – Present*, Ph.D., School of Electronics and Information Engineering,  <img src="/images/hit.png" width="20" style="vertical-align:middle;"> Harbin Institute of Technology (Shenzhen)
 - *2021.09 – 2023.06*, M.E., College of Software,  <img src="/images/nankai.png" width="20" style="vertical-align:middle;"> Nankai University
 - *2017.09 – 2019.06*, M.S., Faculty of Computing,  <img src="/images/upsi.png" width="20" style="vertical-align:middle;"> Universiti Pendidikan Sultan Idris
-- *2013.09 – 2017.06*, B.S., Faculty of Computing,  <img src="/images/upsi.png" width="20" style="vertical-align:middle;"> Universiti Pendidikan Sultan Idris<
+- *2013.09 – 2017.06*, B.S., Faculty of Computing,  <img src="/images/upsi.png" width="20" style="vertical-align:middle;"> Universiti Pendidikan Sultan Idris
 
 # 📝 Publications
 
