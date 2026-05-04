@@ -107,18 +107,17 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
-
 /* Make profile avatar circular */
 .author__avatar img {
   border-radius: 50%;
-  width: 180px;
-  height: 180px;
-  object-fit: cover;
+  max-width: 180px;
+  height: auto;
   border: 4px solid #e6e6e6;
   display: block;
   margin: auto;
 }
 
+/* Publication block */
 .publication {
   margin-bottom: 25px;
   line-height: 1.6;
@@ -133,34 +132,17 @@ h1:before, .anchor:before {
   margin-right: 6px;
 }
 
-/* Fix profile layout on mobile */
-@media (max-width: 768px) {
-
-  .author__avatar img {
-    max-width: 120px;
-    height: auto;
-  }
-
-  .author__content {
-    text-align: center;
-  }
-
-  .author__urls {
-    justify-content: center;
-  }
-
-  .page {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-
+/* Improve text readability */
+.page__content {
+  font-size: 16px;
+  line-height: 1.7;
 }
 
+/* Mobile layout fix */
 @media (max-width: 768px) {
 
   .author__avatar img {
     max-width: 120px;
-    height: auto;
   }
 
   .author__content {
@@ -176,7 +158,7 @@ h1:before, .anchor:before {
     padding-right: 1rem;
   }
 
-  /* Fix sidebar stacking */
+  /* Stack sidebar and content */
   .sidebar {
     width: 100%;
     float: none;
@@ -187,8 +169,3 @@ h1:before, .anchor:before {
   }
 
 }
-.page__content {
-  font-size: 16px;
-  line-height: 1.7;
-}
-
