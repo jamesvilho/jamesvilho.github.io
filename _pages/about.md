@@ -24,10 +24,10 @@ Previously, I received my M.Eng. in Software Engineering from  [Nankai Universit
 ---
 # 🎓 Educations
 
-- *2023.09 – Present*, Ph.D.,  <img src="/images/hit.png" width="20" style="vertical-align:middle;"> School of Electronics and Information Engineering,  Harbin Institute of Technology (Shenzhen)
-- *2021.09 – 2023.06*, M.E., <img src="/images/nankai.png" width="20" style="vertical-align:middle;"> College of Software, Nankai University
-- *2017.09 – 2019.06*, M.S., <img src="/images/upsi.png" width="20" style="vertical-align:middle;"> Faculty of Computing,  Universiti Pendidikan Sultan Idris
-- *2013.09 – 2017.06*, B.S., <img src="/images/upsi.png" width="20" style="vertical-align:middle;"> Faculty of Computing,  Universiti Pendidikan Sultan Idris
+- *2023.09 – Present*, <span style='display:inline-block; min-width:4.5em;'> Ph.D.<img src="/images/hit.png" style='width: 25px; height: 25px; object-fit: contain; vertical-align: middle; margin-right:0px;'> School of Electronics and Information Engineering,  Harbin Institute of Technology (Shenzhen)
+- *2021.09 – 2023.06*, <span style='display:inline-block; min-width:2.95em;'> M.E. <img src="/images/nankai.png" style='width: 25px; height: 25px; object-fit: contain; vertical-align: middle; margin-right:0px;'> College of Software, Nankai University
+- *2017.09 – 2019.06*, <span style='display:inline-block; min-width:3em;'>M.S. <img src="/images/upsi.png" style='width: 25px; height: 25px; object-fit: contain; vertical-align: middle; margin-right:0px;'> Faculty of Computing,  Universiti Pendidikan Sultan Idris
+- *2013.09 – 2017.06*, <span style='display:inline-block; min-width:3em;'>B.S. <img src="/images/upsi.png" style='width: 25px; height: 25px; object-fit: contain; vertical-align: middle; margin-right:0px;'> Faculty of Computing,  Universiti Pendidikan Sultan Idris
 
 # 📝 Publications
 
