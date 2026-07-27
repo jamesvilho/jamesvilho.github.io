@@ -45,8 +45,8 @@ Previously, I received my M.Eng. in Software Engineering from  [Nankai Universit
 <!-- We propose a multi-modal transformer fusion framework that integrates large language models with autonomous driving perception and planning for closed-loop decision making. -->
 
 <div style="margin-bottom: 0.8em;">
-<a href="https://ieeexplore.ieee.org/">
-IEEE Transactions on Intelligent Vehicles (T-IV), 2026
+<a href="https://events.vtsociety.org/vtc2025-spring/">
+IEEE VTC 2025
 </a>
 </div>
 
@@ -61,12 +61,11 @@ IEEE Transactions on Intelligent Vehicles (T-IV), 2026
 </a> |
 
 <a href="">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=social&label=Code&logoColor=2c4a88" 
+<img src="" 
 alt="Code" 
 style="height: 21.6px; width: auto; vertical-align: -25.7%;" />
 </a>
 
-</span>
 
 </div>
 </div>
