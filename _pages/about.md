@@ -24,10 +24,10 @@ Previously, I received my M.Eng. in Software Engineering from  [Nankai Universit
 ---
 # 🎓 Educations
 
-- *2023.09 – Present*, Ph.D., School of Electronics and Information Engineering,  <img src="/images/hit.png" width="20" style="vertical-align:middle;"> Harbin Institute of Technology (Shenzhen)
-- *2021.09 – 2023.06*, M.E., College of Software,  <img src="/images/nankai.png" width="20" style="vertical-align:middle;"> Nankai University
-- *2017.09 – 2019.06*, M.S., Faculty of Computing,  <img src="/images/upsi.png" width="20" style="vertical-align:middle;"> Universiti Pendidikan Sultan Idris
-- *2013.09 – 2017.06*, B.S., Faculty of Computing,  <img src="/images/upsi.png" width="20" style="vertical-align:middle;"> Universiti Pendidikan Sultan Idris
+- *2023.09 – Present*, Ph.D.,  <img src="/images/hit.png" width="20" style="vertical-align:middle;"> School of Electronics and Information Engineering,  Harbin Institute of Technology (Shenzhen)
+- *2021.09 – 2023.06*, M.E., <img src="/images/nankai.png" width="20" style="vertical-align:middle;"> College of Software, Nankai University
+- *2017.09 – 2019.06*, M.S., <img src="/images/upsi.png" width="20" style="vertical-align:middle;"> Faculty of Computing,  Universiti Pendidikan Sultan Idris
+- *2013.09 – 2017.06*, B.S., <img src="/images/upsi.png" width="20" style="vertical-align:middle;"> Faculty of Computing,  Universiti Pendidikan Sultan Idris
 
 # 📝 Publications
 
