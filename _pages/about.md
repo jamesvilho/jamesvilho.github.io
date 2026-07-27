@@ -52,15 +52,15 @@ IEEE Transactions on Intelligent Vehicles (T-IV), 2026
 
 <span style="display:inline-block; margin-left:-3px;">
 
-<a href="YOUR_PAPER_LINK">
+<a href="https://ieeexplore.ieee.org/abstract/document/11174944">
 <img src='images/llmdriver.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>
 </a> |
 
-<a href="YOUR_PROJECT_PAGE">
+<a href="">
 <img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>
 </a> |
 
-<a href="YOUR_GITHUB_LINK">
+<a href="">
 <img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=social&label=Code&logoColor=2c4a88" 
 alt="Code" 
 style="height: 21.6px; width: auto; vertical-align: -25.7%;" />
