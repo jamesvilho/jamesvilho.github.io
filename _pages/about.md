@@ -56,15 +56,8 @@ IEEE VTC 2025
 <img src='images/llmdriver.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>
 </a> |
 
-<a href="">
-<img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>
-</a> |
 
-<a href="">
-<img src="" 
-alt="Code" 
-style="height: 21.6px; width: auto; vertical-align: -25.7%;" />
-</a>
+
 
 
 </div>
