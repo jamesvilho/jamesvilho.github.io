@@ -33,50 +33,43 @@ Previously, I received my M.Eng. in Software Engineering from  [Nankai Universit
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-<img src='images/llmdriver_demo.gif' alt="sym" width="100%">
+<img src='images/llmdriver.png' alt="sym" width="100%">
 </div>
 
 <div class='paper-box-text' markdown="1">
 
-**Autonomous Driving Planning Based on Large Language Model: Collaborative Driving**
+**Leveraging Large Language Models with Multi-Modal Transformer Fusion for Closed-Loop Autonomous Driving**
 
-**Vilho James***, <span style="color:#7a8288;">Tianhao Liang, Cong Guo, Tingting Zhang</span>
+**Vilho James**, <span style="color:#7a8288;">Yuqi Ping, Guangyu Lei, Tianhao Liang, Tingting Zhang</span>
 
-<!-- LLMDriver addresses the limitations of single-agent systems and lack of negotiation in complex autonomous driving scenarios. -->
+<!-- We propose a multi-modal transformer fusion framework that integrates large language models with autonomous driving perception and planning for closed-loop decision making. -->
 
 <div style="margin-bottom: 0.8em;">
-<a href="https://ieeexplore.ieee.org/abstract/document/11174944">
-IEEE T-IV, 2026
+<a href="https://ieeexplore.ieee.org/">
+IEEE Transactions on Intelligent Vehicles (T-IV), 2026
 </a>
 </div>
 
 <span style="display:inline-block; margin-left:-3px;">
 
-<a href="https://ieeexplore.ieee.org/abstract/document/11174944">
-<img src='images/llmdriver.png' style='width:auto; height:23px; vertical-align:-30%; margin-right:0px;'>
-</a>
+<a href="YOUR_PAPER_LINK">
+<img src='images/llmdriver.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>
+</a> |
 
-|
+<a href="YOUR_PROJECT_PAGE">
+<img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>
+</a> |
 
-<a href="">
-<img src='images/project.png' style='width:auto; height:23px; vertical-align:-30%; margin-right:0px;'>
-</a>
-
-|
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO">
-<span style="display:inline-block; width:60px; overflow:hidden; vertical-align:-12%; line-height:0; position:relative; top:6px;">
+<a href="YOUR_GITHUB_LINK">
 <img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=social&label=Code&logoColor=2c4a88" 
 alt="Code" 
-style="height:21.6px; width:auto; max-width:none; display:block;" />
-</span>
+style="height: 21.6px; width: auto; vertical-align: -25.7%;" />
 </a>
 
 </span>
 
 </div>
 </div>
-
 
 # 🏅 Honours and Recognitions
 
