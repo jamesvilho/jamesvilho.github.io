@@ -33,14 +33,19 @@ Previously, I received my M.Eng. in Software Engineering from  [Nankai Universit
 
 **Autonomous Driving Planning Based on Large Language Model: Collaborative Driving**
 
-**Vilho James\***, Tianhao Liang, Cong Guo, Tingting Zhang  
+**Vilho James\***, <span style="color:#7a8288;">Tianhao Liang, Cong Guo, Tingting Zhang  </span>
 
-LLMDriver addresses the limitations of single-agent systems and lack of negotiation in complex autonomous driving scenarios.
+<!-- LLMDriver addresses the limitations of single-agent systems and lack of negotiation in complex autonomous driving scenarios.-->
 
 IEEE VTC 2025  
 [Paper](https://ieeexplore.ieee.org/abstract/document/11174944) | [Project](https://github.com/)
 
+<span style="display:inline-block; margin-left:-3px;"><a href="https://ieeexplore.ieee.org/abstract/document/11174944"><img src='images/llmdriver.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href=""><img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://github.com/motional/SpanVLA"><span style="display:inline-block; width:60px; overflow:hidden; vertical-align:-12%; line-height:0; position:relative; top:6px;"><img src="https://img.shields.io/github/stars/motional/SpanVLA?style=social&label=Code&logoColor=2c4a88" alt="Code" style="height: 21.6px; width: auto; max-width:none; display:block;" /></span></a></span>
+
 ---
+
+
+
 
 # 🏅 Honours and Recognitions
 
