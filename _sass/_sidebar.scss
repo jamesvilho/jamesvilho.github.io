@@ -78,12 +78,12 @@
   align-items: center;
 }
 
-.author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 75px;
-  // set width only, for non-square avatars
-  // height: 36px;
+
+
+.author__avatar img {
+    max-width: 75px;
+    border-radius: 50%;
+}
 
   @include breakpoint($large) {
     display: block;
