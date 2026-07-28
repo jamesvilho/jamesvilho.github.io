@@ -38,7 +38,7 @@ Previously, I received my M.Eng. in Software Engineering from  [Nankai Universit
 
 <div class='paper-box-text' markdown="1">
 
-**Leveraging Large Language Models with Multi-Modal Transformer Fusion for Closed-Loop Autonomous Driving**
+**Autonomous Driving Planning Based on Large Language Model: Collaborative Driving**
 
 **Vilho James**, <span style="color:#7a8288;">Yuqi Ping, Guangyu Lei, Tianhao Liang, Tingting Zhang</span>
 
