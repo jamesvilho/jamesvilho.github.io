@@ -39,7 +39,7 @@
   }
 
   p, li {
-    font-family: $serif;
+    font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
   }
@@ -77,7 +77,6 @@
   align-content: flex-start;
   align-items: center;
 }
-
 
 .author__avatar {
   display: table-cell;
@@ -133,8 +132,18 @@
   @include breakpoint($medium) {
     font-size: $type-size-3;
   }
-  font-family: $serif;
+  font-family: $sans-serif;
   font-size: $type-size-4;
+  color: $text-color;
+}
+
+.sidebar .author__name .name-zh {
+  display: inline-block;
+  margin-top: 0.15em;
+  /* Handwritten Chinese with practical fallbacks. */
+  font-family: "Ma Shan Zheng", "STKaiti", "Kaiti SC", "KaiTi", "PingFang SC", "Noto Sans SC", sans-serif;
+  font-size: 0.9em;
+  line-height: 1.15;
 }
 
 .author__bio {
@@ -146,11 +155,19 @@
   }
 }
 
+.sidebar .author__content,
+.sidebar .author__bio,
+.sidebar .author__urls-wrapper,
+.sidebar .author__urls,
+.sidebar .author__urls_sm {
+  color: mix(#fff, $text-color, 2%);
+}
+
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $serif;
+  font-family: $sans-serif;
   z-index: 10;
   position: relative;
   margin-left: auto;
