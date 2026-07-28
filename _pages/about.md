@@ -51,11 +51,14 @@ IEEE VTC 2025
 </div>
 
 
-<span style="display:inline-block; margin-left:-3px;"><a href="https://ieeexplore.ieee.org/abstract/document/11174944"><img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href=""><img src='' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href=""><img src="" alt="Code" style="height: 21.6px; width: auto; vertical-align: -25.7%;" /></a></span>
+<span style="display:inline-block; margin-left:-3px;"><a href="https://ieeexplore.ieee.org/abstract/document/11174944"><img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> </span>
 
 
 </div>
 </div>
+
+
+
 
 # 🏅 Honours and Recognitions
 
